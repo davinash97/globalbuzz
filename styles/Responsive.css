@@ -1,0 +1,37 @@
+@media screen and (max-width: 750px){
+    select {
+        height: 30px;
+    }
+    .heading {
+        flex-direction: column;
+    }
+    #thumbnail {
+        width: 80%;
+        margin: 0 auto;
+    }
+    #newsElement {
+        gap: 10px;
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .topHeadlineSearch {
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+}
+
+@media screen and (max-width: 500px){
+    #topHeadlinesIMG {
+        height: 30svh;
+        width: 100%;
+    }
+    #headlineTitle {
+        font-size: 1em;
+    }
+    #thumbnail {
+        height: 40svh;
+        width: 60svw;
+    }
+}
