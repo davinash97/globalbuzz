@@ -1,0 +1,266 @@
+{
+	"status": "ok",
+	"totalResults": 36,
+	"articles": [
+		{
+			"source": {
+				"id": null,
+				"name": "BBC News"
+			},
+			"author": null,
+			"title": "Key takeaways: What you missed from Harris' NBC interview - BBC.com",
+			"description": "Harris answered questions about Joe Biden's dropping out of the race and whether she would pardon Donald Trump.",
+			"url": "https://www.bbc.com/news/articles/cq646evy26go",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7dd7/live/b9ca87b0-90d0-11ef-bd1a-9ff4ed9729d9.jpg",
+			"publishedAt": "2024-10-23T07:23:54Z",
+			"content": "Vice-President Kamala Harris and her team are prepared if her opponent, Donald Trump, declares victory in the presidential election before all ballots are counted, she told NBC News. \r\nThe interview … [+4132 chars]"
+		},
+		{
+			"source": {
+				"id": "cnn",
+				"name": "CNN"
+			},
+			"author": "Eric Bradner, Kate Sullivan",
+			"title": "Trump’s former chief of staff says he fits ‘fascist’ definition and prefers ‘dictator approach’ - CNN",
+			"description": "John Kelly, the retired Marine general who was Donald Trump’s White House chief of staff, entered the 2024 fray in stunning fashion, saying the former president fits “into the general definition of fascist” and wanted the “kind of generals Hitler had” in a se…",
+			"url": "https://www.cnn.com/2024/10/22/politics/trump-fascist-john-kelly/index.html",
+			"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-633182036.jpg?c=16x9&q=w_800,c_fill",
+			"publishedAt": "2024-10-23T06:05:00Z",
+			"content": "John Kelly, the retired Marine general who was Donald Trumps White House chief of staff, entered the 2024 fray in stunning fashion, saying the former president fits into the general definition of fas… [+7758 chars]"
+		},
+		{
+			"source": {
+				"id": "associated-press",
+				"name": "Associated Press"
+			},
+			"author": "GREG BEACHAM",
+			"title": "LeBron and Bronny James make history as the NBA’s first father-son duo to play together - The Associated Press",
+			"description": "LeBron James and Bronny James became the first father and son to play in the NBA together when they checked into the game together in the second quarter of the Los Angeles Lakers’ season opener. LeBron James is the 39-year-old top scorer in NBA history, while…",
+			"url": "https://apnews.com/article/lebron-bronny-james-lakers-d7caaeb000ad736e9745b436ca123448",
+			"urlToImage": "https://dims.apnews.com/dims4/default/5428c61/2147483647/strip/true/crop/5824x3276+0+304/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc2%2Fe7%2F78f45c4a06504a56f2f823893cca%2F6c747e9b72e049e8a19623c8993dd5ce",
+			"publishedAt": "2024-10-23T06:00:00Z",
+			"content": "LOS ANGELES (AP) LeBron James gave his 20-year-old son a pep talk before they rose from the Lakers bench. Amid rising cheers, they walked together to the scorers table and then they stepped straight … [+6999 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Financial Times"
+			},
+			"author": null,
+			"title": "Donald Trump accuses UK Labour party of interference in White House race - Financial Times",
+			"description": "Republican ex-president files legal complaint with US’s federal election authority",
+			"url": "https://www.ft.com/content/f404c6fc-1ba6-4a4a-bf04-5b05658a2530",
+			"urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F52dff144-9227-417a-8ccb-0f8be2d6feed.jpg?source=next-barrier-page",
+			"publishedAt": "2024-10-23T05:03:52Z",
+			"content": "FT newspaper delivered Monday-Saturday, plus FT Digital Edition delivered to your device Monday-Saturday.\r\n<ul><li></li>Weekday Print Edition<li></li>FT Weekend<li></li>FT Digital Edition<li>Global n… [+105 chars]"
+		},
+		{
+			"source": {
+				"id": "axios",
+				"name": "Axios"
+			},
+			"author": "Kelly Tyko",
+			"title": "McDonald's Quarter Pounders linked to E. coli outbreak, CDC says - Axios",
+			"description": "An E. coli outbreak linked to McDonald's Quarter Pounders has left one person dead and caused 10 hospitalizations, according to the CDC.",
+			"url": "https://www.axios.com/2024/10/22/mcdonalds-quarter-pounder-outbreak-e-coli",
+			"urlToImage": "https://images.axios.com/itHcDzyImJz-xXQ4uXrkT0Lxfno=/0x209:3000x1896/1366x768/2024/10/22/1729629781656.jpg",
+			"publishedAt": "2024-10-23T04:14:08Z",
+			"content": "An E. coli outbreak linked to McDonald's Quarter Pounders has left one person dead and caused 10 hospitalizations, the CDC said Tuesday.\r\nThe big picture: There are 49 cases in 10 states, the CDC sai… [+2837 chars]"
+		},
+		{
+			"source": {
+				"id": "associated-press",
+				"name": "Associated Press"
+			},
+			"author": "THE ASSOCIATED PRESS",
+			"title": "Middle East latest: Israel says it killed a Hezbollah official expected to be group’s next head - The Associated Press",
+			"description": "The Israeli military says a top Hezbollah official who was widely expected to be the group’s next leader was killed in an Israeli airstrike in southern Beirut in early October. Hashem Safieddine was expected to succeed Hassan Nasrallah, one of the group’s fou…",
+			"url": "https://apnews.com/article/israel-hamas-hezbollah-mideast-latest-22-october-2024-9fc49430fd9824a0143b3ba6dd0f0d6c",
+			"urlToImage": "https://dims.apnews.com/dims4/default/5349ba9/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd4%2F9e%2F82e552db5ac609cceade0034b01a%2F2fc6633b7c904174a10b4331e2b9e36a",
+			"publishedAt": "2024-10-23T03:51:00Z",
+			"content": "The Israeli military said Tuesday a top Hezbollah official who had been widely expected to be the groups next leader was killed in an Israeli airstrike in southern Beirut in early October.\r\nHashem Sa… [+24442 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "WISN Milwaukee"
+			},
+			"author": "Amy Fleury",
+			"title": "High turnout on opening day of in-person absentee voting causes delays - WISN Milwaukee",
+			"description": "Voters from around Southeast Wisconsin reported long lines and delays at voting locations",
+			"url": "https://www.wisn.com/article/high-voter-turnout-opening-day-in-person-voting-absentee-voting-causes-delays/62685954",
+			"urlToImage": "https://kubrick.htvapps.com/vidthumb/75032c45-c5e8-46cd-ae1f-727d435a67ea/79eb05bd-9a33-4246-80aa-ab7c4e670dbc.jpg?crop=0.532xw:0.530xh;0.382xw,0.249xh&resize=1200:*",
+			"publishedAt": "2024-10-23T03:37:00Z",
+			"content": "MILWAUKEE —Early in-person absentee voting began Tuesday morning in Wisconsin with long lines and delays.\r\nWISN 12 News saw people lined up in downtown Milwaukee at the Zeidler Municipal Building Tue… [+3491 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "POLITICO.eu"
+			},
+			"author": "Giselle Ruhiyyih Ewing",
+			"title": "Zelenskyy asks allies to act on reports of North Korean troops helping Russia - POLITICO Europe",
+			"description": "Ukraine’s president cites reports of up to 12,000 troops training for deployment with Putin’s forces, calls for “firm, concrete response.”",
+			"url": "https://www.politico.eu/article/volodymyr-zelenskyy-allies-north-korean-troops/",
+			"urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/10/23/GettyImages-2173571774-scaled.jpg",
+			"publishedAt": "2024-10-23T03:36:00Z",
+			"content": "Ukrainian President Volodymyr Zelenskyy called on global allies not to \"shy away\" from responding to reports that Pyongyang is supplying troops to help Russia wage war on Ukraine, saying late Tuesday… [+891 chars]"
+		},
+		{
+			"source": {
+				"id": "al-jazeera-english",
+				"name": "Al Jazeera English"
+			},
+			"author": "Sarah Shamim",
+			"title": "Russia’s BRICS summit: What’s on the agenda and why it matters to Putin - Al Jazeera English",
+			"description": "The summit, which leaders from two dozen nations will attend, is the largest event Russia has hosted in years.",
+			"url": "https://www.aljazeera.com/news/2024/10/22/russias-brics-summit-whats-on-the-agenda-and-why-does-it-matter",
+			"urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/10/AFP__20241022__36KF29V__v1__HighRes__RussiaBricsDiplomacy-1729588001.jpg?resize=1920%2C1440",
+			"publishedAt": "2024-10-23T03:27:33Z",
+			"content": "Russian President Vladimir Putin is hosting the annual BRICS summit, which started on Tuesday, in Russias southwestern city of Kazan.\r\nThe three-day conclave will be the largest gathering of world le… [+8294 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Vulture"
+			},
+			"author": "Jennifer Zhan",
+			"title": "‘Blindsided’ Brianna Chickenfry Confirms Zach Bryan Breakup - Vulture",
+			"description": "Brianna Chickenfry says Zach Bryan didn’t give her a head’s up before posting about their breakup on his Instagram Story. Here’s what to know, including what else a ‘blindsided’ Chickenfry has said and why people are bringing up the dating app Raya.",
+			"url": "http://www.vulture.com/article/zach-bryan-brianna-chickenfry-breakup-drama-explained.html",
+			"urlToImage": "https://pyxis.nymag.com/v1/imgs/64f/f48/d030ecc47da5bb11535242ade3450c2a6c-zachbri.1x.rsocial.w1200.jpg",
+			"publishedAt": "2024-10-23T03:22:03Z",
+			"content": "Zach Bryan and Brianna Chickenfry LaPaglia have broken up after more than a year of dating but it doesnt seem like she was ready for us to know that yet. On October 22, Bryan wrote in an Instagram St… [+3615 chars]"
+		},
+		{
+			"source": {
+				"id": "cnn",
+				"name": "CNN"
+			},
+			"author": "Jeff Zeleny, Ali Main",
+			"title": "Obama recalls Trump’s 2020 election chaos while campaigning for Harris in Michigan - CNN",
+			"description": "Former President Barack Obama on Tuesday evening recalled the chaos and violence former President Donald Trump stoked in Detroit in the wake of the 2020 election as he made his case for Michigan voters to mobilize in support of Vice President Kamala Harris.",
+			"url": "https://www.cnn.com/2024/10/22/politics/obama-rally-for-harris-detroit-trump/index.html",
+			"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2179594923.jpg?c=16x9&q=w_800,c_fill",
+			"publishedAt": "2024-10-23T03:19:00Z",
+			"content": "Former President Barack Obama on Tuesday evening recalled the chaos and violence former President Donald Trump stoked in Detroit in the wake of the 2020 election as he made his case for Michigan vote… [+4184 chars]"
+		},
+		{
+			"source": {
+				"id": "espn",
+				"name": "ESPN"
+			},
+			"author": null,
+			"title": "Dodgers legendary pitcher Valenzuela dies at 63 - ESPN",
+			"description": "Fernando Valenzuela, the impetus behind \"Fernandomania\" while starring for the Los Angeles Dodgers in the 1980s, has died at the age of 63.",
+			"url": "https://www.espn.com/mlb/story/_/id/41952316/dodgers-legendary-pitcher-fernando-valenzuela-dies-63",
+			"urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0812%2Fr1209503_1296x729_16%2D9.jpg",
+			"publishedAt": "2024-10-23T02:59:00Z",
+			"content": "Oct 22, 2024, 10:59 PM ET\r\nFernando Valenzuela, the impetus behind \"Fernandomania\" while winning National League Cy Young Award and Rookie of the Year honors in 1981 as the Los Angeles Dodgers won th… [+8024 chars]"
+		},
+		{
+			"source": {
+				"id": "reuters",
+				"name": "Reuters"
+			},
+			"author": "Ankur Banerjee",
+			"title": "Stocks stumble, dollar and gold rise as traders weigh US rates, election - Reuters",
+			"description": "Gold prices hit a record high on Wednesday and the dollar was on the rise again, keeping pressure on the yen and the euro, while Asian stocks inched higher as investors were reluctant to place major bets ahead of a hotly contested U.S. election.",
+			"url": "https://www.reuters.com/markets/global-markets-wrapup-1-2024-10-23/",
+			"urlToImage": "https://www.reuters.com/resizer/v2/5MZM3ZEPQNPEJIQFZWY5ESEUKY.jpg?auth=f78cb16ce0df19b200c474cfb10936d2e7ac2d43bdd241ab5096ba99a884abc6&height=1005&width=1920&quality=80&smart=true",
+			"publishedAt": "2024-10-23T02:22:00Z",
+			"content": null
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Variety"
+			},
+			"author": "Emily Longeretta",
+			"title": "‘Dancing With the Stars’: Fan Favorite Gets Sent Home as Disney Night Receives Record Number of Audience Votes - Variety",
+			"description": "A fan favorite celebrity went home on \"Dancing With the Stars\" as Disney Night set a new record number of fan votes.",
+			"url": "https://variety.com/2024/tv/news/dancing-with-the-stars-phaedra-parks-eliminated-disney-night-record-1236186859/",
+			"urlToImage": "https://variety.com/wp-content/uploads/2024/10/174296_EM101581.jpg?w=1000&h=563&crop=1",
+			"publishedAt": "2024-10-23T02:05:00Z",
+			"content": "Disney Night never disappoints on “Dancing With the Stars.” During the Oct. 22 episode, the duos pushed for the first 10 of the season — especially after two pairs tied at the top of the leaderboards… [+2296 chars]"
+		},
+		{
+			"source": {
+				"id": "espn",
+				"name": "ESPN"
+			},
+			"author": "Tim Bontemps",
+			"title": "Celtics tie 3-point record, hit 'lid' pursuing mark - ESPN",
+			"description": "The Celtics spent the end of Tuesday's win over the Knicks attempting to break the NBA's single-game 3-point record after tying it with 29 early in the fourth quarter.",
+			"url": "https://www.espn.com/nba/story/_/id/41951567/celtics-bury-knicks-tie-nba-3-point-record-29",
+			"urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1023%2Fr1404418_1296x729_16%2D9.jpg",
+			"publishedAt": "2024-10-23T02:01:00Z",
+			"content": "BOSTON -- The Celtics and New York Knicks took the court for the opening game of the NBA season Tuesday night, a clash that Jalen Brunson said Tuesday morning was a fair barometer -- despite being th… [+4454 chars]"
+		},
+		{
+			"source": {
+				"id": "newsweek",
+				"name": "Newsweek"
+			},
+			"author": "Kaitlin Lewis",
+			"title": "Tulsi Gabbard Turning Republican Is 'Surprise' to Donald Trump - Newsweek",
+			"description": "Gabbard announced she is joining the GOP while speaking at Trump's rally in North Carolina on Tuesday.",
+			"url": "https://www.newsweek.com/tulsi-gabbard-donald-trump-republican-party-1973340",
+			"urlToImage": "https://d.newsweek.com/en/full/2501961/tulsi-gabbard-flipping-republican-suprise-totrump.jpg",
+			"publishedAt": "2024-10-23T01:49:05Z",
+			"content": "Former U.S. Representative Tulsi Gabbard, a longtime Democrat from Hawaii before turning independent in 2022, said that she has decided to join the Republican Party.\r\nGabbard made the announcement wh… [+3223 chars]"
+		},
+		{
+			"source": {
+				"id": "the-hill",
+				"name": "The Hill"
+			},
+			"author": "Tara Suter",
+			"title": "Bird flu infects four in Washington state; CDC deploys team - The Hill",
+			"description": "Bird flu has possibly infected four agricultural workers in Washington state, according to the Washington State Department of Health. In a press release Sunday, the Washington State Department of Health said the “workers tested presumptively positive for avia…",
+			"url": "https://thehill.com/policy/healthcare/4948173-bird-flu-infects-four-washington-state/",
+			"urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/07/Health-Heat-Chickens_102115_AP_Charlie-Neibergall.jpg?w=1280",
+			"publishedAt": "2024-10-23T01:36:00Z",
+			"content": "Skip to content\r\nBird flu has possibly infected four agricultural workers in Washington state, according to the Washington State Department of Health.\r\nIn a press release Sunday, the Washington State… [+1633 chars]"
+		},
+		{
+			"source": {
+				"id": "ars-technica",
+				"name": "Ars Technica"
+			},
+			"author": "Stephen Clark",
+			"title": "Space Force official expects to certify Vulcan rocket despite nozzle failure - Ars Technica",
+			"description": "“It was a successful Cert flight, and now we’re knee deep in finalizing certification.”…",
+			"url": "https://arstechnica.com/space/2024/10/space-force-official-expects-to-certify-vulcan-rocket-despite-nozzle-failure/",
+			"urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/54086900800_5a4a678f65_k.jpg",
+			"publishedAt": "2024-10-23T01:29:04Z",
+			"content": null
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "YouTube"
+			},
+			"author": null,
+			"title": "Apple’s Craig Federighi Explains Apple Intelligence Delays, Siri’s Future and More | WSJ - The Wall Street Journal",
+			"description": null,
+			"url": "https://www.youtube.com/watch?v\\\\u003dfr8ALcEiYAk",
+			"urlToImage": null,
+			"publishedAt": "2024-10-23T01:00:24Z",
+			"content": "{\"en\":{\"access_disabled\":\"Internet access has been disabled on this device\",\"code\":\"Code\",\"custom_block_list\":\"it is on a custom block list\",\"email\":\"Email\",\"file_ext_blocked\":\"the file extension is … [+4231 chars]"
+		},
+		{
+			"source": {
+				"id": "reuters",
+				"name": "Reuters"
+			},
+			"author": "Jack Queen",
+			"title": "Georgia's top court deals setback to Trump allies in ballot hand-count case - Reuters",
+			"description": "The decision also means that county-level officials in the state will not have enhanced authority to challenge precinct-level results.",
+			"url": "https://www.reuters.com/legal/georgias-top-court-wont-fast-track-appeal-blocked-election-rules-case-2024-10-22/",
+			"urlToImage": "https://www.reuters.com/resizer/v2/T43IPK62QFMYVCR73TH426BUJM.jpg?auth=a51474d1a58a2e90288fe8ac3f919e39a9ca2ac54f4d96bdb175bb1d48c5978c&height=1005&width=1920&quality=80&smart=true",
+			"publishedAt": "2024-10-23T00:18:00Z",
+			"content": null
+		}
+	]
+}

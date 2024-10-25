@@ -1,101 +1,310 @@
-import Image from "next/image";
+"use client";
+
+import { useEffect, useState } from "react";
+import FilmStripChild from "./components/FilmStrip_Child";
+import Headlines from "./components/Headlines";
 
 export default function Home() {
-  return (
-    <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-      <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-          <li className="mb-2">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
-              src/app/page.js
-            </code>
-            .
-          </li>
-          <li>Save and see your changes instantly.</li>
-        </ol>
 
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:min-w-44"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
-        </div>
-      </main>
-      <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
-    </div>
-  );
+	// Headline
+	const [headlines, setHeadline] = useState([]);
+
+	// Business
+	const [business, setBusiness] = useState([]);
+
+	// Finance
+	const [finance, setFinance] = useState([]);
+
+	// Education
+	const [education, setEducation] = useState([]);
+
+	// Technology
+	const [technology, setTechnology] = useState([]);
+
+	// Innovation
+	const [innovation, setInnovation] = useState([]);
+
+	// Travel
+	const [travel, setTravel] = useState([]);
+
+	// Culture
+	const [culture, setCulture] = useState([]);
+
+	useEffect(() => {
+		const fetchData = async () => {
+			try {
+				const [headlineRes, businessRes, financeRes, educationRes, technologyRes, innovationRes, travelRes, cultureRes] = await Promise.all([
+					fetch("/news/headline.json"),
+					fetch("/news/business.json"),
+					fetch("/news/finance.json"),
+					fetch("/news/education.json"),
+					fetch("/news/technology.json"),
+					fetch("/news/innovation.json"),
+					fetch("/news/travel.json"),
+					fetch("/news/culture.json"),
+				]);
+
+				const [headlineData, businessData, financeData, educationData, technologyData, innovationData, travelData, cultureData] = await Promise.all([
+					headlineRes.json(),
+					businessRes.json(),
+					financeRes.json(),
+					educationRes.json(),
+					technologyRes.json(),
+					innovationRes.json(),
+					travelRes.json(),
+					cultureRes.json(),
+				]);
+
+				setHeadline(headlineData.articles || []);
+				setBusiness(businessData.articles || []);
+				setFinance(financeData.articles || []);
+				setEducation(educationData.articles || []);
+				setTechnology(technologyData.articles || []);
+				setInnovation(innovationData.articles || []);
+				setTravel(travelData.articles || []);
+				setCulture(cultureData.articles || []);
+			} catch (error) {
+				console.error("Error fetching data: ", error);
+			}
+		}
+
+		fetchData();
+	}, [])
+
+	// Headline
+	// const [headlines, setHeadline] = useState([]);
+
+	// useEffect(() => {
+	//   const fetchData = async () => {
+	//     const response = await fetch("/headline.json");
+	//     const data = await response.json();
+	//     setHeadline(data.articles);
+	//   };
+
+	//   fetchData();
+	// }, []);
+
+	// Business
+
+	// const [business, setBusiness] = useState([]);
+
+	// useEffect(() => {
+	//   const fetchData = async () => {
+	//     const response = await fetch("/business.json");
+	//     const data = await response.json();
+	//     setBusiness(data.articles);
+	//   };
+
+	//   fetchData();
+	// }, []);
+
+	// Finance
+	// const [finance, setFinance] = useState([]);
+
+	// useEffect(() => {
+	//   const fetchData = async () => {
+	//     const response = await fetch("/finance.json");
+	//     const data = await response.json();
+	//     setFinance(data.articles);
+	//   };
+
+	//   fetchData();
+	// }, []);
+
+	return (<>
+		<header className="fixed top-0 text-right w-screen bg-background" style={{zIndex: 3, paddingRight: "50px"}}>Global Buzz</header>
+		<main className="p-5 flex flex-col gap-5 my-8">
+			<br />
+			{/* Trending */}
+			<section>
+				<h2 className="heading">Headlines</h2>
+				<div className="filmstrip-container hide-scrollbar">
+					{headlines.map((item, index) => (
+						(!item.urlToImage) ? null : (
+							<FilmStripChild
+								key={index}
+								url={item.url}
+								src={item.urlToImage}
+								alt={item.title}
+								width={450}
+								height={450}
+								heading={item.title}
+							/>
+						)
+					))}
+				</div>
+				<h3 className="text-right">Scroll here &#62;&#62;</h3>
+			</section>
+
+			{/* Business */}
+			<section>
+				<h2>Business</h2>
+				<div className="filmstrip-container hide-scrollbar">
+					{business.map((item, index) => (
+						(!item.urlToImage) ? null : (
+							<FilmStripChild
+								key={index}
+								url={item.url}
+								src={item.urlToImage}
+								alt={item.title}
+								width={450}
+								height={450}
+								heading={item.title}
+							/>
+						)
+					))}
+				</div>
+				<h3 className="text-right">Scroll here &#62;&#62;</h3>
+			</section>
+
+			{/* Finance */}
+			<section>
+				<h2>Finance</h2>
+				<div className="filmstrip-container hide-scrollbar">
+					{finance.map((item, index) => (
+						(!item.urlToImage || item.title.includes("[Sponsor]")) ? null : (
+							<FilmStripChild
+								key={index}
+								url={item.url}
+								src={item.urlToImage}
+								alt={item.title}
+								width={450}
+								height={450}
+								heading={item.title}
+							/>
+						)
+					))}
+				</div>
+				<h3 className="text-right">Scroll here &#62;&#62;</h3>
+			</section>
+
+			{/* Education */}
+			<section>
+				<h2>Education</h2>
+				<div className="filmstrip-container hide-scrollbar">
+					{education.map((item, index) => (
+						(!item.urlToImage || item.title.includes("[Sponsor]")) ? null : (
+							<FilmStripChild
+								key={index}
+								url={item.url}
+								src={item.urlToImage}
+								alt={item.title}
+								width={450}
+								height={450}
+								heading={item.title}
+							/>
+						)
+					))}
+				</div>
+				<h3 className="text-right">Scroll here &#62;&#62;</h3>
+			</section>
+
+			{/* Technology */}
+			<section>
+				<h2>Technology</h2>
+				<div className="filmstrip-container hide-scrollbar">
+					{technology.map((item, index) => (
+						(!item.urlToImage || item.title.includes("[Sponsor]")) ? null : (
+							<FilmStripChild
+								key={index}
+								url={item.url}
+								src={item.urlToImage}
+								alt={item.title}
+								width={450}
+								height={450}
+								heading={item.title}
+							/>
+						)
+					))}
+				</div>
+				<h3 className="text-right">Scroll here &#62;&#62;</h3>
+			</section>
+
+			{/* Innovation */}
+			<section>
+				<h2>Innovation</h2>
+				<div className="filmstrip-container hide-scrollbar">
+					{innovation.map((item, index) => (
+						(!item.urlToImage || item.title.includes("[Sponsor]")) ? null : (
+							<FilmStripChild
+								key={index}
+								url={item.url}
+								src={item.urlToImage}
+								alt={item.title}
+								width={450}
+								height={450}
+								heading={item.title}
+							/>
+						)
+					))}
+				</div>
+				<h3 className="text-right">Scroll here &#62;&#62;</h3>
+			</section>
+
+			{/* Travel */}
+			<section>
+				<h2>Travel</h2>
+				<div className="filmstrip-container hide-scrollbar">
+					{travel.map((item, index) => (
+						(!item.urlToImage || item.title.includes("[Sponsor]")) ? null : (
+							<FilmStripChild
+								key={index}
+								url={item.url}
+								src={item.urlToImage}
+								alt={item.title}
+								width={450}
+								height={450}
+								heading={item.title}
+							/>
+						)
+					))}
+				</div>
+				<h3 className="text-right">Scroll here &#62;&#62;</h3>
+			</section>
+
+			{/* Culture */}
+			<section>
+				<h2>Culture</h2>
+				<div className="filmstrip-container hide-scrollbar">
+					{culture.map((item, index) => (
+						(!item.urlToImage || item.title.includes("[Sponsor]")) ? null : (
+							<FilmStripChild
+								key={index}
+								url={item.url}
+								src={item.urlToImage}
+								alt={item.title}
+								width={450}
+								height={450}
+								heading={item.title}
+							/>
+						)
+					))}
+				</div>
+				<h3 className="text-right">Scroll here &#62;&#62;</h3>
+			</section>
+		</main>
+
+		<footer className="fixed bottom-0 text-center w-screen bg-background z-10">Made with ❤️ by <a href="https://github.com/davinash97" target="blank">Avinash</a></footer>
+
+		<style jsx="true">{`
+	  .filmstrip-container {
+		display: flex;
+		flex-direction: row;
+		gap: 10px;
+		overflow-x: auto;
+		// padding: 0 10px;
+		align-items: flex-start;
+		// justify-content: center;
+		width: 100%;
+		height: 100%;
+		overflow-x: scroll;
+		scroll-snap-type: x mandatory;
+		scroll-behavior: smooth;
+	  }
+
+	  .filmstrip-container > div {
+		scroll-snap-align: start;
+	  }
+	`}</style>
+	</>)
 }
