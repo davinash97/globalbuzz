@@ -1,1306 +1,1306 @@
 {
-	"status": "ok",
-	"totalResults": 70298,
-	"articles": [
-		{
-			"source": {
-				"id": "the-verge",
-				"name": "The Verge"
-			},
-			"author": "Chris Welch",
-			"title": "Sonos announces ‘breakthrough’ Arc Ultra soundbar and Sub 4",
-			"description": "The new $999 Sonos Arc Ultra offers even more immersive and more powerful audio than the original Arc thanks to the inclusion of the company’s Sound Motion technology.",
-			"url": "https://www.theverge.com/2024/10/15/24270677/sonos-arc-ultra-soundbar-sub-4-announced",
-			"urlToImage": "https://cdn.vox-cdn.com/thumbor/qgr4DDjVfb0SpLt2FrVdVE9CtUQ=/0x0:2685x1990/1200x628/filters:focal(1343x995:1344x996)/cdn.vox-cdn.com/uploads/chorus_asset/file/25678420/arcultra1.jpg",
-			"publishedAt": "2024-10-15T13:13:14Z",
-			"content": "Sonos announces breakthrough Arc Ultra soundbar and Sub 4\r\nSonos announces breakthrough Arc Ultra soundbar and Sub 4\r\n / The soundbar contains new Sound Motion technology that, according to Sonos, ma… [+2559 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Gizmodo Deals",
-			"title": "Back to Its Prime Day Price (59% Off), The Roborock Q7 Max+ is so Subtle That You’ll Hardly Notice it’s Working",
-			"description": "Combining advanced technology with exceptional convenience.",
-			"url": "https://gizmodo.com/back-to-its-prime-day-price-59-off-the-roborock-q7-max-is-so-subtle-that-youll-hardly-notice-its-working-2000511818",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/10/roborock-q7max-plus.jpg",
-			"publishedAt": "2024-10-15T12:25:01Z",
-			"content": "The Roborock Q7 Max+ robot vacuum cleaner is currently available at an incredible price of $359 down from its original $869 – which is a staggering 59% discount that matches the Prime Day offer and s… [+2207 chars]"
-		},
-		{
-			"source": {
-				"id": "wired",
-				"name": "Wired"
-			},
-			"author": "Todd Feathers",
-			"title": "It Seemed Like an AI Crime-Fighting Super Tool. Then Defense Attorneys Started Asking Questions",
-			"description": "Global Intelligence claims its Cybercheck technology can help cops find key evidence to nail a case. But a WIRED investigation reveals the smoking gun often appears far less solid.",
-			"url": "https://www.wired.com/story/cybercheck-crime-reports-prosecutions/",
-			"urlToImage": "https://media.wired.com/photos/66ba37efee59b37c653f4707/191:100/w_1280,c_limit/fingerprint-sec-1666220562.jpg",
-			"publishedAt": "2024-10-15T11:00:00Z",
-			"content": "In 2017, then 9-year-old Kayla Unbehaun was abducted. For years, the South Elgin, Illinois police department searched for Unbehaun and her noncustodial mother, Heather Unbehaun, who was accused of th… [+3494 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Isaac Schultz",
-			"title": "Gizmodo Science Fair: A Quiet Supersonic Jet",
-			"description": "NASA's Quesst mission seeks to validate a quiet supersonic technology, which could change FAA rules about flying faster than sound.",
-			"url": "https://gizmodo.com/science-fair-nasa-quesst-x59-supersonic-1851422984",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/09/X-59-jet_r.jpg",
-			"publishedAt": "2024-09-24T12:00:42Z",
-			"content": "NASAs Quesst team is a winner of the 2024 Gizmodo Science Fair for building an experimental aircraft that may travel faster than sound without the ear-splitting sonic boom typically associated with s… [+4847 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Gizmodo",
-			"title": "First Vacuum in Space: Where Roborock’s Vision Meets the Cosmos",
-			"description": "Sending a vacuum into space not only showcases Roborock's innovative spirit but also redefines the boundaries of what home technology can achieve.",
-			"url": "https://gizmodo.com/first-vacuum-in-space-where-roborocks-vision-meets-the-cosmos-2000510102",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/10/roborock-s8-maxv-ultra.jpg",
-			"publishedAt": "2024-10-11T14:20:52Z",
-			"content": "Roborock is a pioneer and global leader in smart home robotics and has unveiled in April some new flagship products – the S8 Max Series. These cutting-edge robotic vacuum cleaners represent the pinna… [+3229 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Gizmodo",
-			"title": "From Dust to the Stars: Roborock’s Vacuum Journey “Beyond Limits” with the S8 MaxV Ultra",
-			"description": "Roborock's recent launch of the S8 MaxV Ultra vacuum into Near Space showcases the durability and innovation of its technology in extreme conditions.",
-			"url": "https://gizmodo.com/from-dust-to-the-stars-roborocks-vacuum-journey-beyond-limits-with-the-s8-maxv-ultra-2000504850",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/09/roborock-space.jpg",
-			"publishedAt": "2024-10-02T13:36:36Z",
-			"content": "Roborock is a global leader in smart home robotics and has revolutionized the cleaning industry in the past decade. The company was founded in Beijing, China, and has quickly become one of the world’… [+4603 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Joe Tilleli",
-			"title": "Unbelievable, This “$1,000” Portable Printer Is Now Under $100 for Amazon Prime Day",
-			"description": "No need to surprise, it's a prime day week. The 90% off portable printer uses thermal printing technology instead of ink or toner.",
-			"url": "https://gizmodo.com/unbelievable-this-1000-portable-printer-is-now-under-100-for-amazon-prime-day-2000508592",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/10/PortablePrinter.jpg",
-			"publishedAt": "2024-10-07T20:43:49Z",
-			"content": "Amazon Prime Day is just about upon us, and even though it doesn’t technically start until tomorrow October 8th and end October 9th, there are still already a number of excellent opportunities to sta… [+2357 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Todd Feathers",
-			"title": "The Crusade to Replace Passwords With Passkeys Just Got More Fuel",
-			"description": "The FIDO Alliance released an online resource to explain why passkey technology is superior to passwords and how businesses can adopt it.",
-			"url": "https://gizmodo.com/an-industry-group-wants-you-to-replace-your-passwords-with-passkeys-2000512254",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/10/passkey-fido-alliance.jpg",
-			"publishedAt": "2024-10-16T11:00:17Z",
-			"content": "A global tech industry group devoted to ending the internet’s dependence on passwords has released a set of resources that it hopes will usher in a new paradigm for how we sign in to things online.\r\n… [+2242 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "BBC News"
-			},
-			"author": null,
-			"title": "Musk promises self-driving Tesla taxis, but are they safe?",
-			"description": "BBC Tech Correspondent Lily Jamali analyses the 'robocabs' and if their technology is up to par.",
-			"url": "https://www.bbc.com/news/videos/c20p2gp4npeo",
-			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f97c/live/3a7ea200-8830-11ef-81f8-1f28bcc5be15.jpg",
-			"publishedAt": "2024-10-12T00:46:14Z",
-			"content": "Elon Musk has unveiled Tesla's long-awaited robotaxi, which he claims will hit the market as early as 2027. \r\nBBC Tech Correspondent Lily Jamali analyses the 'robocabs' and whether their reliance on … [+157 chars]"
-		},
-		{
-			"source": {
-				"id": "wired",
-				"name": "Wired"
-			},
-			"author": "Rob Reddick",
-			"title": "Formula E’s Race to Get the Whole World Electrified",
-			"description": "Since launching in 2014, the world’s premier EV racing series has made huge technological leaps and gained hundreds of millions of fans. But CEO Jeff Dodds won’t rest until every new car is electric.",
-			"url": "https://www.wired.com/story/wired-energy-tech-summit-jeff-dodds-formula-e/",
-			"urlToImage": "https://media.wired.com/photos/66fad5471a6754e67328db22/191:100/w_1280,c_limit/formula-e-sci-2152011844.jpg",
-			"publishedAt": "2024-10-02T08:00:00Z",
-			"content": "What sorts of offsets do you focus on? People have different opinions as to what is good enough, and theyre not all equal.\r\nWe primarily focus on the creation of renewable energy, since thats what gi… [+3401 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Todd Feathers",
-			"title": "California Governor Vetoes AI Bill Aimed at Preventing Catastrophic Harms",
-			"description": "California Governor Gavin Newsom said that by focusing only on the largest harms caused by the largest AI models the bill would harm innovation and fail to keep up with the pace of technology.",
-			"url": "https://gizmodo.com/california-governor-vetoes-ai-bill-aimed-at-preventing-catastrophic-harms-2000504550",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/09/newsom-ai-sb1047-law.jpg",
-			"publishedAt": "2024-09-30T12:45:39Z",
-			"content": "California Governor Gavin Newsom on Sunday vetoed a bill aimed at preventing large AI systems from causing catastrophic harms, saying the legislation would have created a “false sense of security.”\r\n… [+4310 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "[Removed]"
-			},
-			"author": null,
-			"title": "[Removed]",
-			"description": "[Removed]",
-			"url": "https://removed.com",
-			"urlToImage": null,
-			"publishedAt": "2024-10-21T22:25:23Z",
-			"content": "[Removed]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "[Removed]"
-			},
-			"author": null,
-			"title": "[Removed]",
-			"description": "[Removed]",
-			"url": "https://removed.com",
-			"urlToImage": null,
-			"publishedAt": "2024-10-23T17:30:45Z",
-			"content": "[Removed]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "MacRumors"
-			},
-			"author": "Juli Clover",
-			"title": "Apple Releases Safari Technology Preview 205 With Bug Fixes and Performance Improvements",
-			"description": "Apple today released a new update for Safari Technology Preview, the experimental browser that was first introduced in March 2016. Apple designed ‌Safari Technology Preview‌ to allow users to test features that are planned for future release versions of the S…",
-			"url": "https://www.macrumors.com/2024/10/07/apple-releases-safari-technology-preview-205/",
-			"urlToImage": "https://images.macrumors.com/t/gSfA9gdPJTtAYv_7hjK9YByevcM=/2500x/article-new/2024/07/Safari-Technology-Preview-Updated-Feature-1.jpg",
-			"publishedAt": "2024-10-07T23:51:00Z",
-			"content": "Apple today released a new update for Safari Technology Preview, the experimental browser that was first introduced in March 2016. Apple designed ‌Safari Technology Preview‌ to allow users to test fe… [+998 chars]"
-		},
-		{
-			"source": {
-				"id": "wired",
-				"name": "Wired"
-			},
-			"author": "Eric Geller",
-			"title": "How a Trump Win Could Unleash Dangerous AI",
-			"description": "Donald Trump's opposition to “woke” safety standards for artificial intelligence would likely mean the dismantling of regulations that protect Americans from misinformation, discrimination, and worse.",
-			"url": "https://www.wired.com/story/donald-trump-ai-safety-regulation/",
-			"urlToImage": "https://media.wired.com/photos/6708161d6970c1949890b9bc/191:100/w_1280,c_limit/Security_Trump_AI_GettyImages-2176990947.jpg",
-			"publishedAt": "2024-10-21T10:30:00Z",
-			"content": "The reporting requirements are essential for alerting the government to potentially dangerous new capabilities in increasingly powerful AI models, says a US government official who works on AI issues… [+3559 chars]"
-		},
-		{
-			"source": {
-				"id": "wired",
-				"name": "Wired"
-			},
-			"author": "Verity Burns",
-			"title": "Nintendo Alarmo: Price, Specs, Availability",
-			"description": "Nintendo’s new alarm clock lets you choose from a variety of characters from Mario to Zelda and reacts to your movements, so you can snooze with gestures or end it by jumping out of bed.",
-			"url": "https://www.wired.com/story/nintendo-alarmo-alarm-clock/",
-			"urlToImage": "https://media.wired.com/photos/6706ae2e453d6ebf8bd8943b/191:100/w_1280,c_limit/alarmclock-gear-1197800612.jpg",
-			"publishedAt": "2024-10-09T17:28:26Z",
-			"content": "Of all the hardware announcements we might have been expecting next from Nintendo, a new alarm clock was not one of them. But the Nintendo Sound Clock: Alarmo is very real, and will be available excl… [+1576 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Seths.blog"
-			},
-			"author": "Seth Godin",
-			"title": "Yes, but how does it work?",
-			"description": "I worked with Arthur C. Clarke at the very beginning of my career. He’s most famous for saying, “Any sufficiently advanced technology is indistinguishable from magic.” Magic isn’t such a bad thing. And we certainly have plenty of advanced technology around. A…",
-			"url": "https://seths.blog/2024/10/yes-but-how-does-it-work/",
-			"urlToImage": "https://seths.blog/wp-content/uploads/2018/06/seth_godin_ogimages_v02_18061318.jpg",
-			"publishedAt": "2024-10-05T08:51:00Z",
-			"content": "I worked with Arthur C. Clarke at the very beginning of my career. He’s most famous for saying, “Any sufficiently advanced technology is indistinguishable from magic.”\r\nMagic isn’t such a bad thing.\r… [+978 chars]"
-		},
-		{
-			"source": {
-				"id": "the-verge",
-				"name": "The Verge"
-			},
-			"author": "Jay Peters",
-			"title": "Meta is working on recreating influencers with AI",
-			"description": "Meta is experimenting with automatic video dubbing and lip-syncing on Reels. The idea is that these features will make it easier for creators to share videos more broadly.",
-			"url": "https://www.theverge.com/2024/9/25/24254190/meta-connect-2024-ai-auto-dubbing-lip-syncing",
-			"urlToImage": "https://cdn.vox-cdn.com/thumbor/cMGnxNAXm2GaccTecAKOKJ0I3YQ=/0x0:4016x2647/1200x628/filters:focal(2244x1438:2245x1439)/cdn.vox-cdn.com/uploads/chorus_asset/file/25641545/IMG_5583.jpg",
-			"publishedAt": "2024-09-25T18:13:29Z",
-			"content": "Meta is working on recreating influencers with AI\r\nMeta is working on recreating influencers with AI\r\n / The feature could be a huge way for creators to reach broader audiences.\r\nByJay Peters, a news… [+1494 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Android Central"
-			},
-			"author": "nickodiaz@sbcglobal.net (Nickolas Diaz)",
-			"title": "Xiaomi 15 said to be 'unmatched' with Qualcomm's Snapdragon 8 Elite",
-			"description": "The company also discussed its HyperCore technology to join Qualcomm's newest chip.",
-			"url": "https://www.androidcentral.com/phones/xiaomi-15-snapdragon-8-elite-keynote-announcement",
-			"urlToImage": "https://cdn.mos.cms.futurecdn.net/iSwnGsFpVnXEJKXLtGX2bR-1200-80.jpg",
-			"publishedAt": "2024-10-21T22:00:19Z",
-			"content": "What you need to know\r\n<ul><li>Xiaomi's SVP and president, Adam Zeng, discussed what consumers can expect from the Xiaomi 15 series during Qualcomm's Summit 2024.</li><li>Zeng states the phone will b… [+2825 chars]"
-		},
-		{
-			"source": {
-				"id": "the-verge",
-				"name": "The Verge"
-			},
-			"author": "Abigail Bassett",
-			"title": "Honda Zero first drive: an EV without the baggage",
-			"description": "Honda’s new Zero EV platform is coming out soon. We test drove a prototype in Japan to see how the company’s efforts to slim down batteries and motors are progressing.",
-			"url": "https://www.theverge.com/2024/10/8/24265238/honda-zero-first-drive-ev-weight-battery-vr-autonomous",
-			"urlToImage": "https://cdn.vox-cdn.com/thumbor/sVl6wLqbRTPL2B1eLXu_JeDeFes=/0x0:3500x2333/1200x628/filters:focal(1750x1167:1751x1168)/cdn.vox-cdn.com/uploads/chorus_asset/file/25664720/PG_Test_Drive_46.jpg",
-			"publishedAt": "2024-10-08T17:00:00Z",
-			"content": "Image: Honda\r\n\n \n\n\n Honda says its new electric platform is an antidote to oversized, overweight EVs. We test drove a prototype in Japan to see how that’s developing. Honda is no stranger to pushing … [+7032 chars]"
-		},
-		{
-			"source": {
-				"id": "wired",
-				"name": "Wired"
-			},
-			"author": "Sophie Charara",
-			"title": "An ‘iPhone of AI’ Makes No Sense. What Is Jony Ive Really Building?",
-			"description": "LoveFrom is working with OpenAI to build AI devices that are less “socially disruptive” than the iPhone. Is Ive looking for absolution or a new computing soul?",
-			"url": "https://www.wired.com/story/jony-ive-iphone-of-ai/",
-			"urlToImage": "https://media.wired.com/photos/66f6d940bf343e435b352d6c/191:100/w_1280,c_limit/jony-ive-gear-AP22307130112686.jpg",
-			"publishedAt": "2024-09-28T10:00:00Z",
-			"content": "At this point, phrases like ambient computing, ubiquitous computing, and even (shudder) Internet of Things may be zipping and popping around your brain. Are we back here again? If the answer is yes, … [+3454 chars]"
-		},
-		{
-			"source": {
-				"id": "wired",
-				"name": "Wired"
-			},
-			"author": "Sebastian Bonilla",
-			"title": "These Record-Breaking New Solar Panels Produce 60 Percent More Electricity",
-			"description": "Experimental cells that combine silicon with a material called perovskite have broken the efficiency record for converting solar energy—and could eventually supercharge how we get electricity.",
-			"url": "https://www.wired.com/story/tandem-solar-panel-cells-efficiency-energy/",
-			"urlToImage": "https://media.wired.com/photos/66f6d9e8edd5b22be7017791/191:100/w_1280,c_limit/GettyImages-1681913304.jpg",
-			"publishedAt": "2024-09-28T12:00:00Z",
-			"content": "THIS ARTICLE IS republished fromThe Conversationunder aCreative Commons license.\r\nThe sight of solar panels installed on rooftops and large energy farms has become commonplace in many regions around … [+3578 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Gizmodo Deals",
-			"title": "Amazon is Offering a Huge Discount on The Bose QuietComfort Ultra if You Buy it Before The End of Prime Day Tonight",
-			"description": "Are you looking for the most premium ANC headphones on the market?",
-			"url": "https://gizmodo.com/amazon-is-offering-a-huge-discount-on-the-bose-quietcomfort-ultra-if-you-buy-it-before-the-end-of-prime-day-tonight-2000509779",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/10/bose-qc-ultra.jpg",
-			"publishedAt": "2024-10-09T14:14:19Z",
-			"content": "The Bose QuietComfort Ultra headphones are the latest and most luxurious addition to Bose’s renowned lineup and they are now available at an incredibly low price for Amazon’s Prime Day. For just $329… [+2264 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Gizmodo Deals",
-			"title": "To Protect Your Health, The Blueair Air Purifier Is Now Available At 46% Off For Prime Day",
-			"description": "This air purifier will help you combat allergies, viruses, dust, mold and smoke.",
-			"url": "https://gizmodo.com/to-protect-your-health-the-blueair-air-purifier-is-now-available-at-46-off-for-prime-day-2000507882",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/10/blueair-purifier.jpg",
-			"publishedAt": "2024-10-06T12:44:07Z",
-			"content": "Prime Day is here and with it comes an exceptional deal on one of the most powerful air purifiers on the market. The Blueair Air Purifier for Large Rooms, specifically the Blue Pure 211i Max model, i… [+2127 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "BBC News"
-			},
-			"author": null,
-			"title": "From Wimbledon to VAR, is tech hurting the drama of sport?",
-			"description": "As Wimbledon scraps human line judges, sport insiders suggest how we can make games more exciting.",
-			"url": "https://www.bbc.com/news/articles/c9dy4434nj3o",
-			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5745/live/a634bd10-87b1-11ef-b0bd-ed1c890dbbf6.jpg",
-			"publishedAt": "2024-10-13T00:02:58Z",
-			"content": "Line judges will no longer feature at Wimbledon from next year\r\n\"The drama of a player shouting and making a challenge, and the crowd watching the screen and waiting for Hawk-Eye to make a decision, … [+5654 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "MacRumors"
-			},
-			"author": "Tim Hardwick",
-			"title": "Gurman: Apple Believes Its AI Technology Is Two Years Behind Rivals",
-			"description": "Some Apple employees believe that the company's in-house generative AI technology powering Apple Intelligence is more than two years behind industry leaders, according to Bloomberg's Mark Gurman.\n\n\n\n\n\nWriting in his latest Power On newsletter, Gurman's source…",
-			"url": "https://www.macrumors.com/2024/10/21/apple-artificial-intelligence-years-behind-rivals/",
-			"urlToImage": "https://images.macrumors.com/t/M2A51Dg_0tteMenthsWX6iCzgok=/1600x/article-new/2024/09/Apple-Intelligence-iPhone-16.jpg",
-			"publishedAt": "2024-10-21T10:20:19Z",
-			"content": "Some Apple employees believe that the company's in-house generative AI technology powering Apple Intelligence is more than two years behind industry leaders, according to Bloomberg's Mark Gurman.\r\nWr… [+1772 chars]"
-		},
-		{
-			"source": {
-				"id": "the-verge",
-				"name": "The Verge"
-			},
-			"author": "Tom Warren",
-			"title": "You can sign up to test Microsoft Flight Simulator 2024 if your PC is up to it",
-			"description": "Microsoft is holding an alpha test for Flight Simulator 2024. It’s designed to stress test the core services of the game, ahead of its debut on November 19th.",
-			"url": "https://www.theverge.com/2024/10/9/24265946/microsoft-flight-simulator-2024-alpha-test",
-			"urlToImage": "https://cdn.vox-cdn.com/thumbor/5cpmZLBfCQV5m-EHsP7KXSIzRiA=/0x0:2160x1440/1200x628/filters:focal(1080x720:1081x721)/cdn.vox-cdn.com/uploads/chorus_asset/file/25629511/flightsim1.jpg",
-			"publishedAt": "2024-10-09T11:31:03Z",
-			"content": "You can sign up to test Microsoft Flight Simulator 2024 if your PC is up to it\r\nYou can sign up to test Microsoft Flight Simulator 2024 if your PC is up to it\r\n / Microsoft is holding an alpha test f… [+2156 chars]"
-		},
-		{
-			"source": {
-				"id": "the-verge",
-				"name": "The Verge"
-			},
-			"author": "Wes Davis",
-			"title": "Threshold’s Wi-Fi sensing plugs offer caregiver monitoring without cameras",
-			"description": "The Motion Wi-Fi Sensing Plugs use interference to detect motion, allowing remote caregivers to monitor household activity without installing an invasive camera.",
-			"url": "https://www.theverge.com/2024/10/10/24266406/threshold-wi-fi-sensing-plugs-motion-detection",
-			"urlToImage": "https://cdn.vox-cdn.com/thumbor/XxOIPRRqtY7nxH8VZ6UXhNKdwnA=/0x0:2048x1435/1200x628/filters:focal(1024x718:1025x719)/cdn.vox-cdn.com/uploads/chorus_asset/file/25668281/Threshold_Care__Inc._r1_770A4901_crop.jpg",
-			"publishedAt": "2024-10-10T13:00:00Z",
-			"content": "Thresholds Wi-Fi sensing plugs offer caregiver monitoring without cameras\r\nThresholds Wi-Fi sensing plugs offer caregiver monitoring without cameras\r\n / The Motion Wi-Fi Sensing Plugs use interferenc… [+2152 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "MacRumors"
-			},
-			"author": "Joe Rossignol",
-			"title": "Apple Predicted to Release iPhones With Thinner OLED Displays Next Year… iPhone 17 Air?",
-			"description": "Taiwanese company Novatek has announced plans to begin mass production of OLED displays with TDDI (touch and display driver integration) technology as early as the second quarter of 2025, supply chain publication DigiTimes reported today.\n\n\n\n\n\nThe report stat…",
-			"url": "https://www.macrumors.com/2024/10/04/oled-tddi-iphones-rumor/",
-			"urlToImage": "https://images.macrumors.com/t/tY_oHXtuAUOotOHlu_0TjSDodwc=/2500x/article-new/2024/08/iPhone-17-Slim-Feature-Single-Camera-2.jpg",
-			"publishedAt": "2024-10-04T14:53:36Z",
-			"content": "Taiwanese company Novatek has announced plans to begin mass production of OLED displays with TDDI (touch and display driver integration) technology as early as the second quarter of 2025, supply chai… [+1061 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Android Central"
-			},
-			"author": "christinep2424@gmail.com (Christine Persaud)",
-			"title": "Can the Oura Ring 4 automatically detect workouts?",
-			"description": "With the Oura Ring 4, you can leverage new Smart Sensing technology and automatic tracking that makes sure you get credit for your hard work.",
-			"url": "https://www.androidcentral.com/wearables/can-oura-ring-4-automatically-detect-workouts",
-			"urlToImage": "https://cdn.mos.cms.futurecdn.net/FZ28NkgQNTRR7wXSZsygca-1200-80.jpg",
-			"publishedAt": "2024-10-15T06:12:44Z",
-			"content": "Can the Oura Ring 4 automatically detect workouts?\r\nBest answer: Yes! The Oura Ring 4 smart ring is designed to automatically detect exercise, workouts, and other distinct movements, like gardening o… [+3468 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "[Removed]"
-			},
-			"author": null,
-			"title": "[Removed]",
-			"description": "[Removed]",
-			"url": "https://removed.com",
-			"urlToImage": null,
-			"publishedAt": "2024-09-25T17:59:50Z",
-			"content": "[Removed]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Android Central"
-			},
-			"author": "jerry.hildenbrand@futurenet.com (Jerry Hildenbrand)",
-			"title": "Your smartphone is more of a collaborative effort than you think",
-			"description": "Your phone uses technology from plenty of sources. Getting it all to play well together is only half the battle; doing it legally is equally important.",
-			"url": "https://www.androidcentral.com/phones/why-licensing-is-important",
-			"urlToImage": "https://cdn.mos.cms.futurecdn.net/rndDsNbSySJFMhwDXetJ9-1200-80.jpg",
-			"publishedAt": "2024-10-02T21:30:25Z",
-			"content": "The back of your phone doesn't really tell you who made it; it only tells you what company put all the pieces together.\r\nPhones, like all other consumer electronics, are a collection of technology fr… [+4577 chars]"
-		},
-		{
-			"source": {
-				"id": "business-insider",
-				"name": "Business Insider"
-			},
-			"author": "Helen Li,Emma Cosgrove",
-			"title": "Leaders from the CIA, Dell Technologies, HP, SageCXO, and ezCater share how they keep up with AI development",
-			"description": "Technology executives, including CTOs and a CIO, discussed AI applications and trends at Business Insider's \"Build IT\" roundtable.",
-			"url": "https://www.businessinsider.com/technology-executives-on-artificial-intelligence-applications-role-of-cto-cio-2024-9",
-			"urlToImage": "https://i.insider.com/66ec514fcfb7f307e5731c36?width=1200&format=jpeg",
-			"publishedAt": "2024-09-24T19:00:36Z",
-			"content": "CIA; HP; Dell Technologies; ezCater; Alyssa Powell/BI\r\nOn September 12, Business Insider convened a roundtable of top technology executives as part of our \"Build IT\" series.These executives spoke abo… [+14030 chars]"
-		},
-		{
-			"source": {
-				"id": "business-insider",
-				"name": "Business Insider"
-			},
-			"author": "Bianca Chan",
-			"title": "Market-making giant Citadel Securities is rebuilding the tech that powers its trades as it eyes growth",
-			"description": "Two of Citadel Securities' top technology execs explain how the market maker is revamping its core trading infrastructure.",
-			"url": "https://www.businessinsider.com/inside-citadel-securities-multi-year-rebuild-trading-technology-2024-10",
-			"urlToImage": "https://i.insider.com/6716b9c301ea6d83dee2f97b?width=1200&format=jpeg",
-			"publishedAt": "2024-10-22T12:26:02Z",
-			"content": "Citadel Securities' COO of technology, Jeff Maurone, and CTO, Josh Woods.Citadel Securities\r\n<ul><li>Ken Griffin's market maker, Citadel Securities, is revamping its core trading infrastructure.</li>… [+6287 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Gizmodo Deals",
-			"title": "Forget Bose and Sonos, Amazon Slashes AirPods Max Prices by 20% Ahead of Prime Day",
-			"description": "And to think, Apple typically shuns discounts!",
-			"url": "https://gizmodo.com/forget-bose-and-sonos-amazon-slashes-airpods-max-prices-by-20-ahead-of-prime-day-2000506851",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/10/airpods-max-apple.jpg",
-			"publishedAt": "2024-10-03T15:20:28Z",
-			"content": "Apple’s AirPods Max, the premium over-ear headphones are now available at a discounted price on Amazon. In a rare move that’s sure to excite Apple fans, these high-end headphones are currently discou… [+2257 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Gizmodo Deals",
-			"title": "This Prime Day, Our Favorite TV is The 65-Inch LG C4 OLED at 45% Off",
-			"description": "This price is ridiculously low!",
-			"url": "https://gizmodo.com/this-prime-day-our-favorite-tv-is-the-65-inch-lg-c4-oled-at-45-off-2000508365",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/10/tv-lg-c4.jpg",
-			"publishedAt": "2024-10-07T17:15:53Z",
-			"content": "As the Prime Day event kicks off on Amazon, there’s an exceptional deal on the LG OLED evo C4 Series 4K TVs which offers unprecedented value across multiple screen sizes. What makes this offer even m… [+2464 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Gizmodo Deals",
-			"title": "Amazon Slashes AirPods Max Price to Record Low for Prime Day Clearance Sale",
-			"description": "And Apple hates discounts!",
-			"url": "https://gizmodo.com/amazon-slashes-airpods-max-price-to-record-low-for-prime-day-clearance-sale-2000507985",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/10/airpods-max-apple-1.jpg",
-			"publishedAt": "2024-10-06T16:43:32Z",
-			"content": "Amazon has slashed prices on Apple’s premium AirPods Max and offers an unprecedented deal that’s turning heads in the tech world. These high-end over-ear headphones originally priced at $549 saw an i… [+2510 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Gizmodo Deals",
-			"title": "The Galaxy Z Fold 6 Is Almost Free On The Samsung Site, $1,500 Discount as a Prime Day Gift",
-			"description": "The Galaxy Z Fold 6 is undoubtedly the best folding phone available right now.",
-			"url": "https://gizmodo.com/the-galaxy-z-fold-6-is-almost-free-on-the-samsung-site-1500-discount-as-a-prime-day-gift-2000507365",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/10/zfold-6-samsung.jpg",
-			"publishedAt": "2024-10-05T12:15:58Z",
-			"content": "As Prime Day weekend unfolds, Samsung is offering an incredible opportunity to purchase the Galaxy Z Fold 6 at a fraction of its original price through its official website. This limited-time offer i… [+2548 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Gizmodo Deals",
-			"title": "3 times Cheaper Than The New XM5 Model, The Sony 1000XM4 Headphones Are 63% Off For Prime Day",
-			"description": "This is one of the best deals for Prime Day.",
-			"url": "https://gizmodo.com/3-times-cheaper-than-the-new-xm5-model-the-sony-1000xm4-headphones-are-63-off-for-prime-day-2000508199",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/10/sony-1000xm4.jpg",
-			"publishedAt": "2024-10-07T13:20:20Z",
-			"content": "The Sony WH-1000XM4 headphones have just become the star of Amazon’s Prime Day with an unprecedented 63% discount bringing their price down to a mere $129 from the original $348. This deal was announ… [+2295 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Gizmodo Deals",
-			"title": "Goodbye to Cleaning, This Roborock S8+ at 45% Off on Prime Day is an Absolute Dream for Lazy People",
-			"description": "Roborock is one of the leading brands of robot vacuums.",
-			"url": "https://gizmodo.com/goodbye-to-cleaning-this-roborock-s8-at-45-off-on-prime-day-is-an-absolute-dream-for-lazy-people-2000508029",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/10/roborock-s8-plus.jpg",
-			"publishedAt": "2024-10-06T20:11:21Z",
-			"content": "As Prime Day is about to begin, Amazon is offering a great deal on the Roborock S8+ slashing its price from $999 to just $549 which represents a massive 45% discount. The good news is that this offer… [+2621 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Gizmodo Deals",
-			"title": "Amazon Cares About Your Health, It’s Selling Blueair Air Purifiers at 46% Off",
-			"description": "This air purifier is one of the best sellers of Prime Day.",
-			"url": "https://gizmodo.com/amazon-cares-about-your-health-its-selling-blueair-air-purifiers-at-46-off-2000509289",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/10/blueair-purifier.jpg",
-			"publishedAt": "2024-10-08T17:28:59Z",
-			"content": "The Blueair Air Purifier for Large Rooms, specifically the Blue Pure 211i Max model, is now available at an astounding 46% discount bringing its price down from $349 to just $189 for Prime members. T… [+1887 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Gizmodo Deals",
-			"title": "The Galaxy Z Fold 6 Is Almost Free On The Samsung Site, $1500 Discount as a Prime Day Gift",
-			"description": "The Galaxy Z Fold 6 is undoubtedly the best folding phone available right now.",
-			"url": "https://gizmodo.com/the-galaxy-z-fold-6-is-almost-free-on-the-samsung-site-1500-discount-as-prime-day-gift-2000507365",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/10/zfold-6-samsung.jpg",
-			"publishedAt": "2024-10-07T21:46:58Z",
-			"content": "As Prime Day unfolds, Samsung is offering an incredible opportunity to purchase the Galaxy Z Fold 6 at a fraction of its original price through its official website. This limited-time offer is entici… [+2535 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Todd Feathers",
-			"title": "Parents Sue School That Gave Bad Grade to Student Who Used AI to Complete Assignment",
-			"description": "A Massachusetts couple claims that their son's high school attempted to derail his future by giving him detention and a bad grade on an assignment he wrote using generative AI.",
-			"url": "https://gizmodo.com/parents-sue-school-that-gave-bad-grade-to-student-who-used-ai-to-complete-assignment-2000512000",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/10/hingham-schools-ai-lawsuit.jpg",
-			"publishedAt": "2024-10-15T16:20:21Z",
-			"content": "An old and powerful force has entered the fraught debate over generative AI in schools: litigious parents angry that their child may not be accepted into a prestigious university.\r\nIn what appears to… [+3085 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Gizmodo Deals",
-			"title": "At -45% on Amazon Prime Day, This LG C4 Series TV Will Sell Like Hotcakes",
-			"description": "Amazon surprises us with this unprecedented offer.",
-			"url": "https://gizmodo.com/at-45-on-amazon-prime-day-this-lg-c4-series-tv-will-sell-like-hotcakes-2000508799",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/10/tv-lg-oled.jpg",
-			"publishedAt": "2024-10-08T12:10:27Z",
-			"content": "Today is the first day of Prime Day at Amazon, and you can enjoy a stunning deal on LG’s OLED evo C4 Series 4K TVs. The current deal offers a massive discount across multiple screen sizes and what’s … [+2939 chars]"
-		},
-		{
-			"source": {
-				"id": "wired",
-				"name": "Wired"
-			},
-			"author": "Amy Francombe",
-			"title": "Coperni’s Spray-On Dress Was a Viral Smash. This Gravity-Defying Gel Bag Might Top It",
-			"description": "The sci-fi-loving fashion house has partnered with Disney to make an eco-friendly bag that could signal a shift in 3D-printed apparel.",
-			"url": "https://www.wired.com/story/coperni-spray-on-dress-viral-smash-gravity-defying-gel-bag-might-top-it/",
-			"urlToImage": "https://media.wired.com/photos/66fd467140a8f70164da2d56/191:100/w_1280,c_limit/GettyImages-2176008474.jpg",
-			"publishedAt": "2024-10-02T14:49:43Z",
-			"content": "Coperni has yet to decide how many RLP Swipe Bags will be put into production, but for Meyer, starting a conversation around these innovations is more important than immediate commercial success. Its… [+2689 chars]"
-		},
-		{
-			"source": {
-				"id": "business-insider",
-				"name": "Business Insider"
-			},
-			"author": "Julia Hood,Tim Paradis",
-			"title": "Leaders from BCG, Infosys, AARP, and more predict how AI will transform top companies in the next 12 months",
-			"description": "Executives at BCG, Infosys, AARP, and more predict how companies will change with AI — and explain what they can do to leverage the technology.",
-			"url": "https://www.businessinsider.com/leaders-discuss-ai-technology-transform-company-workflows-unlock-employee-potential-2024-10",
-			"urlToImage": "https://i.insider.com/66fc51337de5c8fd48345fdb?width=1200&format=jpeg",
-			"publishedAt": "2024-10-04T13:44:38Z",
-			"content": "Getty Images; Andrius Banelis for BI\r\nIt's impossible to talk about workforce innovation without addressing artificial intelligence.During a virtual roundtable, we asked Business Insider's Workforce … [+16739 chars]"
-		},
-		{
-			"source": {
-				"id": "business-insider",
-				"name": "Business Insider"
-			},
-			"author": "Chris Panella",
-			"title": "Ukrainian unit commander predicts drone warfare will be truly unmanned in a matter of months and won't need human pilots",
-			"description": "New drone technology is being developed and tested at a rapid pace, Brovdi said, and soon drones may be hunting on their own across the battlefield.",
-			"url": "https://www.businessinsider.com/drones-in-ukraine-war-soon-wont-need-human-pilots-commander-2024-9",
-			"urlToImage": "https://i.insider.com/66f2cd1ad17aa3c7b2b56080?width=1200&format=jpeg",
-			"publishedAt": "2024-09-24T17:04:58Z",
-			"content": "Robert Brovdi, commander of the special Madyar's Birds drone unit, said in the next six to eight months, human pilots won't be needed.Stanislav Ivanov/Global Images Ukraine via Getty Images\r\n<ul><li>… [+4140 chars]"
-		},
-		{
-			"source": {
-				"id": "business-insider",
-				"name": "Business Insider"
-			},
-			"author": "Sarah Gray",
-			"title": "Read the note CEO Sam Altman sent to OpenAI staff announcing another 2 big exits",
-			"description": "Mira Murati, OpenAI's chief technology officer, announced her exit from the company Wednesday. Now two others are also leaving, Sam Altman revealed.",
-			"url": "https://www.businessinsider.com/sam-altman-openai-note-more-staff-exits-barret-bob-2024-9",
-			"urlToImage": "https://i.insider.com/66f4abffde59ade1a3b4ab86?width=1200&format=jpeg",
-			"publishedAt": "2024-09-26T00:51:06Z",
-			"content": "OpenAI CEO Sam Altman announced more departures at the company he leads.Andrew Caballero-Reynolds/AFP/Getty Images\r\n<ul><li>Mira Murati, OpenAI's chief technology officer, earlier announced her depar… [+4167 chars]"
-		},
-		{
-			"source": {
-				"id": "business-insider",
-				"name": "Business Insider"
-			},
-			"author": "Geoff Weiss",
-			"title": "Mira Murati is the latest OpenAI exec to leave. Read the memo she sent to staff.",
-			"description": "OpenAI's chief technology officer Mira Murati is leaving the company — the latest in a string of executive departures from the leading AI company.",
-			"url": "https://www.businessinsider.com/mira-murati-openai-cto-leaving-executive-memo-staff-2024-9",
-			"urlToImage": "https://i.insider.com/66f46ac3de59ade1a3b49f9e?width=1200&format=jpeg",
-			"publishedAt": "2024-09-25T19:56:20Z",
-			"content": "PATRICK T. FALLON/Getty Images\r\nOpenAI's Chief Technology Officer Mira Murati is leaving the company — the latest in a string of high-profile departures from the leading AI company.After six-and-a-ha… [+569 chars]"
-		},
-		{
-			"source": {
-				"id": "business-insider",
-				"name": "Business Insider"
-			},
-			"author": "Dominick Reuter",
-			"title": "Fears of automation are at the heart of the dockworkers strike",
-			"description": "The USMX employers association says it's willing to continue the old technology agreement, but the ILA labor union says the terms were already broken.",
-			"url": "https://www.businessinsider.com/port-strike-dockworkers-union-automation-job-replacement-concerns-2024-10",
-			"urlToImage": "https://i.insider.com/66fc646d5ccfc192a5526538?width=1200&format=jpeg",
-			"publishedAt": "2024-10-02T14:22:50Z",
-			"content": "Dockworkers picket near the Port of Miami entrance and demand a new labor contract.Giorgio Viera / AFP via Getty Images\r\n<ul><li>Automation is a core issue at play in the ongoing dockworker strike at… [+4406 chars]"
-		},
-		{
-			"source": {
-				"id": "business-insider",
-				"name": "Business Insider"
-			},
-			"author": "Sarah Jackson",
-			"title": "Bill Gates shares his 3 biggest concerns about AI",
-			"description": "Bill Gates is a self-described optimist about the future of AI. But he still worries about three potential impacts from the new technology.",
-			"url": "https://www.businessinsider.com/microsoft-bill-gates-ai-concerns-2024-9",
-			"urlToImage": "https://i.insider.com/66fad2f175c877a99b61c6ba?width=1200&format=jpeg",
-			"publishedAt": "2024-09-30T18:13:12Z",
-			"content": "Bill Gates shared his three main concerns about AI in a recent podcast episode.Sean Gallup/Getty Images\r\n<ul><li>Bill Gates is decidedly optimistic about AI.</li><li>But he still has some big concern… [+3724 chars]"
-		},
-		{
-			"source": {
-				"id": "business-insider",
-				"name": "Business Insider"
-			},
-			"author": "Alistair Barr",
-			"title": "Is Mark Zuckerberg still obsessed with efficiency? Check Meta's WiFi password.",
-			"description": "The company is spending heavily on AI and AR technology. Is the CEO still focused on efficiency? A big hint was dropped at Meta Connect this week.",
-			"url": "https://www.businessinsider.com/meta-mark-zuckerberg-efficiency-obsession-wifi-password-2024-9",
-			"urlToImage": "https://i.insider.com/66f5a9d2de59ade1a3b50c24?width=1200&format=jpeg",
-			"publishedAt": "2024-09-27T09:00:02Z",
-			"content": "At the Meta Connect developer conference, CEO Mark Zuckerberg shows off prototype of computer glassespicture alliance/Getty Images\r\n<ul><li>The social-media giant held its big Meta Connect conference… [+1290 chars]"
-		},
-		{
-			"source": {
-				"id": "business-insider",
-				"name": "Business Insider"
-			},
-			"author": "Tim Paradis",
-			"title": "Sam Altman says if you're afraid of bots taking your job, you should get good with AI",
-			"description": "OpenAI CEO Sam Altman advises students to master AI technology to stay ahead in future job markets, emphasizing the evolving role of human creativity.",
-			"url": "https://www.businessinsider.com/sam-altman-young-people-worried-about-ai-should-learn-tech-2024-9",
-			"urlToImage": "https://i.insider.com/66f5c287f9f6733e4be01ad1?width=1200&format=jpeg",
-			"publishedAt": "2024-09-26T21:01:45Z",
-			"content": "ChatGPT-maker OpenAI CEO Sam Altman says people should get \"comfortable\" with AI tools.Justin Sullivan/Getty Images;Chelsea Jia Feng/BI\r\n<ul><li>Sam Altman advises students to master AI technology to… [+4088 chars]"
-		},
-		{
-			"source": {
-				"id": "business-insider",
-				"name": "Business Insider"
-			},
-			"author": "Peter Kafka",
-			"title": "You don't need a QR code to get the facts checked at Tuesday's VP debate",
-			"description": "CBS News will fact-check the VP debate live on Tuesday — and it's promoting a newfangled technology to get you to its website: a QR code.",
-			"url": "https://www.businessinsider.com/vice-presidential-debate-cbs-qr-code-fact-checking-vance-walz-2024-9",
-			"urlToImage": "https://i.insider.com/66fb0be87518aa57bc9f7749?width=1200&format=jpeg",
-			"publishedAt": "2024-09-30T20:45:58Z",
-			"content": "CBS News will play host to the vice presidential debate. It will also be fact-checking, which it's promoting by QR code. But you don't really need to use that.Chip Somodevilla/Getty Images\r\n<ul><li>I… [+3339 chars]"
-		},
-		{
-			"source": {
-				"id": "business-insider",
-				"name": "Business Insider"
-			},
-			"author": "Tom Carter",
-			"title": "This Chinese EV maker is up for a battle with Elon Musk in China",
-			"description": "Xpeng co-president Brian Gu said the Guangzhou-based EV startup was keen to see how its autonomous driving technology shapes up to Elon Musk's.",
-			"url": "https://www.businessinsider.com/chinese-tesla-rival-xpeng-welcomes-competition-from-elon-musk-2024-10",
-			"urlToImage": "https://i.insider.com/670d39cd3f2165d716e09970?width=1200&format=jpeg",
-			"publishedAt": "2024-10-15T09:46:36Z",
-			"content": "Chinese EV players have been shut out of the US by tariffs. PETER PARKS/AFP via Getty Images\r\n<ul><li>Chinese EV startup Xpeng is relishing the prospect of testing its tech against Tesla.</li><li>Lik… [+3186 chars]"
-		},
-		{
-			"source": {
-				"id": "business-insider",
-				"name": "Business Insider"
-			},
-			"author": "Morgan McFall-Johnsen",
-			"title": "The sun is at its 11-year maximum. That means another year of eruptions that can endanger satellites, ground flights, and spark stunning auroras.",
-			"description": "NASA says the sun is at its maximum and likely to belch out big eruptions that cause technology issues and spark stunning auroras in the next year.",
-			"url": "https://www.businessinsider.com/nasa-declares-sun-maximum-what-solar-storms-mean-technology-auroras-2024-10",
-			"urlToImage": "https://i.insider.com/670f07fda70318649282aa50?width=1200&format=jpeg",
-			"publishedAt": "2024-10-16T16:59:47Z",
-			"content": "The sun emits the largest solar flare of this 11-year cycle, as imaged by NASA's Solar Dynamics Observatory on October 3.NASA/SDO\r\n<ul><li>NASA says the sun is in the highly active \"maximum phase\" of… [+4958 chars]"
-		},
-		{
-			"source": {
-				"id": "wired",
-				"name": "Wired"
-			},
-			"author": "Lily Hay Newman, Andrew Couts",
-			"title": "Google Chrome’s uBlock Origin Purge Has Begun",
-			"description": "Plus: The alleged SEC X account hacker gets charged, Kroger wriggles out of a face recognition scandal, and Microsoft deals with missing customer security logs.",
-			"url": "https://www.wired.com/story/google-chrome-ublock-origin-extension/",
-			"urlToImage": "https://media.wired.com/photos/6712a9ad28a5e591865a1b60/191:100/w_1280,c_limit/GettyImages-2151457378.jpg",
-			"publishedAt": "2024-10-19T10:30:00Z",
-			"content": "And thats not all. Each week, we round up the security and privacy news we didnt cover in depth ourselves. Click the headlines to read the full stories. And stay safe out there.\r\nIf you use uBlock Or… [+3760 chars]"
-		},
-		{
-			"source": {
-				"id": "wired",
-				"name": "Wired"
-			},
-			"author": "Marah Eakin",
-			"title": "Filmmakers Are Worried About AI. Big Tech Wants Them to See ‘What's Possible’",
-			"description": "Amazon is hosting AI filmmaking competitions. Meta is letting directors test Movie Gen. As tech companies develop new tools, they need filmmakers to show they can be used responsibly.",
-			"url": "https://www.wired.com/story/filmmakers-are-worried-about-ai-big-tech-wants-them-to-see-whats-possible/",
-			"urlToImage": "https://media.wired.com/photos/6711554a3597949fe9631a86/191:100/w_1280,c_limit/Hollywood-Worried-About-AI-Culver-Cup-Now-Playing-Board-Culture.jpg",
-			"publishedAt": "2024-10-17T18:59:14Z",
-			"content": "You have to learn the fundamentals, he says. Technology will change, but storytelling wont.\r\nTo make his short, Mnemonade, really sing, Meta Puppet says he focused on giving the story some emotional … [+3065 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "[Removed]"
-			},
-			"author": null,
-			"title": "[Removed]",
-			"description": "[Removed]",
-			"url": "https://removed.com",
-			"urlToImage": null,
-			"publishedAt": "2024-09-25T20:02:30Z",
-			"content": "[Removed]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "[Removed]"
-			},
-			"author": null,
-			"title": "[Removed]",
-			"description": "[Removed]",
-			"url": "https://removed.com",
-			"urlToImage": null,
-			"publishedAt": "2024-10-09T20:06:58Z",
-			"content": "[Removed]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "[Removed]"
-			},
-			"author": null,
-			"title": "[Removed]",
-			"description": "[Removed]",
-			"url": "https://removed.com",
-			"urlToImage": null,
-			"publishedAt": "2024-10-15T14:14:13Z",
-			"content": "[Removed]"
-		},
-		{
-			"source": {
-				"id": "the-verge",
-				"name": "The Verge"
-			},
-			"author": "Jay Peters",
-			"title": "Fortnite creators can now make first-person shooters",
-			"description": "Developers that build Fortnite experiences can now try out a new first-person camera mode, Epic Games announced.",
-			"url": "https://www.theverge.com/2024/10/1/24258447/fortnite-creators-first-person-shooters-fps-unreal-editor",
-			"urlToImage": "https://cdn.vox-cdn.com/thumbor/lQTW5pu2yldcm6BoTu2n7QldCyU=/0x0:1200x630/1200x628/filters:focal(600x315:601x316)/cdn.vox-cdn.com/uploads/chorus_asset/file/25651689/Unreal_Fest_Seattle___UEFN___First_Person_Camera_Mode_device__Experimental____2.jpg",
-			"publishedAt": "2024-10-01T14:00:00Z",
-			"content": "Fortnite creators can now make first-person shooters\r\nFortnite creators can now make first-person shooters\r\n / Theyll be able to publish FPS experiences later in 2024 with Unreal Editor for Fortnite.… [+1268 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Yahoo Entertainment"
-			},
-			"author": "Mariella Moon",
-			"title": "Arm cancels Qualcomm's license to use its chip design standards",
-			"description": "Arm has taken its feud with Qualcomm to the next level, two years after filing a lawsuit against its former close partner. According to Bloomberg, the British semiconductor company has canceled the architecture license allowing Qualcomm to use its intellectua…",
-			"url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_49ede2b3-088b-42df-8dde-5e90f6c7d8f1",
-			"urlToImage": null,
-			"publishedAt": "2024-10-23T12:30:31Z",
-			"content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Yahoo Entertainment"
-			},
-			"author": "Karissa Bell",
-			"title": "Meta’s Orion holographic avatars will (eventually) be in VR too",
-			"description": "The biggest reveal at Meta’s Connect event was its long-promised AR glasses\r\n, Orion. As expected, the prototype, each of which reportedly costs around $10,000, won’t be ready for the public any time soon.\nIn the meantime, Meta offered a glimpse of its new ho…",
-			"url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ccbff175-3845-41a2-9fdd-3c2bb3969374",
-			"urlToImage": null,
-			"publishedAt": "2024-09-25T23:52:06Z",
-			"content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-		},
-		{
-			"source": {
-				"id": "the-verge",
-				"name": "The Verge"
-			},
-			"author": "Andrew J. Hawkins",
-			"title": "Tesla Cybercab announced: Elon Musk’s robotaxi is finally here",
-			"description": "Tesla CEO Elon Musk unveiled the long-awaited prototype robotaxi at an event in Los Angeles. But questions remain about the vehicle’s safety.",
-			"url": "https://www.theverge.com/2024/10/10/24265530/tesla-robotaxi-elon-musk-features-range-price-release-date",
-			"urlToImage": "https://cdn.vox-cdn.com/thumbor/fBs9y8RUB3-qwqpgYcORgqbrDfs=/0x0:2560x1440/1200x628/filters:focal(1280x720:1281x721)/cdn.vox-cdn.com/uploads/chorus_asset/file/25670491/videoframe_3297637.png",
-			"publishedAt": "2024-10-11T02:59:05Z",
-			"content": "Tesla Cybercab announced: Elon Musks robotaxi is finally here\r\nTesla Cybercab announced: Elon Musks robotaxi is finally here\r\n / Musk showed off a prototype of a self-driving car he calls the Cyberca… [+3285 chars]"
-		},
-		{
-			"source": {
-				"id": "the-verge",
-				"name": "The Verge"
-			},
-			"author": "Jennifer Pattison Tuohy",
-			"title": "Sleep Number’s newest smart bed aims to tackle night sweats",
-			"description": "The company says its newest smart bed can actively cool and adapt to both sleepers’ temperature needs throughout the night.",
-			"url": "https://www.theverge.com/2024/10/1/24259440/sleep-number-climate-cool-smart-bed-price-features",
-			"urlToImage": "https://cdn.vox-cdn.com/thumbor/b7tR_OnblE8cXExsFC4Ga4ntCqE=/711x757:3306x2710/1200x628/filters:focal(2046x1248:2047x1249)/cdn.vox-cdn.com/uploads/chorus_asset/file/25652952/cc_FT_FXT_FX2_2407_01a.jpg",
-			"publishedAt": "2024-10-01T18:59:20Z",
-			"content": "Sleep Numbers newest smart bed aims to tackle night sweats\r\nSleep Numbers newest smart bed aims to tackle night sweats\r\n / The ClimateCool can actively cool you and adjust to your temperature through… [+3346 chars]"
-		},
-		{
-			"source": {
-				"id": "the-verge",
-				"name": "The Verge"
-			},
-			"author": "Jess Weatherbed",
-			"title": "Meta brings back face scanning to combat scams and account hacking",
-			"description": "Facebook and Instagram are testing new facial recognition tools that could help users quickly restore compromised accounts and combat fake celebrity-endorsed scams.",
-			"url": "https://www.theverge.com/2024/10/22/24276593/meta-facebook-instagram-facial-recognition-tools-test-celeb-bait",
-			"urlToImage": "https://cdn.vox-cdn.com/thumbor/-_BU3_aGSOMK1HkXINTd7V3vLOU=/0x0:1536x864/1200x628/filters:focal(768x432:769x433)/cdn.vox-cdn.com/uploads/chorus_asset/file/25692971/Meta_facial_recogition.jpg",
-			"publishedAt": "2024-10-22T12:19:05Z",
-			"content": "Meta brings back face scanning to combat scams and account hacking\r\nMeta brings back face scanning to combat scams and account hacking\r\n / The tech coming to Instagram and Facebook was previously axe… [+2760 chars]"
-		},
-		{
-			"source": {
-				"id": "the-verge",
-				"name": "The Verge"
-			},
-			"author": "Wes Davis",
-			"title": "Dodge Chargers with semi-solid-state batteries may hit the road in 2026",
-			"description": "Stellantis plans to demonstrate a fleet of Dodge Charger Daytonas equipped with semi-solid-state batteries in 2026, using tech that Mercedes will also deploy in the future.",
-			"url": "https://www.theverge.com/2024/10/23/24277832/dodge-charger-ev-semi-solid-state-mercedes-stellantis-demo-2026",
-			"urlToImage": "https://cdn.vox-cdn.com/thumbor/lPNHAbNnSghQhGQ6HqtXU1cEi-Q=/0x0:3000x2400/1200x628/filters:focal(1500x1200:1501x1201)/cdn.vox-cdn.com/uploads/chorus_asset/file/25315929/DG024_030CH.jpg",
-			"publishedAt": "2024-10-23T20:35:26Z",
-			"content": "Dodge Chargers with semi-solid-state batteries may hit the road in 2026\r\nDodge Chargers with semi-solid-state batteries may hit the road in 2026\r\n / Stellantis says it will demo solid-state battery t… [+2584 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Gizmodo Deals",
-			"title": "In The Wake of Prime Day, Babbel Language Service hits record low price with a 76% discount.",
-			"description": "Following the excitement of Prime Day, Babbel has unveiled an incredible offer and slashes its lifetime subscription price by 76%.",
-			"url": "https://gizmodo.com/in-the-wake-of-prime-day-babbel-language-service-hits-record-low-price-with-a-76-discount-2000511027",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/08/babbel-app.jpg",
-			"publishedAt": "2024-10-12T12:15:51Z",
-			"content": "In an unexpected turn of events following the recent Prime Day event, language learning enthusiasts have been gifted with an extraordinary opportunity: the renowned digital language education platfor… [+3415 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Gizmodo Deals",
-			"title": "Amazon Targets GoPro Hero 12 Prices with XL Discounts in a Surprise Deal for Prime Day",
-			"description": "For the first day of Prime Day, Amazon unleashes a crazy price on the GoPro HERO12 Black.",
-			"url": "https://gizmodo.com/amazon-targets-gopro-hero-12-prices-with-xl-discounts-in-a-surprise-deal-for-prime-day-2000508806",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/10/gopro-hero-12.jpg",
-			"publishedAt": "2024-10-08T12:35:27Z",
-			"content": "Amazon unleashed earlier this morning a terrific deal on the GoPro HERO12 Black which will make it one of the hottest items of the day. What’s even more exciting is that this offer is available to ev… [+3021 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Matt Novak",
-			"title": "Kroger’s Plan to Use Facial Recognition Raises Concerns About Surge Pricing",
-			"description": "How soon will the Minority Report-style supermarket arrive?",
-			"url": "https://gizmodo.com/krogers-plan-to-use-facial-recognition-raises-concerns-about-surge-pricing-2000512685",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/10/kroger-kentucky.jpg",
-			"publishedAt": "2024-10-16T19:35:52Z",
-			"content": "Democratic congresswoman Rashida Tlaib recently sent a letter to Kroger over the grocery giant’s purported plan to introduce digital price tags that could be changed in an instant to raise or lower p… [+3833 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "BBC News"
-			},
-			"author": null,
-			"title": "Bees tracked with tiny radar chips and drones",
-			"description": "Entomologist Dr Tonya Lander said her team invented the \"smallest\" radar tags used to track bees.",
-			"url": "https://www.bbc.com/news/articles/cj9jzv27lv2o",
-			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2b91/live/2549a850-816c-11ef-b80d-219ae862beec.jpg",
-			"publishedAt": "2024-10-06T06:24:26Z",
-			"content": "Tags are attached to the back of the bee in between its wings \"like a rucksack\"\r\nTiny radar chips are being fitted to bees to track their movements.\r\nA team at The University of Oxford have been inve… [+2677 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Gizmodo Deals",
-			"title": "Kim Kardashian Offers 46% Off on Her Beats Studio Pro for Prime Day",
-			"description": "This excellent Beats headset designed by Kim K is available for under $200.",
-			"url": "https://gizmodo.com/kim-kardashian-offers-46-off-on-her-beats-studio-pro-for-prime-day-2000508973",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/10/beats-pro-kim-k.jpg",
-			"publishedAt": "2024-10-08T14:10:05Z",
-			"content": "As Prime Day kicks into high gear, one deal is capturing the attention of fashion-forward shoppers: the Beats Studio Pro headphones which has been designed in collaboration with style icon Kim Kardas… [+2282 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Passant Rabie",
-			"title": "China’s Reusable Satellite Returns to Earth After Experimenting With Crop Mutations in Space",
-			"description": "The Shijian-19 satellite carried seeds to orbit, exposing them to the microgravity environment to test plant mutation in space.",
-			"url": "https://gizmodo.com/chinas-reusable-satellite-returns-to-earth-after-experimenting-with-crop-mutations-in-space-2000511032",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/10/China-Reusable-Satellite.jpeg",
-			"publishedAt": "2024-10-11T16:55:19Z",
-			"content": "A Chinese satellite has returned to Earth after spending two weeks in orbit conducting experiments on plant mutation, as the country looks to space to enhance its agricultural crops.\r\nShijian-19, Chi… [+2640 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Gizmodo Deals",
-			"title": "Google Has Discontinued The Nest WiFi, Amazon is Still Offering it at Nearly 80% Off After Prime Day",
-			"description": "This Google router is amazing and costs only $38.",
-			"url": "https://gizmodo.com/google-has-discontinued-the-nest-wifi-amazon-is-still-offering-it-at-nearly-80-off-after-prime-day-2000511440",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/10/google-nest-wifi.jpg",
-			"publishedAt": "2024-10-12T12:59:48Z",
-			"content": "Amazon has an extraordinary post-Prime Day deal on the Google Nest Wifi router and slashed its price by a massive 77%. This mesh Wi-Fi system was originally priced at $169 and it is now available for… [+2207 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Gizmodo Deals",
-			"title": "Four Days After Prime Day, Amazon Slashes The Price Of AirPods Max To A Record Low",
-			"description": "At less than $400, this Apple headset is an excellent bargain.",
-			"url": "https://gizmodo.com/four-days-after-prime-day-amazon-slashes-the-price-of-airpods-max-to-a-record-low-2000511566",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/07/airpods-max-apple.jpg",
-			"publishedAt": "2024-10-13T11:15:55Z",
-			"content": "As the autumn leaves begin to fall and the crisp October air settles in, Amazon has decided to extend its Prime Day festivities and offers a great opportunity for audiophiles. This Sunday, a particul… [+2289 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Gizmodo Deals",
-			"title": "10x Cheaper than a MacBook Pro, This HP Chromebook is the Perfect Prime Day Deal on Amazon",
-			"description": "This Chromebook running Chrome OS offers outstanding value for money.",
-			"url": "https://gizmodo.com/10x-cheaper-than-a-macbook-pro-this-hp-chromebook-is-the-perfect-prime-day-deal-on-amazon-2000507309",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/10/chromebook-hp-14.jpg",
-			"publishedAt": "2024-10-04T12:10:58Z",
-			"content": "Just ahead of Prime Day, Amazon is offering an incredible deal on the HP Chromebook 14 Laptop which makes it accessible to everyone including non-Prime members. This sleek (and efficient) device is n… [+2134 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Gizmodo Deals",
-			"title": "Google Discontinued Nest WiFi, Amazon Offers it at 80% Off After Prime Day",
-			"description": "This Google router is amazing and costs only $38.",
-			"url": "https://gizmodo.com/google-has-discontinued-the-nest-wifi-amazon-is-still-offering-it-at-nearly-80-off-prime-day-2000511440",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/10/google-nest-wifi.jpg",
-			"publishedAt": "2024-10-13T20:09:48Z",
-			"content": "Amazon has an extraordinary post-Prime Day deal on the Google Nest Wifi router and slashed its price by a massive 77%. This mesh Wi-Fi system was originally priced at $169 and it is now available for… [+2207 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Gizmodo Deals",
-			"title": "A Week After Prime Day, Amazon Offers Record-Low Price on Bose QC Ultra Headphones",
-			"description": "It offers exceptional noise-canceling capabilities and immersive sound experience.",
-			"url": "https://gizmodo.com/a-week-after-prime-day-amazon-offers-record-low-price-on-bose-qc-ultra-headphones-2000511849",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/10/bose-qc-ultra-1.jpg",
-			"publishedAt": "2024-10-15T12:55:03Z",
-			"content": "The Bose QuietComfort Ultra headphones have just hit a record low price point on Amazon and match last week’s Prime Day deal (but now available to all shoppers). Currently priced at $329 down from th… [+2107 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Gizmodo Deals",
-			"title": "With This Record Low Price, Babbel’s Lifetime Subscription is Now Cheaper Than a Pair of AirPods",
-			"description": "Are you looking to learn a new language without overspending?",
-			"url": "https://gizmodo.com/with-this-record-low-price-babbels-lifetime-subscription-is-now-cheaper-than-a-pair-of-airpods-2000512397",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/10/babbel-app-language.jpg",
-			"publishedAt": "2024-10-16T11:45:59Z",
-			"content": "Just when you thought the best deals had come and gone after Prime Day, Babbel has stepped in with an irresistible offer thats hard to ignore. This digital language education platform is now offering… [+2578 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Mike Fazioli",
-			"title": "Dyson Hot and Cool Jet Focus Is a Year-Round Investment Now 33% Off",
-			"description": "Heat up or cool down with the same powerful indoor fan and save over $150 at Amazon.",
-			"url": "https://gizmodo.com/dyson-hot-and-cool-jet-focus-is-a-year-round-investment-now-33-off-2000514378",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/10/Dyson-HotCool-AM09-fan.jpg",
-			"publishedAt": "2024-10-21T15:01:50Z",
-			"content": "Finding a great indoor heater for cold weather and a powerful cooling fan for the hot months isn’t necessarily hard to do, if you’re OK with buying two different devices. Getting a single machine tha… [+2226 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Jody Serrano",
-			"title": "Gizmodo Science Fair: A Giant Roller to Clean Up Oil Spills",
-			"description": "A materials science team at UT Austin developed a two-step system that dramatically speeds up oil spill cleanups, while recovering almost 99% of the oil to be reused.",
-			"url": "https://gizmodo.com/science-fair-roller-oil-spill-cleanup-2000496547",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/09/oil-water-seperate_r.jpg",
-			"publishedAt": "2024-09-24T12:00:50Z",
-			"content": "The materials science research team from the University of Texas at Austin is a winner of the 2024 Gizmodo Science Fair for developing a faster and more efficient system to clean up oil spills and re… [+6732 chars]"
-		},
-		{
-			"source": {
-				"id": "the-verge",
-				"name": "The Verge"
-			},
-			"author": "Jay Peters",
-			"title": "YouTube says it is ‘not hiding the skip button’ on ads",
-			"description": "YouTube is definitively saying that it isn’t hiding the skip button, but the company also confirmed that it’s changing some elements of ads.",
-			"url": "https://www.theverge.com/2024/10/9/24266183/youtube-not-hiding-skip-button-ads",
-			"urlToImage": "https://cdn.vox-cdn.com/thumbor/1L6awTcXjbADLDMFfR9g1r5lzDc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23986640/acastro_STK092_04.jpg",
-			"publishedAt": "2024-10-09T17:45:22Z",
-			"content": "YouTube says it is not hiding the skip button on ads\r\nYouTube says it is not hiding the skip button on ads\r\n / But you might see a progress bar instead of a countdown to know when to hit skip.\r\nByJay… [+1664 chars]"
-		},
-		{
-			"source": {
-				"id": "the-verge",
-				"name": "The Verge"
-			},
-			"author": "Jay Peters",
-			"title": "The Last of Us’ new season two trailer puts Joel and Ellie through the wringer",
-			"description": "The show is set to debut in 2025.",
-			"url": "https://www.theverge.com/2024/9/26/24255066/the-last-of-us-tlou-season-two-teaser-trailer",
-			"urlToImage": "https://cdn.vox-cdn.com/thumbor/9hUVgba-PaGURDQOwyU1IT2fIBg=/0x0:1920x1080/1200x628/filters:focal(803x495:804x496)/cdn.vox-cdn.com/uploads/chorus_asset/file/25643798/pedro_pascal_2.jpg",
-			"publishedAt": "2024-09-26T15:29:16Z",
-			"content": "The Last of Us new season 2 trailer puts Joel and Ellie through the wringer\r\nThe Last of Us new season 2 trailer puts Joel and Ellie through the wringer\r\n / The show is set to debut in 2025.\r\nByJay P… [+1242 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "VentureBeat"
-			},
-			"author": "Imran Khan",
-			"title": "The five tech trends driving video games",
-			"description": "Video game development is driven by technology and those technologies and techniques are always changing. Here's five that are currently moving things forward.",
-			"url": "https://venturebeat.com/ai/the-five-tech-trends-driving-video-games/",
-			"urlToImage": "https://venturebeat.com/wp-content/uploads/2024/09/screenshot-006-ue5-stack-o-bot-techblog-1918x1079-9e19d68ea242.jpg?w=1024?w=1200&strip=all",
-			"publishedAt": "2024-09-25T16:00:00Z",
-			"content": "GamesBeat Next is connecting the next generation of video game leaders. And you can join us, coming up October 28th and 29th in San Francisco! Take advantage of our buy one, get one free pass offer. … [+2235 chars]"
-		},
-		{
-			"source": {
-				"id": "the-verge",
-				"name": "The Verge"
-			},
-			"author": "Jay Peters",
-			"title": "Brazilian police arrested the hacker who stole everyone’s SSN",
-			"description": "Brazil’s federal police says it has arrested the hacker linked to the massive National Public Data hack that leaked 272 million Social Security numbers.",
-			"url": "https://www.theverge.com/2024/10/17/24272271/brazilian-police-usdod-hacker-arrest-national-public-data",
-			"urlToImage": "https://cdn.vox-cdn.com/thumbor/sCmNW1WQui173vJSZ5jcDGRH8bQ=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg",
-			"publishedAt": "2024-10-17T19:10:09Z",
-			"content": "Brazilian police arrested the hacker who stole everyones SSN\r\nBrazilian police arrested the hacker who stole everyones SSN\r\n / Operation Data Breach may have found its target, but that wont secure mo… [+1720 chars]"
-		},
-		{
-			"source": {
-				"id": "the-verge",
-				"name": "The Verge"
-			},
-			"author": "Jay Peters",
-			"title": "Apple is preparing an M4 MacBook Air update for early next year",
-			"description": "Apple plans to release MacBook Airs with M4 chips in early 2025. The company is also working on an M4 Mac Studio for sometime in 2025, too.",
-			"url": "https://www.theverge.com/2024/10/23/24277876/apple-m4-macbook-air-update",
-			"urlToImage": "https://cdn.vox-cdn.com/thumbor/FgQBJPicKhQ51umT273aTD89LoE=/0x0:2700x1800/1200x628/filters:focal(1350x900:1351x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25333661/247043_Apple_MacBook_Air_2024_AKrales_0200.jpg",
-			"publishedAt": "2024-10-23T19:17:56Z",
-			"content": "Apple is preparing an M4 MacBook Air update for early next year\r\nApple is preparing an M4 MacBook Air update for early next year\r\n / Apple is rumored to update many of its computers next week, but th… [+1535 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Seths.blog"
-			},
-			"author": "Seth Godin",
-			"title": "Knowing the territory",
-			"description": "There is always room for someone who really knows their way around an industry, a technology or a problem. That’s what agents, agencies and organizers do. The hard part isn’t in finding people who will value true on-the-ground expertise. The hard part is actu…",
-			"url": "https://seths.blog/2024/09/knowing-the-territory/",
-			"urlToImage": "https://seths.blog/wp-content/uploads/2018/06/seth_godin_ogimages_v02_18061317.jpg",
-			"publishedAt": "2024-09-24T08:17:00Z",
-			"content": "There is always room for someone who really knows their way around an industry, a technology or a problem.\r\nThat’s what agents, agencies and organizers do.\r\nThe hard part isn’t in finding people who … [+453 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "[Removed]"
-			},
-			"author": null,
-			"title": "[Removed]",
-			"description": "[Removed]",
-			"url": "https://removed.com",
-			"urlToImage": null,
-			"publishedAt": "2024-10-07T12:00:29Z",
-			"content": "[Removed]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "[Removed]"
-			},
-			"author": null,
-			"title": "[Removed]",
-			"description": "[Removed]",
-			"url": "https://removed.com",
-			"urlToImage": null,
-			"publishedAt": "2024-10-23T20:43:30Z",
-			"content": "[Removed]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "[Removed]"
-			},
-			"author": null,
-			"title": "[Removed]",
-			"description": "[Removed]",
-			"url": "https://removed.com",
-			"urlToImage": null,
-			"publishedAt": "2024-10-08T19:45:32Z",
-			"content": "[Removed]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Substack.com"
-			},
-			"author": "dynomight",
-			"title": "Arithmetic is an underrated world-modeling technology",
-			"description": "if you keep units",
-			"url": "https://dynomight.substack.com/p/arithmetic",
-			"urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd06580e4-dec0-49cd-9013-29632fb5e708_1440x900.jpeg",
-			"publishedAt": "2024-10-17T16:14:39Z",
-			"content": "Of all the cognitive tools our ancestors left us, whats best? Society seems to think pretty highly of arithmetic. Its one of the first things we learn as children. So I think its weird that only a ti… [+9174 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Todd Feathers",
-			"title": "Youth Sports Were Already Intense—Now AI Tools Are Supercharging the Competition",
-			"description": "Clubs and high school teams increasingly have access to AI video analysis and predictive analytics that are professionalizing youth sports.",
-			"url": "https://gizmodo.com/youth-sports-were-already-intense-now-ai-tools-are-supercharging-the-competition-2000506254",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/10/soccer_lady1.jpg",
-			"publishedAt": "2024-10-04T15:05:35Z",
-			"content": "Ashley Brown used to watch her daughters club volleyball games through the screen of her phone, afraid to put it down and miss out on footage of a set or kill that would catch the eye of a college re… [+9352 chars]"
-		},
-		{
-			"source": {
-				"id": "the-verge",
-				"name": "The Verge"
-			},
-			"author": "Jay Peters",
-			"title": "Epic has a plan for the rest of the decade",
-			"description": "At Unreal Fest this week, Epic CEO Tim Sweeney laid out the next decade of business for the Fortnite creator — including how they get to the metaverse.",
-			"url": "https://www.theverge.com/2024/10/5/24262376/epic-unreal-engine-6-fortnite-metaverse-plans",
-			"urlToImage": "https://cdn.vox-cdn.com/thumbor/3RBBv9dfiMmMzCnDqij9kRx4J24=/0x0:2040x1360/1200x628/filters:focal(935x590:936x591)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951570/VRG_Illo_STK186_L_Normand_TimSweeney_Neutral.jpg",
-			"publishedAt": "2024-10-05T12:00:00Z",
-			"content": "Epic has a plan for the rest of the decade\r\nEpic has a plan for the rest of the decade\r\n / Tim Sweeney says Epic is now financially sound. Next up, building the next generation of metaverse tools.\r\nB… [+7005 chars]"
-		},
-		{
-			"source": {
-				"id": "time",
-				"name": "Time"
-			},
-			"author": "Time",
-			"title": "In the Shadow of War, Armenia Tries to Make Its Economy Indispensable",
-			"description": "In the shadow of war, Armenia seeks to recast itself as a global technology hub.",
-			"url": "https://time.com/7095800/armenia-war-russia-azerbaijan-west-economy-tech-hub/",
-			"urlToImage": "https://api.time.com/wp-content/uploads/2024/10/Republic-Square-Yerevan-Armenia.jpg?quality=85&w=1200&h=628&crop=1",
-			"publishedAt": "2024-10-22T07:05:00Z",
-			"content": "With an Armenia wassup! and rakish shimmy, Floridian pop sensation Jason Derulo opened the 2024 World Congress on Innovation &amp; Technology (WCIT) in Yerevan on Oct. 4. The biggest party in the wor… [+15847 chars]"
-		},
-		{
-			"source": {
-				"id": "wired",
-				"name": "Wired"
-			},
-			"author": "David Gilbert",
-			"title": "The Shitposting Cartoon Dogs Sending Trucks, Drones, and Weapons to Ukraine’s Front Lines",
-			"description": "The North Atlantic Fella Organization, which started as a way to fight Kremlin propaganda, has raised millions of dollars to send vital equipment directly to soldiers fighting Russia.",
-			"url": "https://www.wired.com/story/nafo-ukraine-russia-war/",
-			"urlToImage": "https://media.wired.com/photos/6716e4084012a0d38806eebe/191:100/w_1280,c_limit/Security_trolls.jpg",
-			"publishedAt": "2024-10-22T14:34:37Z",
-			"content": "The fundraising drives are organized on Discord, Signal, and Telegrambut not on X, the platform that the NAFO movement has thrived on for years.\r\nPeople are being forced away from X, just because Rus… [+2319 chars]"
-		},
-		{
-			"source": {
-				"id": "wired",
-				"name": "Wired"
-			},
-			"author": "Morgan Meaker",
-			"title": "GPS Jamming Is Screwing With Norwegian Planes",
-			"description": "So much jamming is taking place in northeastern Norway, regulators no longer want to know.",
-			"url": "https://www.wired.com/story/gps-jamming-is-screwing-with-norwegian-planes/",
-			"urlToImage": "https://media.wired.com/photos/67098fb930823c7a2b66d366/191:100/w_1280,c_limit/GPS-Jamming-Business-538277305.jpg",
-			"publishedAt": "2024-10-17T10:32:52Z",
-			"content": "From the ground, northeastern Norway might look like fjord country, peppered with neat red houses and dissected by snowmobile tours through the winter. But for pilots flying above, the region has bec… [+2143 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Android Central"
-			},
-			"author": "michael.hicks@futurenet.com (Michael L Hicks)",
-			"title": "Garmin might beat Apple and Samsung to this watch display milestone — but there's reason for skepticism",
-			"description": "Since the Garmin Fenix 8 launched in August 2024, we've seen several leaks suggesting Garmin might sell a \"Fenix 8 MicroLED.\" Despite the convincing evidence, there's reasons to doubt whether Garmin can pull this off, based on Apple and Samsung's struggles wi…",
-			"url": "https://www.androidcentral.com/wearables/garmin-leak-suggests-fenix-8-microled-watch-coming-but-reasons-for-skepticism",
-			"urlToImage": "https://cdn.mos.cms.futurecdn.net/e5ZNbibquFyQLLZHdiG8qe-1200-80.jpg",
-			"publishedAt": "2024-10-10T15:14:03Z",
-			"content": "What you need to know\r\n<ul><li>Garmin watch face developers have spotted and leaked official references to new \"Garmin fēnix 8 MicroLED\" and \"tactix 8 — AMOLED\" watches.</li><li>A previous leak sugge… [+5735 chars]"
-		},
-		{
-			"source": {
-				"id": "time",
-				"name": "Time"
-			},
-			"author": "Associated Press",
-			"title": "Wimbledon Tennis Tournament Replaces Line Judges With AI Technology in Break With Tradition",
-			"description": "The All England Club announced that artificial intelligence will be used to make the ‘out’ and ‘fault’ calls at the championships from 2025.",
-			"url": "https://time.com/7081166/wimbledon-tennis-tournament-replaces-line-judges-with-ai-technology/",
-			"urlToImage": "https://api.time.com/wp-content/uploads/2024/10/AP24283405632465.jpg?quality=85&w=1200&h=628&crop=1",
-			"publishedAt": "2024-10-09T12:52:54Z",
-			"content": "LONDON That long-held Wimbledon tradition of line judges dressed in elegant uniforms is no more.\r\nThe All England Club announced Wednesday that artificial intelligence will be used to make the out an… [+1514 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "MacRumors"
-			},
-			"author": "Tim Hardwick",
-			"title": "Apple Secretly Developed Long-Range EV Battery Tech with China's BYD",
-			"description": "Apple secretly collaborated with Chinese automaker BYD to develop long-range electric vehicle battery technology as part of its now-nixed Apple Car project, according to Bloomberg. \n\n\n\n\n\nBeginning around 2017, the partnership focused on creating a battery sys…",
-			"url": "https://www.macrumors.com/2024/10/17/apple-ev-battery-tech-china-byd/",
-			"urlToImage": "https://images.macrumors.com/t/A6H07YFOj9QyoZccmAKyN9mm8lo=/2500x/article-new/2020/12/Apple-car-wheel-icon-feature-purple.jpg",
-			"publishedAt": "2024-10-17T09:35:30Z",
-			"content": "Apple secretly collaborated with Chinese automaker BYD to develop long-range electric vehicle battery technology as part of its now-nixed Apple Car project, according to Bloomberg. \r\nBeginning around… [+1489 chars]"
-		}
-	]
+  "status": "ok",
+  "totalResults": 69528,
+  "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Chris Welch",
+      "title": "Sonos announces ‘breakthrough’ Arc Ultra soundbar and Sub 4",
+      "description": "The new $999 Sonos Arc Ultra offers even more immersive and more powerful audio than the original Arc thanks to the inclusion of the company’s Sound Motion technology.",
+      "url": "https://www.theverge.com/2024/10/15/24270677/sonos-arc-ultra-soundbar-sub-4-announced",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/qgr4DDjVfb0SpLt2FrVdVE9CtUQ=/0x0:2685x1990/1200x628/filters:focal(1343x995:1344x996)/cdn.vox-cdn.com/uploads/chorus_asset/file/25678420/arcultra1.jpg",
+      "publishedAt": "2024-10-15T13:13:14Z",
+      "content": "Sonos announces breakthrough Arc Ultra soundbar and Sub 4\r\nSonos announces breakthrough Arc Ultra soundbar and Sub 4\r\n / The soundbar contains new Sound Motion technology that, according to Sonos, ma… [+2559 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "Back to Its Prime Day Price (59% Off), The Roborock Q7 Max+ is so Subtle That You’ll Hardly Notice it’s Working",
+      "description": "Combining advanced technology with exceptional convenience.",
+      "url": "https://gizmodo.com/back-to-its-prime-day-price-59-off-the-roborock-q7-max-is-so-subtle-that-youll-hardly-notice-its-working-2000511818",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/roborock-q7max-plus.jpg",
+      "publishedAt": "2024-10-15T12:25:01Z",
+      "content": "The Roborock Q7 Max+ robot vacuum cleaner is currently available at an incredible price of $359 down from its original $869 – which is a staggering 59% discount that matches the Prime Day offer and s… [+2207 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Todd Feathers",
+      "title": "It Seemed Like an AI Crime-Fighting Super Tool. Then Defense Attorneys Started Asking Questions",
+      "description": "Global Intelligence claims its Cybercheck technology can help cops find key evidence to nail a case. But a WIRED investigation reveals the smoking gun often appears far less solid.",
+      "url": "https://www.wired.com/story/cybercheck-crime-reports-prosecutions/",
+      "urlToImage": "https://media.wired.com/photos/66ba37efee59b37c653f4707/191:100/w_1280,c_limit/fingerprint-sec-1666220562.jpg",
+      "publishedAt": "2024-10-15T11:00:00Z",
+      "content": "In 2017, then 9-year-old Kayla Unbehaun was abducted. For years, the South Elgin, Illinois police department searched for Unbehaun and her noncustodial mother, Heather Unbehaun, who was accused of th… [+3494 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo",
+      "title": "First Vacuum in Space: Where Roborock’s Vision Meets the Cosmos",
+      "description": "Sending a vacuum into space not only showcases Roborock's innovative spirit but also redefines the boundaries of what home technology can achieve.",
+      "url": "https://gizmodo.com/first-vacuum-in-space-where-roborocks-vision-meets-the-cosmos-2000510102",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/roborock-s8-maxv-ultra.jpg",
+      "publishedAt": "2024-10-11T14:20:52Z",
+      "content": "Roborock is a pioneer and global leader in smart home robotics and has unveiled in April some new flagship products – the S8 Max Series. These cutting-edge robotic vacuum cleaners represent the pinna… [+3229 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Joe Tilleli",
+      "title": "Unbelievable, This “$1,000” Portable Printer Is Now Under $100 for Amazon Prime Day",
+      "description": "No need to surprise, it's a prime day week. The 90% off portable printer uses thermal printing technology instead of ink or toner.",
+      "url": "https://gizmodo.com/unbelievable-this-1000-portable-printer-is-now-under-100-for-amazon-prime-day-2000508592",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/PortablePrinter.jpg",
+      "publishedAt": "2024-10-07T20:43:49Z",
+      "content": "Amazon Prime Day is just about upon us, and even though it doesn’t technically start until tomorrow October 8th and end October 9th, there are still already a number of excellent opportunities to sta… [+2357 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo",
+      "title": "From Dust to the Stars: Roborock’s Vacuum Journey “Beyond Limits” with the S8 MaxV Ultra",
+      "description": "Roborock's recent launch of the S8 MaxV Ultra vacuum into Near Space showcases the durability and innovation of its technology in extreme conditions.",
+      "url": "https://gizmodo.com/from-dust-to-the-stars-roborocks-vacuum-journey-beyond-limits-with-the-s8-maxv-ultra-2000504850",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/09/roborock-space.jpg",
+      "publishedAt": "2024-10-02T13:36:36Z",
+      "content": "Roborock is a global leader in smart home robotics and has revolutionized the cleaning industry in the past decade. The company was founded in Beijing, China, and has quickly become one of the world’… [+4603 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Todd Feathers",
+      "title": "The Crusade to Replace Passwords With Passkeys Just Got More Fuel",
+      "description": "The FIDO Alliance released an online resource to explain why passkey technology is superior to passwords and how businesses can adopt it.",
+      "url": "https://gizmodo.com/an-industry-group-wants-you-to-replace-your-passwords-with-passkeys-2000512254",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/passkey-fido-alliance.jpg",
+      "publishedAt": "2024-10-16T11:00:17Z",
+      "content": "A global tech industry group devoted to ending the internet’s dependence on passwords has released a set of resources that it hopes will usher in a new paradigm for how we sign in to things online.\r\n… [+2242 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Musk promises self-driving Tesla taxis, but are they safe?",
+      "description": "BBC Tech Correspondent Lily Jamali analyses the 'robocabs' and if their technology is up to par.",
+      "url": "https://www.bbc.com/news/videos/c20p2gp4npeo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f97c/live/3a7ea200-8830-11ef-81f8-1f28bcc5be15.jpg",
+      "publishedAt": "2024-10-12T00:46:14Z",
+      "content": "Elon Musk has unveiled Tesla's long-awaited robotaxi, which he claims will hit the market as early as 2027. \r\nBBC Tech Correspondent Lily Jamali analyses the 'robocabs' and whether their reliance on … [+157 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Rob Reddick",
+      "title": "Formula E’s Race to Get the Whole World Electrified",
+      "description": "Since launching in 2014, the world’s premier EV racing series has made huge technological leaps and gained hundreds of millions of fans. But CEO Jeff Dodds won’t rest until every new car is electric.",
+      "url": "https://www.wired.com/story/wired-energy-tech-summit-jeff-dodds-formula-e/",
+      "urlToImage": "https://media.wired.com/photos/66fad5471a6754e67328db22/191:100/w_1280,c_limit/formula-e-sci-2152011844.jpg",
+      "publishedAt": "2024-10-02T08:00:00Z",
+      "content": "What sorts of offsets do you focus on? People have different opinions as to what is good enough, and theyre not all equal.\r\nWe primarily focus on the creation of renewable energy, since thats what gi… [+3401 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Todd Feathers",
+      "title": "California Governor Vetoes AI Bill Aimed at Preventing Catastrophic Harms",
+      "description": "California Governor Gavin Newsom said that by focusing only on the largest harms caused by the largest AI models the bill would harm innovation and fail to keep up with the pace of technology.",
+      "url": "https://gizmodo.com/california-governor-vetoes-ai-bill-aimed-at-preventing-catastrophic-harms-2000504550",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/09/newsom-ai-sb1047-law.jpg",
+      "publishedAt": "2024-09-30T12:45:39Z",
+      "content": "California Governor Gavin Newsom on Sunday vetoed a bill aimed at preventing large AI systems from causing catastrophic harms, saying the legislation would have created a “false sense of security.”\r\n… [+4310 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-21T22:25:23Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-23T17:30:45Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "Apple Releases Safari Technology Preview 205 With Bug Fixes and Performance Improvements",
+      "description": "Apple today released a new update for Safari Technology Preview, the experimental browser that was first introduced in March 2016. Apple designed ‌Safari Technology Preview‌ to allow users to test features that are planned for future release versions of the S…",
+      "url": "https://www.macrumors.com/2024/10/07/apple-releases-safari-technology-preview-205/",
+      "urlToImage": "https://images.macrumors.com/t/gSfA9gdPJTtAYv_7hjK9YByevcM=/2500x/article-new/2024/07/Safari-Technology-Preview-Updated-Feature-1.jpg",
+      "publishedAt": "2024-10-07T23:51:00Z",
+      "content": "Apple today released a new update for Safari Technology Preview, the experimental browser that was first introduced in March 2016. Apple designed ‌Safari Technology Preview‌ to allow users to test fe… [+998 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Eric Geller",
+      "title": "How a Trump Win Could Unleash Dangerous AI",
+      "description": "Donald Trump's opposition to “woke” safety standards for artificial intelligence would likely mean the dismantling of regulations that protect Americans from misinformation, discrimination, and worse.",
+      "url": "https://www.wired.com/story/donald-trump-ai-safety-regulation/",
+      "urlToImage": "https://media.wired.com/photos/6708161d6970c1949890b9bc/191:100/w_1280,c_limit/Security_Trump_AI_GettyImages-2176990947.jpg",
+      "publishedAt": "2024-10-21T10:30:00Z",
+      "content": "The reporting requirements are essential for alerting the government to potentially dangerous new capabilities in increasingly powerful AI models, says a US government official who works on AI issues… [+3559 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Verity Burns",
+      "title": "Nintendo Alarmo: Price, Specs, Availability",
+      "description": "Nintendo’s new alarm clock lets you choose from a variety of characters from Mario to Zelda and reacts to your movements, so you can snooze with gestures or end it by jumping out of bed.",
+      "url": "https://www.wired.com/story/nintendo-alarmo-alarm-clock/",
+      "urlToImage": "https://media.wired.com/photos/6706ae2e453d6ebf8bd8943b/191:100/w_1280,c_limit/alarmclock-gear-1197800612.jpg",
+      "publishedAt": "2024-10-09T17:28:26Z",
+      "content": "Of all the hardware announcements we might have been expecting next from Nintendo, a new alarm clock was not one of them. But the Nintendo Sound Clock: Alarmo is very real, and will be available excl… [+1576 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Seths.blog"
+      },
+      "author": "Seth Godin",
+      "title": "Yes, but how does it work?",
+      "description": "I worked with Arthur C. Clarke at the very beginning of my career. He’s most famous for saying, “Any sufficiently advanced technology is indistinguishable from magic.” Magic isn’t such a bad thing. And we certainly have plenty of advanced technology around. A…",
+      "url": "https://seths.blog/2024/10/yes-but-how-does-it-work/",
+      "urlToImage": "https://seths.blog/wp-content/uploads/2018/06/seth_godin_ogimages_v02_18061318.jpg",
+      "publishedAt": "2024-10-05T08:51:00Z",
+      "content": "I worked with Arthur C. Clarke at the very beginning of my career. He’s most famous for saying, “Any sufficiently advanced technology is indistinguishable from magic.”\r\nMagic isn’t such a bad thing.\r… [+978 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Meta is working on recreating influencers with AI",
+      "description": "Meta is experimenting with automatic video dubbing and lip-syncing on Reels. The idea is that these features will make it easier for creators to share videos more broadly.",
+      "url": "https://www.theverge.com/2024/9/25/24254190/meta-connect-2024-ai-auto-dubbing-lip-syncing",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/cMGnxNAXm2GaccTecAKOKJ0I3YQ=/0x0:4016x2647/1200x628/filters:focal(2244x1438:2245x1439)/cdn.vox-cdn.com/uploads/chorus_asset/file/25641545/IMG_5583.jpg",
+      "publishedAt": "2024-09-25T18:13:29Z",
+      "content": "Meta is working on recreating influencers with AI\r\nMeta is working on recreating influencers with AI\r\n / The feature could be a huge way for creators to reach broader audiences.\r\nByJay Peters, a news… [+1494 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "nickodiaz@sbcglobal.net (Nickolas Diaz)",
+      "title": "Xiaomi 15 said to be 'unmatched' with Qualcomm's Snapdragon 8 Elite",
+      "description": "The company also discussed its HyperCore technology to join Qualcomm's newest chip.",
+      "url": "https://www.androidcentral.com/phones/xiaomi-15-snapdragon-8-elite-keynote-announcement",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/iSwnGsFpVnXEJKXLtGX2bR-1200-80.jpg",
+      "publishedAt": "2024-10-21T22:00:19Z",
+      "content": "What you need to know\r\n<ul><li>Xiaomi's SVP and president, Adam Zeng, discussed what consumers can expect from the Xiaomi 15 series during Qualcomm's Summit 2024.</li><li>Zeng states the phone will b… [+2825 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Abigail Bassett",
+      "title": "Honda Zero first drive: an EV without the baggage",
+      "description": "Honda’s new Zero EV platform is coming out soon. We test drove a prototype in Japan to see how the company’s efforts to slim down batteries and motors are progressing.",
+      "url": "https://www.theverge.com/2024/10/8/24265238/honda-zero-first-drive-ev-weight-battery-vr-autonomous",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/sVl6wLqbRTPL2B1eLXu_JeDeFes=/0x0:3500x2333/1200x628/filters:focal(1750x1167:1751x1168)/cdn.vox-cdn.com/uploads/chorus_asset/file/25664720/PG_Test_Drive_46.jpg",
+      "publishedAt": "2024-10-08T17:00:00Z",
+      "content": "Image: Honda\r\n\n \n\n\n Honda says its new electric platform is an antidote to oversized, overweight EVs. We test drove a prototype in Japan to see how that’s developing. Honda is no stranger to pushing … [+7032 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Sophie Charara",
+      "title": "An ‘iPhone of AI’ Makes No Sense. What Is Jony Ive Really Building?",
+      "description": "LoveFrom is working with OpenAI to build AI devices that are less “socially disruptive” than the iPhone. Is Ive looking for absolution or a new computing soul?",
+      "url": "https://www.wired.com/story/jony-ive-iphone-of-ai/",
+      "urlToImage": "https://media.wired.com/photos/66f6d940bf343e435b352d6c/191:100/w_1280,c_limit/jony-ive-gear-AP22307130112686.jpg",
+      "publishedAt": "2024-09-28T10:00:00Z",
+      "content": "At this point, phrases like ambient computing, ubiquitous computing, and even (shudder) Internet of Things may be zipping and popping around your brain. Are we back here again? If the answer is yes, … [+3454 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Sebastian Bonilla",
+      "title": "These Record-Breaking New Solar Panels Produce 60 Percent More Electricity",
+      "description": "Experimental cells that combine silicon with a material called perovskite have broken the efficiency record for converting solar energy—and could eventually supercharge how we get electricity.",
+      "url": "https://www.wired.com/story/tandem-solar-panel-cells-efficiency-energy/",
+      "urlToImage": "https://media.wired.com/photos/66f6d9e8edd5b22be7017791/191:100/w_1280,c_limit/GettyImages-1681913304.jpg",
+      "publishedAt": "2024-09-28T12:00:00Z",
+      "content": "THIS ARTICLE IS republished fromThe Conversationunder aCreative Commons license.\r\nThe sight of solar panels installed on rooftops and large energy farms has become commonplace in many regions around … [+3578 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "Amazon is Offering a Huge Discount on The Bose QuietComfort Ultra if You Buy it Before The End of Prime Day Tonight",
+      "description": "Are you looking for the most premium ANC headphones on the market?",
+      "url": "https://gizmodo.com/amazon-is-offering-a-huge-discount-on-the-bose-quietcomfort-ultra-if-you-buy-it-before-the-end-of-prime-day-tonight-2000509779",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/bose-qc-ultra.jpg",
+      "publishedAt": "2024-10-09T14:14:19Z",
+      "content": "The Bose QuietComfort Ultra headphones are the latest and most luxurious addition to Bose’s renowned lineup and they are now available at an incredibly low price for Amazon’s Prime Day. For just $329… [+2264 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "To Protect Your Health, The Blueair Air Purifier Is Now Available At 46% Off For Prime Day",
+      "description": "This air purifier will help you combat allergies, viruses, dust, mold and smoke.",
+      "url": "https://gizmodo.com/to-protect-your-health-the-blueair-air-purifier-is-now-available-at-46-off-for-prime-day-2000507882",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/blueair-purifier.jpg",
+      "publishedAt": "2024-10-06T12:44:07Z",
+      "content": "Prime Day is here and with it comes an exceptional deal on one of the most powerful air purifiers on the market. The Blueair Air Purifier for Large Rooms, specifically the Blue Pure 211i Max model, i… [+2127 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "From Wimbledon to VAR, is tech hurting the drama of sport?",
+      "description": "As Wimbledon scraps human line judges, sport insiders suggest how we can make games more exciting.",
+      "url": "https://www.bbc.com/news/articles/c9dy4434nj3o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5745/live/a634bd10-87b1-11ef-b0bd-ed1c890dbbf6.jpg",
+      "publishedAt": "2024-10-13T00:02:58Z",
+      "content": "Line judges will no longer feature at Wimbledon from next year\r\n\"The drama of a player shouting and making a challenge, and the crowd watching the screen and waiting for Hawk-Eye to make a decision, … [+5654 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Tim Hardwick",
+      "title": "Gurman: Apple Believes Its AI Technology Is Two Years Behind Rivals",
+      "description": "Some Apple employees believe that the company's in-house generative AI technology powering Apple Intelligence is more than two years behind industry leaders, according to Bloomberg's Mark Gurman.\n\n\n\n\n\nWriting in his latest Power On newsletter, Gurman's source…",
+      "url": "https://www.macrumors.com/2024/10/21/apple-artificial-intelligence-years-behind-rivals/",
+      "urlToImage": "https://images.macrumors.com/t/M2A51Dg_0tteMenthsWX6iCzgok=/1600x/article-new/2024/09/Apple-Intelligence-iPhone-16.jpg",
+      "publishedAt": "2024-10-21T10:20:19Z",
+      "content": "Some Apple employees believe that the company's in-house generative AI technology powering Apple Intelligence is more than two years behind industry leaders, according to Bloomberg's Mark Gurman.\r\nWr… [+1772 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "You can sign up to test Microsoft Flight Simulator 2024 if your PC is up to it",
+      "description": "Microsoft is holding an alpha test for Flight Simulator 2024. It’s designed to stress test the core services of the game, ahead of its debut on November 19th.",
+      "url": "https://www.theverge.com/2024/10/9/24265946/microsoft-flight-simulator-2024-alpha-test",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/5cpmZLBfCQV5m-EHsP7KXSIzRiA=/0x0:2160x1440/1200x628/filters:focal(1080x720:1081x721)/cdn.vox-cdn.com/uploads/chorus_asset/file/25629511/flightsim1.jpg",
+      "publishedAt": "2024-10-09T11:31:03Z",
+      "content": "You can sign up to test Microsoft Flight Simulator 2024 if your PC is up to it\r\nYou can sign up to test Microsoft Flight Simulator 2024 if your PC is up to it\r\n / Microsoft is holding an alpha test f… [+2156 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Wes Davis",
+      "title": "Threshold’s Wi-Fi sensing plugs offer caregiver monitoring without cameras",
+      "description": "The Motion Wi-Fi Sensing Plugs use interference to detect motion, allowing remote caregivers to monitor household activity without installing an invasive camera.",
+      "url": "https://www.theverge.com/2024/10/10/24266406/threshold-wi-fi-sensing-plugs-motion-detection",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/XxOIPRRqtY7nxH8VZ6UXhNKdwnA=/0x0:2048x1435/1200x628/filters:focal(1024x718:1025x719)/cdn.vox-cdn.com/uploads/chorus_asset/file/25668281/Threshold_Care__Inc._r1_770A4901_crop.jpg",
+      "publishedAt": "2024-10-10T13:00:00Z",
+      "content": "Thresholds Wi-Fi sensing plugs offer caregiver monitoring without cameras\r\nThresholds Wi-Fi sensing plugs offer caregiver monitoring without cameras\r\n / The Motion Wi-Fi Sensing Plugs use interferenc… [+2152 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Joe Rossignol",
+      "title": "Apple Predicted to Release iPhones With Thinner OLED Displays Next Year… iPhone 17 Air?",
+      "description": "Taiwanese company Novatek has announced plans to begin mass production of OLED displays with TDDI (touch and display driver integration) technology as early as the second quarter of 2025, supply chain publication DigiTimes reported today.\n\n\n\n\n\nThe report stat…",
+      "url": "https://www.macrumors.com/2024/10/04/oled-tddi-iphones-rumor/",
+      "urlToImage": "https://images.macrumors.com/t/tY_oHXtuAUOotOHlu_0TjSDodwc=/2500x/article-new/2024/08/iPhone-17-Slim-Feature-Single-Camera-2.jpg",
+      "publishedAt": "2024-10-04T14:53:36Z",
+      "content": "Taiwanese company Novatek has announced plans to begin mass production of OLED displays with TDDI (touch and display driver integration) technology as early as the second quarter of 2025, supply chai… [+1061 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "christinep2424@gmail.com (Christine Persaud)",
+      "title": "Can the Oura Ring 4 automatically detect workouts?",
+      "description": "With the Oura Ring 4, you can leverage new Smart Sensing technology and automatic tracking that makes sure you get credit for your hard work.",
+      "url": "https://www.androidcentral.com/wearables/can-oura-ring-4-automatically-detect-workouts",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/FZ28NkgQNTRR7wXSZsygca-1200-80.jpg",
+      "publishedAt": "2024-10-15T06:12:44Z",
+      "content": "Can the Oura Ring 4 automatically detect workouts?\r\nBest answer: Yes! The Oura Ring 4 smart ring is designed to automatically detect exercise, workouts, and other distinct movements, like gardening o… [+3468 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-09-25T17:59:50Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "jerry.hildenbrand@futurenet.com (Jerry Hildenbrand)",
+      "title": "Your smartphone is more of a collaborative effort than you think",
+      "description": "Your phone uses technology from plenty of sources. Getting it all to play well together is only half the battle; doing it legally is equally important.",
+      "url": "https://www.androidcentral.com/phones/why-licensing-is-important",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/rndDsNbSySJFMhwDXetJ9-1200-80.jpg",
+      "publishedAt": "2024-10-02T21:30:25Z",
+      "content": "The back of your phone doesn't really tell you who made it; it only tells you what company put all the pieces together.\r\nPhones, like all other consumer electronics, are a collection of technology fr… [+4577 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Bianca Chan",
+      "title": "Market-making giant Citadel Securities is rebuilding the tech that powers its trades as it eyes growth",
+      "description": "Two of Citadel Securities' top technology execs explain how the market maker is revamping its core trading infrastructure.",
+      "url": "https://www.businessinsider.com/inside-citadel-securities-multi-year-rebuild-trading-technology-2024-10",
+      "urlToImage": "https://i.insider.com/6716b9c301ea6d83dee2f97b?width=1200&format=jpeg",
+      "publishedAt": "2024-10-22T12:26:02Z",
+      "content": "Citadel Securities' COO of technology, Jeff Maurone, and CTO, Josh Woods.Citadel Securities\r\n<ul><li>Ken Griffin's market maker, Citadel Securities, is revamping its core trading infrastructure.</li>… [+6287 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "Forget Bose and Sonos, Amazon Slashes AirPods Max Prices by 20% Ahead of Prime Day",
+      "description": "And to think, Apple typically shuns discounts!",
+      "url": "https://gizmodo.com/forget-bose-and-sonos-amazon-slashes-airpods-max-prices-by-20-ahead-of-prime-day-2000506851",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/airpods-max-apple.jpg",
+      "publishedAt": "2024-10-03T15:20:28Z",
+      "content": "Apple’s AirPods Max, the premium over-ear headphones are now available at a discounted price on Amazon. In a rare move that’s sure to excite Apple fans, these high-end headphones are currently discou… [+2257 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "Amazon Slashes AirPods Max Price to Record Low for Prime Day Clearance Sale",
+      "description": "And Apple hates discounts!",
+      "url": "https://gizmodo.com/amazon-slashes-airpods-max-price-to-record-low-for-prime-day-clearance-sale-2000507985",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/airpods-max-apple-1.jpg",
+      "publishedAt": "2024-10-06T16:43:32Z",
+      "content": "Amazon has slashed prices on Apple’s premium AirPods Max and offers an unprecedented deal that’s turning heads in the tech world. These high-end over-ear headphones originally priced at $549 saw an i… [+2510 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "The Galaxy Z Fold 6 Is Almost Free On The Samsung Site, $1,500 Discount as a Prime Day Gift",
+      "description": "The Galaxy Z Fold 6 is undoubtedly the best folding phone available right now.",
+      "url": "https://gizmodo.com/the-galaxy-z-fold-6-is-almost-free-on-the-samsung-site-1500-discount-as-a-prime-day-gift-2000507365",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/zfold-6-samsung.jpg",
+      "publishedAt": "2024-10-05T12:15:58Z",
+      "content": "As Prime Day weekend unfolds, Samsung is offering an incredible opportunity to purchase the Galaxy Z Fold 6 at a fraction of its original price through its official website. This limited-time offer i… [+2548 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "This Prime Day, Our Favorite TV is The 65-Inch LG C4 OLED at 45% Off",
+      "description": "This price is ridiculously low!",
+      "url": "https://gizmodo.com/this-prime-day-our-favorite-tv-is-the-65-inch-lg-c4-oled-at-45-off-2000508365",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/tv-lg-c4.jpg",
+      "publishedAt": "2024-10-07T17:15:53Z",
+      "content": "As the Prime Day event kicks off on Amazon, there’s an exceptional deal on the LG OLED evo C4 Series 4K TVs which offers unprecedented value across multiple screen sizes. What makes this offer even m… [+2464 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "3 times Cheaper Than The New XM5 Model, The Sony 1000XM4 Headphones Are 63% Off For Prime Day",
+      "description": "This is one of the best deals for Prime Day.",
+      "url": "https://gizmodo.com/3-times-cheaper-than-the-new-xm5-model-the-sony-1000xm4-headphones-are-63-off-for-prime-day-2000508199",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/sony-1000xm4.jpg",
+      "publishedAt": "2024-10-07T13:20:20Z",
+      "content": "The Sony WH-1000XM4 headphones have just become the star of Amazon’s Prime Day with an unprecedented 63% discount bringing their price down to a mere $129 from the original $348. This deal was announ… [+2295 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "The Galaxy Z Fold 6 Is Almost Free On The Samsung Site, $1500 Discount as a Prime Day Gift",
+      "description": "The Galaxy Z Fold 6 is undoubtedly the best folding phone available right now.",
+      "url": "https://gizmodo.com/the-galaxy-z-fold-6-is-almost-free-on-the-samsung-site-1500-discount-as-prime-day-gift-2000507365",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/zfold-6-samsung.jpg",
+      "publishedAt": "2024-10-07T21:46:58Z",
+      "content": "As Prime Day unfolds, Samsung is offering an incredible opportunity to purchase the Galaxy Z Fold 6 at a fraction of its original price through its official website. This limited-time offer is entici… [+2535 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "Amazon Cares About Your Health, It’s Selling Blueair Air Purifiers at 46% Off",
+      "description": "This air purifier is one of the best sellers of Prime Day.",
+      "url": "https://gizmodo.com/amazon-cares-about-your-health-its-selling-blueair-air-purifiers-at-46-off-2000509289",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/blueair-purifier.jpg",
+      "publishedAt": "2024-10-08T17:28:59Z",
+      "content": "The Blueair Air Purifier for Large Rooms, specifically the Blue Pure 211i Max model, is now available at an astounding 46% discount bringing its price down from $349 to just $189 for Prime members. T… [+1887 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "Goodbye to Cleaning, This Roborock S8+ at 45% Off on Prime Day is an Absolute Dream for Lazy People",
+      "description": "Roborock is one of the leading brands of robot vacuums.",
+      "url": "https://gizmodo.com/goodbye-to-cleaning-this-roborock-s8-at-45-off-on-prime-day-is-an-absolute-dream-for-lazy-people-2000508029",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/roborock-s8-plus.jpg",
+      "publishedAt": "2024-10-06T20:11:21Z",
+      "content": "As Prime Day is about to begin, Amazon is offering a great deal on the Roborock S8+ slashing its price from $999 to just $549 which represents a massive 45% discount. The good news is that this offer… [+2621 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "At -45% on Amazon Prime Day, This LG C4 Series TV Will Sell Like Hotcakes",
+      "description": "Amazon surprises us with this unprecedented offer.",
+      "url": "https://gizmodo.com/at-45-on-amazon-prime-day-this-lg-c4-series-tv-will-sell-like-hotcakes-2000508799",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/tv-lg-oled.jpg",
+      "publishedAt": "2024-10-08T12:10:27Z",
+      "content": "Today is the first day of Prime Day at Amazon, and you can enjoy a stunning deal on LG’s OLED evo C4 Series 4K TVs. The current deal offers a massive discount across multiple screen sizes and what’s … [+2939 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Todd Feathers",
+      "title": "Parents Sue School That Gave Bad Grade to Student Who Used AI to Complete Assignment",
+      "description": "A Massachusetts couple claims that their son's high school attempted to derail his future by giving him detention and a bad grade on an assignment he wrote using generative AI.",
+      "url": "https://gizmodo.com/parents-sue-school-that-gave-bad-grade-to-student-who-used-ai-to-complete-assignment-2000512000",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/hingham-schools-ai-lawsuit.jpg",
+      "publishedAt": "2024-10-15T16:20:21Z",
+      "content": "An old and powerful force has entered the fraught debate over generative AI in schools: litigious parents angry that their child may not be accepted into a prestigious university.\r\nIn what appears to… [+3085 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Amy Francombe",
+      "title": "Coperni’s Spray-On Dress Was a Viral Smash. This Gravity-Defying Gel Bag Might Top It",
+      "description": "The sci-fi-loving fashion house has partnered with Disney to make an eco-friendly bag that could signal a shift in 3D-printed apparel.",
+      "url": "https://www.wired.com/story/coperni-spray-on-dress-viral-smash-gravity-defying-gel-bag-might-top-it/",
+      "urlToImage": "https://media.wired.com/photos/66fd467140a8f70164da2d56/191:100/w_1280,c_limit/GettyImages-2176008474.jpg",
+      "publishedAt": "2024-10-02T14:49:43Z",
+      "content": "Coperni has yet to decide how many RLP Swipe Bags will be put into production, but for Meyer, starting a conversation around these innovations is more important than immediate commercial success. Its… [+2689 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hackaday"
+      },
+      "author": "Bryan Cockfield",
+      "title": "Custom Drone Software Searches, Rescues",
+      "description": "When a new technology first arrives in people’s hands, it often takes a bit of time before the full capabilities of that technology are realized. In much the same way that many early Internet…",
+      "url": "https://hackaday.com/2024/10/24/custom-drone-software-searches-rescues/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2024/10/drone-main.jpg",
+      "publishedAt": "2024-10-25T05:00:52Z",
+      "content": "When a new technology first arrives in people’s hands, it often takes a bit of time before the full capabilities of that technology are realized. In much the same way that many early Internet users s… [+2159 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Geoff Weiss",
+      "title": "Mira Murati is the latest OpenAI exec to leave. Read the memo she sent to staff.",
+      "description": "OpenAI's chief technology officer Mira Murati is leaving the company — the latest in a string of executive departures from the leading AI company.",
+      "url": "https://www.businessinsider.com/mira-murati-openai-cto-leaving-executive-memo-staff-2024-9",
+      "urlToImage": "https://i.insider.com/66f46ac3de59ade1a3b49f9e?width=1200&format=jpeg",
+      "publishedAt": "2024-09-25T19:56:20Z",
+      "content": "PATRICK T. FALLON/Getty Images\r\nOpenAI's Chief Technology Officer Mira Murati is leaving the company — the latest in a string of high-profile departures from the leading AI company.After six-and-a-ha… [+569 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Sarah Gray",
+      "title": "Read the note CEO Sam Altman sent to OpenAI staff announcing another 2 big exits",
+      "description": "Mira Murati, OpenAI's chief technology officer, announced her exit from the company Wednesday. Now two others are also leaving, Sam Altman revealed.",
+      "url": "https://www.businessinsider.com/sam-altman-openai-note-more-staff-exits-barret-bob-2024-9",
+      "urlToImage": "https://i.insider.com/66f4abffde59ade1a3b4ab86?width=1200&format=jpeg",
+      "publishedAt": "2024-09-26T00:51:06Z",
+      "content": "OpenAI CEO Sam Altman announced more departures at the company he leads.Andrew Caballero-Reynolds/AFP/Getty Images\r\n<ul><li>Mira Murati, OpenAI's chief technology officer, earlier announced her depar… [+4167 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Alistair Barr",
+      "title": "Is Mark Zuckerberg still obsessed with efficiency? Check Meta's WiFi password.",
+      "description": "The company is spending heavily on AI and AR technology. Is the CEO still focused on efficiency? A big hint was dropped at Meta Connect this week.",
+      "url": "https://www.businessinsider.com/meta-mark-zuckerberg-efficiency-obsession-wifi-password-2024-9",
+      "urlToImage": "https://i.insider.com/66f5a9d2de59ade1a3b50c24?width=1200&format=jpeg",
+      "publishedAt": "2024-09-27T09:00:02Z",
+      "content": "At the Meta Connect developer conference, CEO Mark Zuckerberg shows off prototype of computer glassespicture alliance/Getty Images\r\n<ul><li>The social-media giant held its big Meta Connect conference… [+1290 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Sarah Jackson",
+      "title": "Bill Gates shares his 3 biggest concerns about AI",
+      "description": "Bill Gates is a self-described optimist about the future of AI. But he still worries about three potential impacts from the new technology.",
+      "url": "https://www.businessinsider.com/microsoft-bill-gates-ai-concerns-2024-9",
+      "urlToImage": "https://i.insider.com/66fad2f175c877a99b61c6ba?width=1200&format=jpeg",
+      "publishedAt": "2024-09-30T18:13:12Z",
+      "content": "Bill Gates shared his three main concerns about AI in a recent podcast episode.Sean Gallup/Getty Images\r\n<ul><li>Bill Gates is decidedly optimistic about AI.</li><li>But he still has some big concern… [+3724 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Julia Hood,Tim Paradis",
+      "title": "Leaders from BCG, Infosys, AARP, and more predict how AI will transform top companies in the next 12 months",
+      "description": "Executives at BCG, Infosys, AARP, and more predict how companies will change with AI — and explain what they can do to leverage the technology.",
+      "url": "https://www.businessinsider.com/leaders-discuss-ai-technology-transform-company-workflows-unlock-employee-potential-2024-10",
+      "urlToImage": "https://i.insider.com/66fc51337de5c8fd48345fdb?width=1200&format=jpeg",
+      "publishedAt": "2024-10-04T13:44:38Z",
+      "content": "Getty Images; Andrius Banelis for BI\r\nIt's impossible to talk about workforce innovation without addressing artificial intelligence.During a virtual roundtable, we asked Business Insider's Workforce … [+16739 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Dominick Reuter",
+      "title": "Fears of automation are at the heart of the dockworkers strike",
+      "description": "The USMX employers association says it's willing to continue the old technology agreement, but the ILA labor union says the terms were already broken.",
+      "url": "https://www.businessinsider.com/port-strike-dockworkers-union-automation-job-replacement-concerns-2024-10",
+      "urlToImage": "https://i.insider.com/66fc646d5ccfc192a5526538?width=1200&format=jpeg",
+      "publishedAt": "2024-10-02T14:22:50Z",
+      "content": "Dockworkers picket near the Port of Miami entrance and demand a new labor contract.Giorgio Viera / AFP via Getty Images\r\n<ul><li>Automation is a core issue at play in the ongoing dockworker strike at… [+4406 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Tim Paradis",
+      "title": "Sam Altman says if you're afraid of bots taking your job, you should get good with AI",
+      "description": "OpenAI CEO Sam Altman advises students to master AI technology to stay ahead in future job markets, emphasizing the evolving role of human creativity.",
+      "url": "https://www.businessinsider.com/sam-altman-young-people-worried-about-ai-should-learn-tech-2024-9",
+      "urlToImage": "https://i.insider.com/66f5c287f9f6733e4be01ad1?width=1200&format=jpeg",
+      "publishedAt": "2024-09-26T21:01:45Z",
+      "content": "ChatGPT-maker OpenAI CEO Sam Altman says people should get \"comfortable\" with AI tools.Justin Sullivan/Getty Images;Chelsea Jia Feng/BI\r\n<ul><li>Sam Altman advises students to master AI technology to… [+4088 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Peter Kafka",
+      "title": "You don't need a QR code to get the facts checked at Tuesday's VP debate",
+      "description": "CBS News will fact-check the VP debate live on Tuesday — and it's promoting a newfangled technology to get you to its website: a QR code.",
+      "url": "https://www.businessinsider.com/vice-presidential-debate-cbs-qr-code-fact-checking-vance-walz-2024-9",
+      "urlToImage": "https://i.insider.com/66fb0be87518aa57bc9f7749?width=1200&format=jpeg",
+      "publishedAt": "2024-09-30T20:45:58Z",
+      "content": "CBS News will play host to the vice presidential debate. It will also be fact-checking, which it's promoting by QR code. But you don't really need to use that.Chip Somodevilla/Getty Images\r\n<ul><li>I… [+3339 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Morgan McFall-Johnsen",
+      "title": "The sun is at its 11-year maximum. That means another year of eruptions that can endanger satellites, ground flights, and spark stunning auroras.",
+      "description": "NASA says the sun is at its maximum and likely to belch out big eruptions that cause technology issues and spark stunning auroras in the next year.",
+      "url": "https://www.businessinsider.com/nasa-declares-sun-maximum-what-solar-storms-mean-technology-auroras-2024-10",
+      "urlToImage": "https://i.insider.com/670f07fda70318649282aa50?width=1200&format=jpeg",
+      "publishedAt": "2024-10-16T16:59:47Z",
+      "content": "The sun emits the largest solar flare of this 11-year cycle, as imaged by NASA's Solar Dynamics Observatory on October 3.NASA/SDO\r\n<ul><li>NASA says the sun is in the highly active \"maximum phase\" of… [+4958 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Tom Carter",
+      "title": "This Chinese EV maker is up for a battle with Elon Musk in China",
+      "description": "Xpeng co-president Brian Gu said the Guangzhou-based EV startup was keen to see how its autonomous driving technology shapes up to Elon Musk's.",
+      "url": "https://www.businessinsider.com/chinese-tesla-rival-xpeng-welcomes-competition-from-elon-musk-2024-10",
+      "urlToImage": "https://i.insider.com/670d39cd3f2165d716e09970?width=1200&format=jpeg",
+      "publishedAt": "2024-10-15T09:46:36Z",
+      "content": "Chinese EV players have been shut out of the US by tariffs. PETER PARKS/AFP via Getty Images\r\n<ul><li>Chinese EV startup Xpeng is relishing the prospect of testing its tech against Tesla.</li><li>Lik… [+3186 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Lily Hay Newman, Andrew Couts",
+      "title": "Google Chrome’s uBlock Origin Purge Has Begun",
+      "description": "Plus: The alleged SEC X account hacker gets charged, Kroger wriggles out of a face recognition scandal, and Microsoft deals with missing customer security logs.",
+      "url": "https://www.wired.com/story/google-chrome-ublock-origin-extension/",
+      "urlToImage": "https://media.wired.com/photos/6712a9ad28a5e591865a1b60/191:100/w_1280,c_limit/GettyImages-2151457378.jpg",
+      "publishedAt": "2024-10-19T10:30:00Z",
+      "content": "And thats not all. Each week, we round up the security and privacy news we didnt cover in depth ourselves. Click the headlines to read the full stories. And stay safe out there.\r\nIf you use uBlock Or… [+3760 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Marah Eakin",
+      "title": "Filmmakers Are Worried About AI. Big Tech Wants Them to See ‘What's Possible’",
+      "description": "Amazon is hosting AI filmmaking competitions. Meta is letting directors test Movie Gen. As tech companies develop new tools, they need filmmakers to show they can be used responsibly.",
+      "url": "https://www.wired.com/story/filmmakers-are-worried-about-ai-big-tech-wants-them-to-see-whats-possible/",
+      "urlToImage": "https://media.wired.com/photos/6711554a3597949fe9631a86/191:100/w_1280,c_limit/Hollywood-Worried-About-AI-Culver-Cup-Now-Playing-Board-Culture.jpg",
+      "publishedAt": "2024-10-17T18:59:14Z",
+      "content": "You have to learn the fundamentals, he says. Technology will change, but storytelling wont.\r\nTo make his short, Mnemonade, really sing, Meta Puppet says he focused on giving the story some emotional … [+3065 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-09T20:06:58Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-09-25T20:02:30Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-15T14:14:13Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Fortnite creators can now make first-person shooters",
+      "description": "Developers that build Fortnite experiences can now try out a new first-person camera mode, Epic Games announced.",
+      "url": "https://www.theverge.com/2024/10/1/24258447/fortnite-creators-first-person-shooters-fps-unreal-editor",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/lQTW5pu2yldcm6BoTu2n7QldCyU=/0x0:1200x630/1200x628/filters:focal(600x315:601x316)/cdn.vox-cdn.com/uploads/chorus_asset/file/25651689/Unreal_Fest_Seattle___UEFN___First_Person_Camera_Mode_device__Experimental____2.jpg",
+      "publishedAt": "2024-10-01T14:00:00Z",
+      "content": "Fortnite creators can now make first-person shooters\r\nFortnite creators can now make first-person shooters\r\n / Theyll be able to publish FPS experiences later in 2024 with Unreal Editor for Fortnite.… [+1268 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Mariella Moon",
+      "title": "Arm cancels Qualcomm's license to use its chip design standards",
+      "description": "Arm has taken its feud with Qualcomm to the next level, two years after filing a lawsuit against its former close partner. According to Bloomberg, the British semiconductor company has canceled the architecture license allowing Qualcomm to use its intellectua…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_49ede2b3-088b-42df-8dde-5e90f6c7d8f1",
+      "urlToImage": null,
+      "publishedAt": "2024-10-23T12:30:31Z",
+      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Karissa Bell",
+      "title": "Meta’s Orion holographic avatars will (eventually) be in VR too",
+      "description": "The biggest reveal at Meta’s Connect event was its long-promised AR glasses\r\n, Orion. As expected, the prototype, each of which reportedly costs around $10,000, won’t be ready for the public any time soon.\nIn the meantime, Meta offered a glimpse of its new ho…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ccbff175-3845-41a2-9fdd-3c2bb3969374",
+      "urlToImage": null,
+      "publishedAt": "2024-09-25T23:52:06Z",
+      "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jennifer Pattison Tuohy",
+      "title": "Sleep Number’s newest smart bed aims to tackle night sweats",
+      "description": "The company says its newest smart bed can actively cool and adapt to both sleepers’ temperature needs throughout the night.",
+      "url": "https://www.theverge.com/2024/10/1/24259440/sleep-number-climate-cool-smart-bed-price-features",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/b7tR_OnblE8cXExsFC4Ga4ntCqE=/711x757:3306x2710/1200x628/filters:focal(2046x1248:2047x1249)/cdn.vox-cdn.com/uploads/chorus_asset/file/25652952/cc_FT_FXT_FX2_2407_01a.jpg",
+      "publishedAt": "2024-10-01T18:59:20Z",
+      "content": "Sleep Numbers newest smart bed aims to tackle night sweats\r\nSleep Numbers newest smart bed aims to tackle night sweats\r\n / The ClimateCool can actively cool you and adjust to your temperature through… [+3346 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew J. Hawkins",
+      "title": "Tesla Cybercab announced: Elon Musk’s robotaxi is finally here",
+      "description": "Tesla CEO Elon Musk unveiled the long-awaited prototype robotaxi at an event in Los Angeles. But questions remain about the vehicle’s safety.",
+      "url": "https://www.theverge.com/2024/10/10/24265530/tesla-robotaxi-elon-musk-features-range-price-release-date",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/fBs9y8RUB3-qwqpgYcORgqbrDfs=/0x0:2560x1440/1200x628/filters:focal(1280x720:1281x721)/cdn.vox-cdn.com/uploads/chorus_asset/file/25670491/videoframe_3297637.png",
+      "publishedAt": "2024-10-11T02:59:05Z",
+      "content": "Tesla Cybercab announced: Elon Musks robotaxi is finally here\r\nTesla Cybercab announced: Elon Musks robotaxi is finally here\r\n / Musk showed off a prototype of a self-driving car he calls the Cyberca… [+3285 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Meta brings back face scanning to combat scams and account hacking",
+      "description": "Facebook and Instagram are testing new facial recognition tools that could help users quickly restore compromised accounts and combat fake celebrity-endorsed scams.",
+      "url": "https://www.theverge.com/2024/10/22/24276593/meta-facebook-instagram-facial-recognition-tools-test-celeb-bait",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/-_BU3_aGSOMK1HkXINTd7V3vLOU=/0x0:1536x864/1200x628/filters:focal(768x432:769x433)/cdn.vox-cdn.com/uploads/chorus_asset/file/25692971/Meta_facial_recogition.jpg",
+      "publishedAt": "2024-10-22T12:19:05Z",
+      "content": "Meta brings back face scanning to combat scams and account hacking\r\nMeta brings back face scanning to combat scams and account hacking\r\n / The tech coming to Instagram and Facebook was previously axe… [+2760 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Wes Davis",
+      "title": "Dodge Chargers with semi-solid-state batteries may hit the road in 2026",
+      "description": "Stellantis plans to demonstrate a fleet of Dodge Charger Daytonas equipped with semi-solid-state batteries in 2026, using tech that Mercedes will also deploy in the future.",
+      "url": "https://www.theverge.com/2024/10/23/24277832/dodge-charger-ev-semi-solid-state-mercedes-stellantis-demo-2026",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/lPNHAbNnSghQhGQ6HqtXU1cEi-Q=/0x0:3000x2400/1200x628/filters:focal(1500x1200:1501x1201)/cdn.vox-cdn.com/uploads/chorus_asset/file/25315929/DG024_030CH.jpg",
+      "publishedAt": "2024-10-23T20:35:26Z",
+      "content": "Dodge Chargers with semi-solid-state batteries may hit the road in 2026\r\nDodge Chargers with semi-solid-state batteries may hit the road in 2026\r\n / Stellantis says it will demo solid-state battery t… [+2584 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "Amazon Targets GoPro Hero 12 Prices with XL Discounts in a Surprise Deal for Prime Day",
+      "description": "For the first day of Prime Day, Amazon unleashes a crazy price on the GoPro HERO12 Black.",
+      "url": "https://gizmodo.com/amazon-targets-gopro-hero-12-prices-with-xl-discounts-in-a-surprise-deal-for-prime-day-2000508806",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/gopro-hero-12.jpg",
+      "publishedAt": "2024-10-08T12:35:27Z",
+      "content": "Amazon unleashed earlier this morning a terrific deal on the GoPro HERO12 Black which will make it one of the hottest items of the day. What’s even more exciting is that this offer is available to ev… [+3021 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Matt Novak",
+      "title": "Kroger’s Plan to Use Facial Recognition Raises Concerns About Surge Pricing",
+      "description": "How soon will the Minority Report-style supermarket arrive?",
+      "url": "https://gizmodo.com/krogers-plan-to-use-facial-recognition-raises-concerns-about-surge-pricing-2000512685",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/kroger-kentucky.jpg",
+      "publishedAt": "2024-10-16T19:35:52Z",
+      "content": "Democratic congresswoman Rashida Tlaib recently sent a letter to Kroger over the grocery giant’s purported plan to introduce digital price tags that could be changed in an instant to raise or lower p… [+3833 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "In The Wake of Prime Day, Babbel Language Service hits record low price with a 76% discount.",
+      "description": "Following the excitement of Prime Day, Babbel has unveiled an incredible offer and slashes its lifetime subscription price by 76%.",
+      "url": "https://gizmodo.com/in-the-wake-of-prime-day-babbel-language-service-hits-record-low-price-with-a-76-discount-2000511027",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/babbel-app.jpg",
+      "publishedAt": "2024-10-12T12:15:51Z",
+      "content": "In an unexpected turn of events following the recent Prime Day event, language learning enthusiasts have been gifted with an extraordinary opportunity: the renowned digital language education platfor… [+3415 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Bees tracked with tiny radar chips and drones",
+      "description": "Entomologist Dr Tonya Lander said her team invented the \"smallest\" radar tags used to track bees.",
+      "url": "https://www.bbc.com/news/articles/cj9jzv27lv2o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2b91/live/2549a850-816c-11ef-b80d-219ae862beec.jpg",
+      "publishedAt": "2024-10-06T06:24:26Z",
+      "content": "Tags are attached to the back of the bee in between its wings \"like a rucksack\"\r\nTiny radar chips are being fitted to bees to track their movements.\r\nA team at The University of Oxford have been inve… [+2677 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Passant Rabie",
+      "title": "China’s Reusable Satellite Returns to Earth After Experimenting With Crop Mutations in Space",
+      "description": "The Shijian-19 satellite carried seeds to orbit, exposing them to the microgravity environment to test plant mutation in space.",
+      "url": "https://gizmodo.com/chinas-reusable-satellite-returns-to-earth-after-experimenting-with-crop-mutations-in-space-2000511032",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/China-Reusable-Satellite.jpeg",
+      "publishedAt": "2024-10-11T16:55:19Z",
+      "content": "A Chinese satellite has returned to Earth after spending two weeks in orbit conducting experiments on plant mutation, as the country looks to space to enhance its agricultural crops.\r\nShijian-19, Chi… [+2640 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "Google Has Discontinued The Nest WiFi, Amazon is Still Offering it at Nearly 80% Off After Prime Day",
+      "description": "This Google router is amazing and costs only $38.",
+      "url": "https://gizmodo.com/google-has-discontinued-the-nest-wifi-amazon-is-still-offering-it-at-nearly-80-off-after-prime-day-2000511440",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/google-nest-wifi.jpg",
+      "publishedAt": "2024-10-12T12:59:48Z",
+      "content": "Amazon has an extraordinary post-Prime Day deal on the Google Nest Wifi router and slashed its price by a massive 77%. This mesh Wi-Fi system was originally priced at $169 and it is now available for… [+2207 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "Four Days After Prime Day, Amazon Slashes The Price Of AirPods Max To A Record Low",
+      "description": "At less than $400, this Apple headset is an excellent bargain.",
+      "url": "https://gizmodo.com/four-days-after-prime-day-amazon-slashes-the-price-of-airpods-max-to-a-record-low-2000511566",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/07/airpods-max-apple.jpg",
+      "publishedAt": "2024-10-13T11:15:55Z",
+      "content": "As the autumn leaves begin to fall and the crisp October air settles in, Amazon has decided to extend its Prime Day festivities and offers a great opportunity for audiophiles. This Sunday, a particul… [+2289 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "Kim Kardashian Offers 46% Off on Her Beats Studio Pro for Prime Day",
+      "description": "This excellent Beats headset designed by Kim K is available for under $200.",
+      "url": "https://gizmodo.com/kim-kardashian-offers-46-off-on-her-beats-studio-pro-for-prime-day-2000508973",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/beats-pro-kim-k.jpg",
+      "publishedAt": "2024-10-08T14:10:05Z",
+      "content": "As Prime Day kicks into high gear, one deal is capturing the attention of fashion-forward shoppers: the Beats Studio Pro headphones which has been designed in collaboration with style icon Kim Kardas… [+2282 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "10x Cheaper than a MacBook Pro, This HP Chromebook is the Perfect Prime Day Deal on Amazon",
+      "description": "This Chromebook running Chrome OS offers outstanding value for money.",
+      "url": "https://gizmodo.com/10x-cheaper-than-a-macbook-pro-this-hp-chromebook-is-the-perfect-prime-day-deal-on-amazon-2000507309",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/chromebook-hp-14.jpg",
+      "publishedAt": "2024-10-04T12:10:58Z",
+      "content": "Just ahead of Prime Day, Amazon is offering an incredible deal on the HP Chromebook 14 Laptop which makes it accessible to everyone including non-Prime members. This sleek (and efficient) device is n… [+2134 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "Google Discontinued Nest WiFi, Amazon Offers it at 80% Off After Prime Day",
+      "description": "This Google router is amazing and costs only $38.",
+      "url": "https://gizmodo.com/google-has-discontinued-the-nest-wifi-amazon-is-still-offering-it-at-nearly-80-off-prime-day-2000511440",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/google-nest-wifi.jpg",
+      "publishedAt": "2024-10-13T20:09:48Z",
+      "content": "Amazon has an extraordinary post-Prime Day deal on the Google Nest Wifi router and slashed its price by a massive 77%. This mesh Wi-Fi system was originally priced at $169 and it is now available for… [+2207 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "A Week After Prime Day, Amazon Offers Record-Low Price on Bose QC Ultra Headphones",
+      "description": "It offers exceptional noise-canceling capabilities and immersive sound experience.",
+      "url": "https://gizmodo.com/a-week-after-prime-day-amazon-offers-record-low-price-on-bose-qc-ultra-headphones-2000511849",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/bose-qc-ultra-1.jpg",
+      "publishedAt": "2024-10-15T12:55:03Z",
+      "content": "The Bose QuietComfort Ultra headphones have just hit a record low price point on Amazon and match last week’s Prime Day deal (but now available to all shoppers). Currently priced at $329 down from th… [+2107 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Mike Fazioli",
+      "title": "Dyson Hot and Cool Jet Focus Is a Year-Round Investment Now 33% Off",
+      "description": "Heat up or cool down with the same powerful indoor fan and save over $150 at Amazon.",
+      "url": "https://gizmodo.com/dyson-hot-and-cool-jet-focus-is-a-year-round-investment-now-33-off-2000514378",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Dyson-HotCool-AM09-fan.jpg",
+      "publishedAt": "2024-10-21T15:01:50Z",
+      "content": "Finding a great indoor heater for cold weather and a powerful cooling fan for the hot months isn’t necessarily hard to do, if you’re OK with buying two different devices. Getting a single machine tha… [+2226 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "With This Record Low Price, Babbel’s Lifetime Subscription is Now Cheaper Than a Pair of AirPods",
+      "description": "Are you looking to learn a new language without overspending?",
+      "url": "https://gizmodo.com/with-this-record-low-price-babbels-lifetime-subscription-is-now-cheaper-than-a-pair-of-airpods-2000512397",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/babbel-app-language.jpg",
+      "publishedAt": "2024-10-16T11:45:59Z",
+      "content": "Just when you thought the best deals had come and gone after Prime Day, Babbel has stepped in with an irresistible offer thats hard to ignore. This digital language education platform is now offering… [+2578 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "The Last of Us’ new season two trailer puts Joel and Ellie through the wringer",
+      "description": "The show is set to debut in 2025.",
+      "url": "https://www.theverge.com/2024/9/26/24255066/the-last-of-us-tlou-season-two-teaser-trailer",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/9hUVgba-PaGURDQOwyU1IT2fIBg=/0x0:1920x1080/1200x628/filters:focal(803x495:804x496)/cdn.vox-cdn.com/uploads/chorus_asset/file/25643798/pedro_pascal_2.jpg",
+      "publishedAt": "2024-09-26T15:29:16Z",
+      "content": "The Last of Us new season 2 trailer puts Joel and Ellie through the wringer\r\nThe Last of Us new season 2 trailer puts Joel and Ellie through the wringer\r\n / The show is set to debut in 2025.\r\nByJay P… [+1242 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "YouTube says it is ‘not hiding the skip button’ on ads",
+      "description": "YouTube is definitively saying that it isn’t hiding the skip button, but the company also confirmed that it’s changing some elements of ads.",
+      "url": "https://www.theverge.com/2024/10/9/24266183/youtube-not-hiding-skip-button-ads",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/1L6awTcXjbADLDMFfR9g1r5lzDc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23986640/acastro_STK092_04.jpg",
+      "publishedAt": "2024-10-09T17:45:22Z",
+      "content": "YouTube says it is not hiding the skip button on ads\r\nYouTube says it is not hiding the skip button on ads\r\n / But you might see a progress bar instead of a countdown to know when to hit skip.\r\nByJay… [+1664 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "VentureBeat"
+      },
+      "author": "Imran Khan",
+      "title": "The five tech trends driving video games",
+      "description": "Video game development is driven by technology and those technologies and techniques are always changing. Here's five that are currently moving things forward.",
+      "url": "https://venturebeat.com/ai/the-five-tech-trends-driving-video-games/",
+      "urlToImage": "https://venturebeat.com/wp-content/uploads/2024/09/screenshot-006-ue5-stack-o-bot-techblog-1918x1079-9e19d68ea242.jpg?w=1024?w=1200&strip=all",
+      "publishedAt": "2024-09-25T16:00:00Z",
+      "content": "GamesBeat Next is connecting the next generation of video game leaders. And you can join us, coming up October 28th and 29th in San Francisco! Take advantage of our buy one, get one free pass offer. … [+2235 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Brazilian police arrested the hacker who stole everyone’s SSN",
+      "description": "Brazil’s federal police says it has arrested the hacker linked to the massive National Public Data hack that leaked 272 million Social Security numbers.",
+      "url": "https://www.theverge.com/2024/10/17/24272271/brazilian-police-usdod-hacker-arrest-national-public-data",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/sCmNW1WQui173vJSZ5jcDGRH8bQ=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg",
+      "publishedAt": "2024-10-17T19:10:09Z",
+      "content": "Brazilian police arrested the hacker who stole everyones SSN\r\nBrazilian police arrested the hacker who stole everyones SSN\r\n / Operation Data Breach may have found its target, but that wont secure mo… [+1720 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Apple is preparing an M4 MacBook Air update for early next year",
+      "description": "Apple plans to release MacBook Airs with M4 chips in early 2025. The company is also working on an M4 Mac Studio for sometime in 2025, too.",
+      "url": "https://www.theverge.com/2024/10/23/24277876/apple-m4-macbook-air-update",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/FgQBJPicKhQ51umT273aTD89LoE=/0x0:2700x1800/1200x628/filters:focal(1350x900:1351x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25333661/247043_Apple_MacBook_Air_2024_AKrales_0200.jpg",
+      "publishedAt": "2024-10-23T19:17:56Z",
+      "content": "Apple is preparing an M4 MacBook Air update for early next year\r\nApple is preparing an M4 MacBook Air update for early next year\r\n / Apple is rumored to update many of its computers next week, but th… [+1535 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-07T12:00:29Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-23T20:43:30Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-08T19:45:32Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Substack.com"
+      },
+      "author": "dynomight",
+      "title": "Arithmetic is an underrated world-modeling technology",
+      "description": "if you keep units",
+      "url": "https://dynomight.substack.com/p/arithmetic",
+      "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd06580e4-dec0-49cd-9013-29632fb5e708_1440x900.jpeg",
+      "publishedAt": "2024-10-17T16:14:39Z",
+      "content": "Of all the cognitive tools our ancestors left us, whats best? Society seems to think pretty highly of arithmetic. Its one of the first things we learn as children. So I think its weird that only a ti… [+9174 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Todd Feathers",
+      "title": "Youth Sports Were Already Intense—Now AI Tools Are Supercharging the Competition",
+      "description": "Clubs and high school teams increasingly have access to AI video analysis and predictive analytics that are professionalizing youth sports.",
+      "url": "https://gizmodo.com/youth-sports-were-already-intense-now-ai-tools-are-supercharging-the-competition-2000506254",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/soccer_lady1.jpg",
+      "publishedAt": "2024-10-04T15:05:35Z",
+      "content": "Ashley Brown used to watch her daughters club volleyball games through the screen of her phone, afraid to put it down and miss out on footage of a set or kill that would catch the eye of a college re… [+9352 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Epic has a plan for the rest of the decade",
+      "description": "At Unreal Fest this week, Epic CEO Tim Sweeney laid out the next decade of business for the Fortnite creator — including how they get to the metaverse.",
+      "url": "https://www.theverge.com/2024/10/5/24262376/epic-unreal-engine-6-fortnite-metaverse-plans",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/3RBBv9dfiMmMzCnDqij9kRx4J24=/0x0:2040x1360/1200x628/filters:focal(935x590:936x591)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951570/VRG_Illo_STK186_L_Normand_TimSweeney_Neutral.jpg",
+      "publishedAt": "2024-10-05T12:00:00Z",
+      "content": "Epic has a plan for the rest of the decade\r\nEpic has a plan for the rest of the decade\r\n / Tim Sweeney says Epic is now financially sound. Next up, building the next generation of metaverse tools.\r\nB… [+7005 chars]"
+    },
+    {
+      "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "Time",
+      "title": "In the Shadow of War, Armenia Tries to Make Its Economy Indispensable",
+      "description": "In the shadow of war, Armenia seeks to recast itself as a global technology hub.",
+      "url": "https://time.com/7095800/armenia-war-russia-azerbaijan-west-economy-tech-hub/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2024/10/Republic-Square-Yerevan-Armenia.jpg?quality=85&w=1200&h=628&crop=1",
+      "publishedAt": "2024-10-22T07:05:00Z",
+      "content": "With an Armenia wassup! and rakish shimmy, Floridian pop sensation Jason Derulo opened the 2024 World Congress on Innovation &amp; Technology (WCIT) in Yerevan on Oct. 4. The biggest party in the wor… [+15847 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "David Gilbert",
+      "title": "The Shitposting Cartoon Dogs Sending Trucks, Drones, and Weapons to Ukraine’s Front Lines",
+      "description": "The North Atlantic Fella Organization, which started as a way to fight Kremlin propaganda, has raised millions of dollars to send vital equipment directly to soldiers fighting Russia.",
+      "url": "https://www.wired.com/story/nafo-ukraine-russia-war/",
+      "urlToImage": "https://media.wired.com/photos/6716e4084012a0d38806eebe/191:100/w_1280,c_limit/Security_trolls.jpg",
+      "publishedAt": "2024-10-22T14:34:37Z",
+      "content": "The fundraising drives are organized on Discord, Signal, and Telegrambut not on X, the platform that the NAFO movement has thrived on for years.\r\nPeople are being forced away from X, just because Rus… [+2319 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Morgan Meaker",
+      "title": "GPS Jamming Is Screwing With Norwegian Planes",
+      "description": "So much jamming is taking place in northeastern Norway, regulators no longer want to know.",
+      "url": "https://www.wired.com/story/gps-jamming-is-screwing-with-norwegian-planes/",
+      "urlToImage": "https://media.wired.com/photos/67098fb930823c7a2b66d366/191:100/w_1280,c_limit/GPS-Jamming-Business-538277305.jpg",
+      "publishedAt": "2024-10-17T10:32:52Z",
+      "content": "From the ground, northeastern Norway might look like fjord country, peppered with neat red houses and dissected by snowmobile tours through the winter. But for pilots flying above, the region has bec… [+2143 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "michael.hicks@futurenet.com (Michael L Hicks)",
+      "title": "Garmin might beat Apple and Samsung to this watch display milestone — but there's reason for skepticism",
+      "description": "Since the Garmin Fenix 8 launched in August 2024, we've seen several leaks suggesting Garmin might sell a \"Fenix 8 MicroLED.\" Despite the convincing evidence, there's reasons to doubt whether Garmin can pull this off, based on Apple and Samsung's struggles wi…",
+      "url": "https://www.androidcentral.com/wearables/garmin-leak-suggests-fenix-8-microled-watch-coming-but-reasons-for-skepticism",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/e5ZNbibquFyQLLZHdiG8qe-1200-80.jpg",
+      "publishedAt": "2024-10-10T15:14:03Z",
+      "content": "What you need to know\r\n<ul><li>Garmin watch face developers have spotted and leaked official references to new \"Garmin fēnix 8 MicroLED\" and \"tactix 8 — AMOLED\" watches.</li><li>A previous leak sugge… [+5735 chars]"
+    },
+    {
+      "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "Associated Press",
+      "title": "Wimbledon Tennis Tournament Replaces Line Judges With AI Technology in Break With Tradition",
+      "description": "The All England Club announced that artificial intelligence will be used to make the ‘out’ and ‘fault’ calls at the championships from 2025.",
+      "url": "https://time.com/7081166/wimbledon-tennis-tournament-replaces-line-judges-with-ai-technology/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2024/10/AP24283405632465.jpg?quality=85&w=1200&h=628&crop=1",
+      "publishedAt": "2024-10-09T12:52:54Z",
+      "content": "LONDON That long-held Wimbledon tradition of line judges dressed in elegant uniforms is no more.\r\nThe All England Club announced Wednesday that artificial intelligence will be used to make the out an… [+1514 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Tim Hardwick",
+      "title": "Apple Secretly Developed Long-Range EV Battery Tech with China's BYD",
+      "description": "Apple secretly collaborated with Chinese automaker BYD to develop long-range electric vehicle battery technology as part of its now-nixed Apple Car project, according to Bloomberg. \n\n\n\n\n\nBeginning around 2017, the partnership focused on creating a battery sys…",
+      "url": "https://www.macrumors.com/2024/10/17/apple-ev-battery-tech-china-byd/",
+      "urlToImage": "https://images.macrumors.com/t/A6H07YFOj9QyoZccmAKyN9mm8lo=/2500x/article-new/2020/12/Apple-car-wheel-icon-feature-purple.jpg",
+      "publishedAt": "2024-10-17T09:35:30Z",
+      "content": "Apple secretly collaborated with Chinese automaker BYD to develop long-range electric vehicle battery technology as part of its now-nixed Apple Car project, according to Bloomberg. \r\nBeginning around… [+1489 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Reece Rogers",
+      "title": "OpenAI's ChatGPT Breaks Out of Its Box—and Onto a Canvas",
+      "description": "ChatGPT’s new canvas interface can suggest improvements to writing and code as well as make in-line changes.",
+      "url": "https://www.wired.com/story/chatgpt-canvas-openai/",
+      "urlToImage": "https://media.wired.com/photos/66fd98c9db0c3cf7d034e0b4/191:100/w_1280,c_limit/OpenAI-ChatGpt-Update-Business-2174798150.jpg",
+      "publishedAt": "2024-10-03T17:15:00Z",
+      "content": "Although both writing and coding modes give the choice of requesting in-line edits, the bifurcated user interface for canvas is designed with one additional set of shortcuts for those focused on AI-a… [+3790 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Steven Levy",
+      "title": "No, Sam Altman, AI Won’t Solve All of Humanity's Problems",
+      "description": "The OpenAI CEO’s recent mini-manifesto argues (again) that AI will make the future impossibly bright. He could use a refresher course on the basics of human behavior.",
+      "url": "https://www.wired.com/story/plaintext-no-sam-altman-ai-wont-solve-all-of-humanitys-problems/",
+      "urlToImage": "https://media.wired.com/photos/66f5c96b0554f3a51198ab94/191:100/w_1280,c_limit/Plaintext-Sam-Altman-The-Intelligence-Age-Business-1930535953.jpg",
+      "publishedAt": "2024-09-27T13:00:00Z",
+      "content": "We already knew where OpenAIs CEO, Sam Altman, stands on artificial intelligence vis-à-vis the human saga: It will be transformative, historic, and overwhelmingly beneficial. He has been nothing but … [+4169 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Vas Panagiotopoulos",
+      "title": "ICE's $2 Million Contract With a Spyware Vendor Is Under White House Review",
+      "description": "Immigration and Customs Enforcement's contract with Paragon Solutions faces scrutiny over whether it complies with the Biden administration's executive order on spyware, WIRED has learned.",
+      "url": "https://www.wired.com/story/ice-paragon-contract-white-house-review/",
+      "urlToImage": "https://media.wired.com/photos/67165c8276ffbecde7d8d803/191:100/w_1280,c_limit/GettyImages-2159650477.jpg",
+      "publishedAt": "2024-10-21T19:03:22Z",
+      "content": "A $2 million contract that United States Immigration and Customs Enforcement signed with Israeli commercial spyware vendor Paragon Solutions has been paused and placed under compliance review, WIRED … [+2391 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Passant Rabie",
+      "title": "NASA’s Pioneering Solar Sail Hits a Snag While Tumbling in Space",
+      "description": "Mission operators are analyzing a small bend in one of the spacecraft's composite booms.",
+      "url": "https://gizmodo.com/nasas-pioneering-solar-sail-hits-a-snag-while-tumbling-in-space-2000515524",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Solar-Sail.jpeg",
+      "publishedAt": "2024-10-23T16:25:12Z",
+      "content": "A microwave-sized spacecraft with large silver wings is tumbling in orbit as engineers work to fix a glitch that’s causing it to lose orientation.\r\nAfter deploying four composite booms on board the e… [+5540 chars]"
+    }
+  ]
 }
