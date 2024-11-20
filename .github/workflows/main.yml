@@ -11,7 +11,7 @@ permissions:
 
 jobs:
   update-all-json-every-3-hours:
-    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' || true
     runs-on: ubuntu-latest
 
     steps:
@@ -30,28 +30,34 @@ jobs:
         run: |
           node script/fetch-all.js
 
-      - name: Commit changes for 3-hour JSONs to git-bot-spam branch
+      - name: Fetch and Merge Latest Changes from Remote Branch
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # Create and switch to the git-bot-spam branch if it doesn't exist
-          git fetch origin
-          git checkout -B git-bot-spam origin/git-bot-spam || git checkout -b git-bot-spam
 
-          # Add changes and commit if there are any
+          # Fetch latest changes from the remote git-bot-spam branch
+          git fetch origin git-bot-spam
+
+          # Checkout the target branch
+          git checkout git-bot-spam
+
+          # Merge the remote changes into the local branch
+          git merge origin/git-bot-spam --no-edit || echo "Merge conflicts detected, skipping commit"
+
+          # Add all changes
           git add .
-          if ! git diff --cached --quiet; then  # Check if there are changes
+
+          # Commit if there are any changes
+          if ! git diff --cached --quiet; then
             git commit -m "Updated JSON files every 3 hours"
             git push origin git-bot-spam
           else
             echo "No changes to commit."
-          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   update-headline-json-every-1-hour:
-    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' || true
     runs-on: ubuntu-latest
 
     steps:
@@ -66,26 +72,32 @@ jobs:
       - name: Install Axios
         run: npm install axios
 
-      - name: Update Headline JSON File Every 1 Hour
+      - name: Update JSON File Every 1 Hour
         run: |
           node script/fetch-headline.js
 
-      - name: Commit changes for 1-hour JSON to git-bot-spam branch
+      - name: Fetch and Merge Latest Changes from Remote Branch
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # Create and switch to the git-bot-spam branch if it doesn't exist
-          git fetch origin
-          git checkout -B git-bot-spam origin/git-bot-spam || git checkout -b git-bot-spam
 
-          # Add changes and commit if there are any
+          # Fetch latest changes from the remote git-bot-spam branch
+          git fetch origin git-bot-spam
+
+          # Checkout the target branch
+          git checkout git-bot-spam
+
+          # Merge the remote changes into the local branch
+          git merge origin/git-bot-spam --no-edit || echo "Merge conflicts detected, skipping commit"
+
+          # Add all changes
           git add .
-          if ! git diff --cached --quiet; then  # Check if there are changes
+
+          # Commit if there are any changes
+          if ! git diff --cached --quiet; then
             git commit -m "Updated Headline JSON file every 1 hour"
             git push origin git-bot-spam
           else
             echo "No changes to commit."
-          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
