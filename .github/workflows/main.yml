@@ -3,11 +3,11 @@ name: Periodic JSON Update
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */3 * * *'  # Every 3 hours
-    - cron: '0 * * * *'     # Every hour
+    - cron: "0 */3 * * *" # Every 3 hours
+    - cron: "0 * * * *" # Every hour
 
 permissions:
-  contents: write  # Allow write access to repository contents
+  contents: write # Allow write access to repository contents
 
 jobs:
   update-all-json-every-3-hours:
@@ -21,7 +21,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '18'
+          node-version: "18"
 
       - name: Install Axios
         run: npm install axios
@@ -56,6 +56,7 @@ jobs:
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          API_KEY: ${{ secrets.API_KEY }}
 
   update-headline-json-every-1-hour:
     if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
@@ -68,7 +69,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '18'
+          node-version: "18"
 
       - name: Install Axios
         run: npm install axios
@@ -103,3 +104,4 @@ jobs:
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          API_KEY: ${{ secrets.API_KEY }}
