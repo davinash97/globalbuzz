@@ -1,1306 +1,1306 @@
 {
-	"status": "ok",
-	"totalResults": 21229,
-	"articles": [
-		{
-			"source": {
-				"id": "wired",
-				"name": "Wired"
-			},
-			"author": "Reece Rogers",
-			"title": "Generative AI Hype Feels Inescapable. Tackle It Head On With Education",
-			"description": "In their book AI Snake Oil, two Princeton researchers pinpoint the culprits of the AI hype cycle and advocate for a more critical, holistic understanding of artificial intelligence.",
-			"url": "https://www.wired.com/story/artificial-intelligence-hype-ai-snake-oil/",
-			"urlToImage": "https://media.wired.com/photos/66f1dd5ef403832d553d6bce/191:100/w_1280,c_limit/ai-snake-oil.jpg",
-			"publishedAt": "2024-09-24T09:00:00Z",
-			"content": "Arvind Narayanan, a computer science professor at Princeton University, is best known for calling out the hype surrounding artificial intelligence in his Substack, AI Snake Oil, written with PhD cand… [+3987 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "BBC News"
-			},
-			"author": null,
-			"title": "Prison education failing young offenders, says Ofsted",
-			"description": "Some children in young offender institutions spend 23 hours per day in their cells, a report says.",
-			"url": "https://www.bbc.com/news/articles/c2lnkgplvgzo",
-			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d1e8/live/7ee547b0-7fdd-11ef-a06b-57bc065cd07e.jpg",
-			"publishedAt": "2024-10-01T23:27:26Z",
-			"content": "Lorenzo Alara says education did not \"feel valuable\" during his time in a young offender institution\r\nThe standard of education received by children in young offender institutions (YOIs) is in rapid … [+3814 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "BBC News"
-			},
-			"author": null,
-			"title": "Children to stay in education or training until 18",
-			"description": "At present, young people in Northern Ireland can leave school at the age of 16.",
-			"url": "https://www.bbc.com/news/articles/ce9jk15jyypo",
-			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/264c/live/ee3c5dc0-8ef5-11ef-b8e1-b57cfd03dab0.jpg",
-			"publishedAt": "2024-10-20T23:18:56Z",
-			"content": "The school leaving age in Northern Ireland has been 16 by law since 1972.\r\nEducation Minister Paul Givan is set to make it compulsory for young people to stay in education or training until they are … [+4130 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "BBC News"
-			},
-			"author": null,
-			"title": "Givan criticised for LCC meeting while declining 205 others",
-			"description": "The Education Minister Paul Givan has declined 205 meetings since taking office.",
-			"url": "https://www.bbc.com/news/articles/c80rne3pljlo",
-			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d446/live/38aa47e0-8a38-11ef-91e3-2bc8acef8e57.jpg",
-			"publishedAt": "2024-10-14T23:01:53Z",
-			"content": "Paul Givan took up office as education minister in February 2024\r\nIn a freedom of information (FoI) request the SDLP councillor Séamas de Faoite asked the Department of Education (DE): \"How many grou… [+4373 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "BBC News"
-			},
-			"author": null,
-			"title": "Review call after jailing of paedophile headteacher",
-			"description": "Liz Saville Roberts says a duty of care was owed to children in education.",
-			"url": "https://www.bbc.com/news/articles/cq8xw1z0zvyo",
-			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dc0c/live/9164f1b0-872b-11ef-822c-a50726bfda2e.png",
-			"publishedAt": "2024-10-10T17:41:08Z",
-			"content": "Cyngor Gwynedd has a duty of care to children and should be subject to an independent review, according to Liz Saville-Roberts. \r\nThe MP made her demand following the jailing of paedophile headteache… [+2184 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "BBC News"
-			},
-			"author": null,
-			"title": "Givan defends meeting with loyalist paramilitaries",
-			"description": "The education minister has defended holding a meeting with the LCC about an Irish Language school.",
-			"url": "https://www.bbc.com/news/articles/czxdg5v31z6o",
-			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5316/live/2d943030-8247-11ef-83dd-fbf1b9732cf0.jpg",
-			"publishedAt": "2024-10-04T12:21:27Z",
-			"content": "The education minister has defended holding a meeting with the Loyalist Communities Council (LCC) about a proposal to build an Irish language school in east Belfast.\r\nPaul Givan met the LCC, which in… [+844 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "[Removed]"
-			},
-			"author": null,
-			"title": "[Removed]",
-			"description": "[Removed]",
-			"url": "https://removed.com",
-			"urlToImage": null,
-			"publishedAt": "2024-10-05T12:00:15Z",
-			"content": "[Removed]"
-		},
-		{
-			"source": {
-				"id": "the-verge",
-				"name": "The Verge"
-			},
-			"author": "Jess Weatherbed",
-			"title": "Gmail for iOS gets an AI assistant to help manage your inbox",
-			"description": "Google is rolling out iOS support for its Gmail Q&A feature, which gives users a Gemini-powered AI assistant to help manage their inbox and Google Drive.",
-			"url": "https://www.theverge.com/2024/10/4/24261926/gmail-for-ios-gemini-ai-assistant-inbox-support",
-			"urlToImage": "https://cdn.vox-cdn.com/thumbor/5KDrAFDF0p1fErypFb2lKrwinaM=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23954508/acastro_STK459_10.jpg",
-			"publishedAt": "2024-10-04T12:29:19Z",
-			"content": "Gmail for iOS gets an AI assistant to help manage your inbox\r\nGmail for iOS gets an AI assistant to help manage your inbox\r\n / Googles Gemini AI gives some iOS users a way to easily summarize emails … [+1289 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Yahoo Entertainment"
-			},
-			"author": "Mariella Moon",
-			"title": "Google launches Gemini's contextual smart replies in Gmail",
-			"description": "When Google rolled out Gemini side panels for Gmail and its other Workspace apps, it revealed that its generative AI chatbot will also be able to offer contextual smart replies for its email service in the future. Now, the company has officially released that…",
-			"url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6efb187d-85b6-440a-a22f-3b7e28935fa6",
-			"urlToImage": null,
-			"publishedAt": "2024-09-27T14:00:21Z",
-			"content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "BBC News"
-			},
-			"author": null,
-			"title": "Parents lose hope as report says Send system broken",
-			"description": "The special educational needs system is financially unsustainable, the National Audit Office warns.",
-			"url": "https://www.bbc.com/news/articles/cn0d28zk1q8o",
-			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3bcf/live/0b30dca0-911f-11ef-88b8-8b00cbc9d4aa.jpg",
-			"publishedAt": "2024-10-23T23:08:15Z",
-			"content": "Claire Dyson waited 10 years for her son Dylan's autism diagnosis\r\nFamilies of children with special education needs and disabilities (Send) have lost confidence in a system that \"often falls short\" … [+5041 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "NPR"
-			},
-			"author": "Laura Kwerel",
-			"title": "'A light went off in my head': A professor honors his high school civics teacher",
-			"description": "Malcolm Campbell remembers Don Lawson, the high school civics teacher who helped him understand the true value of education.",
-			"url": "https://www.npr.org/2024/10/21/nx-s1-5159715/professor-kindness-good-news-high-school-teacher",
-			"urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/819x461+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F86%2Fd0%2Ffd8eb3c04d7a858d551ec1f1344a%2Fpair.jpg",
-			"publishedAt": "2024-10-23T09:00:00Z",
-			"content": "This story is part of the My Unsung Hero series, from the Hidden Brain team. It features stories of people whose kindness left a lasting impression on someone else.\r\nIn 1980, when Malcolm Campbell wa… [+1999 chars]"
-		},
-		{
-			"source": {
-				"id": "business-insider",
-				"name": "Business Insider"
-			},
-			"author": "Jacob Zinkula",
-			"title": "A millennial with a Ph.D. and over $250k in student loan debt says she's been looking for a job for 4 years. She wishes she prioritized work experience over education.",
-			"description": "A millennial said she regrets her degrees and recommends people do their homework before pursuing higher education.",
-			"url": "https://www.businessinsider.com/millennial-phd-cant-find-job-significant-student-loan-debt-2024-10",
-			"urlToImage": "https://i.insider.com/66fc428df44bdb4cfa38a9b5?width=1200&format=jpeg",
-			"publishedAt": "2024-10-04T10:03:02Z",
-			"content": "A. Rasberry has struggled to find a job in her field of study for the last four years after earning her doctorate degree in business management. Aisha Rasberry\r\n<ul><li>A millennial with a Ph.D. and … [+6315 chars]"
-		},
-		{
-			"source": {
-				"id": "business-insider",
-				"name": "Business Insider"
-			},
-			"author": "Ayelet Sheffey",
-			"title": "8 million student-loan borrowers enrolled in Biden's new repayment plan won't have to make payments for at least another 6 months",
-			"description": "The Education Department extended the student-loan payment pause by at least 6 more months for borrowers on the SAVE plan.",
-			"url": "https://www.businessinsider.com/save-plan-blocked-biden-extends-payment-pause-student-loan-borrowers-2024-10",
-			"urlToImage": "https://i.insider.com/6717b103a0a0cc14f222f0b4?width=1024&format=jpeg",
-			"publishedAt": "2024-10-22T15:13:19Z",
-			"content": "President Joe Biden extended the student-loan payment pause for borrowers on the SAVE plan. Irfan Khan/Los Angeles Times via Getty Images\r\n<ul><li>The Education Department extended the student-loan p… [+2945 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "BBC News"
-			},
-			"author": null,
-			"title": "Claim pupils called 'bullies' over homosexuality views",
-			"description": "A Presbyterian Church representative tells MLAs it is important to teach \"critical thinking\" in lessons.",
-			"url": "https://www.bbc.com/news/articles/cx2lr47zd2do",
-			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/102d/live/3e149cf0-8662-11ef-8ed8-7335b67a3ad9.jpg",
-			"publishedAt": "2024-10-10T05:26:50Z",
-			"content": "Some sixth-form pupils were called bullies for expressing a view that homosexuality was wrong, it has been claimed.\r\nA representative from the Presbyterian Church in Ireland (PCI) made the claim to M… [+4031 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Todd Feathers",
-			"title": "Parents Sue School That Gave Bad Grade to Student Who Used AI to Complete Assignment",
-			"description": "A Massachusetts couple claims that their son's high school attempted to derail his future by giving him detention and a bad grade on an assignment he wrote using generative AI.",
-			"url": "https://gizmodo.com/parents-sue-school-that-gave-bad-grade-to-student-who-used-ai-to-complete-assignment-2000512000",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/10/hingham-schools-ai-lawsuit.jpg",
-			"publishedAt": "2024-10-15T16:20:21Z",
-			"content": "An old and powerful force has entered the fraught debate over generative AI in schools: litigious parents angry that their child may not be accepted into a prestigious university.\r\nIn what appears to… [+3085 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Ed Cara",
-			"title": "Global Surge in Nearsightedness Linked to Covid-19, Study Finds",
-			"description": "A new review reveals that one in three kids now has myopia, with various factors contributing to the rise—and covid-19 may be one of them.",
-			"url": "https://gizmodo.com/global-surge-in-nearsightedness-linked-to-covid-19-study-finds-2000503155",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/09/eyeglasses.jpg",
-			"publishedAt": "2024-09-25T19:15:34Z",
-			"content": "If you had trouble seeing things in the distance as a kid, you’re far from alone. New research this week has found that the rate of nearsightedness in children and teens has steadily increased over t… [+3514 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Matt Novak",
-			"title": "California Cops Show Off Absurd New Cybertruck With Music From Terminator Movies",
-			"description": "Because if we learned anything from the Terminator franchise, it's that cops are good.",
-			"url": "https://gizmodo.com/california-cops-show-off-absurd-new-cybertruck-with-music-from-terminator-movies-2000509382",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/10/irvine-police-cybertruck-oct-8-2024.jpg",
-			"publishedAt": "2024-10-08T20:20:29Z",
-			"content": "Police in the city of Irvine, California, released a new promotional video Tuesday to show off their new Tesla Cybertruck. The video is every bit as cringey as you’d expect, but there are a few detai… [+2997 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "MacRumors"
-			},
-			"author": "Joe Rossignol",
-			"title": "Apple's Back to School Promotion Ending Soon: Here's What You Can Get",
-			"description": "In June, Apple launched its annual Back to School promotion for college students in the U.S. and select other countries. Students can get a free Apple gift card with the purchase of an eligible Mac or iPad from Apple, along with 20% off AppleCare+ plans.\n\n\n\n\n…",
-			"url": "https://www.macrumors.com/2024/09/27/apples-2024-back-to-school-offer-ends-soon/",
-			"urlToImage": "https://images.macrumors.com/t/xfi353blcS3sbk06OqqlV-k5TSc=/1600x/article-new/2024/09/Apple-2024-Back-to-School-Offer.jpeg",
-			"publishedAt": "2024-09-27T13:52:47Z",
-			"content": "In June, Apple launched its annual Back to School promotion for college students in the U.S. and select other countries. Students can get a free Apple gift card with the purchase of an eligible Mac o… [+1040 chars]"
-		},
-		{
-			"source": {
-				"id": "business-insider",
-				"name": "Business Insider"
-			},
-			"author": "Ayelet Sheffey",
-			"title": "60,000 student-loan borrowers in public service are getting $4.5 billion in debt cancellation while Biden's broader relief remains blocked in court",
-			"description": "The latest student-loan forgiveness announcement brings the total number of borrowers approved for relief through PSLF to 1 million.",
-			"url": "https://www.businessinsider.com/student-loan-forgiveness-pslf-more-borrowers-approved-debt-cancellation-biden-2024-10",
-			"urlToImage": "https://i.insider.com/670fce78a70318649282d2ff?width=1200&format=jpeg",
-			"publishedAt": "2024-10-17T09:01:01Z",
-			"content": "President Joe Biden approved another batch of student-loan borrowers in public service for debt cancellation.Kevin Dietsch/Getty Images\r\n<ul><li>Biden announced an additional $4.5 billion in student-… [+3578 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "BBC News"
-			},
-			"author": null,
-			"title": "This young disabled man dreamed of having a job - the system had other ideas",
-			"description": "Elliot wants to live independently - but making that happen proved a bigger challenge than he expected.",
-			"url": "https://www.bbc.com/news/articles/c2kdye8z8llo",
-			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c00a/live/6298c4d0-8a3a-11ef-81f8-1f28bcc5be15.png",
-			"publishedAt": "2024-10-15T02:00:29Z",
-			"content": "Disabled people are almost twice as likely to be unemployed as non-disabled people\r\nI want to contribute to society. I dream of living with friends in supported living, not far from St James' Park, a… [+12035 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "[Removed]"
-			},
-			"author": null,
-			"title": "[Removed]",
-			"description": "[Removed]",
-			"url": "https://removed.com",
-			"urlToImage": null,
-			"publishedAt": "2024-10-08T17:23:42Z",
-			"content": "[Removed]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "BBC News"
-			},
-			"author": null,
-			"title": "English teacher banned after helping pupils cheat",
-			"description": "John Spelacy has shown \"little remorse\" for his actions at the school, a panel hears.",
-			"url": "https://www.bbc.com/news/articles/c4g9rqwl34qo",
-			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b654/live/18239a60-7c02-11ef-9e47-a1d24aeb8a99.png",
-			"publishedAt": "2024-09-26T12:55:55Z",
-			"content": "John Spelacy showed \"little remorse\" for his actions at Fakenham Academy, the teaching watchdog said\r\nAn English teacher who helped his pupils to cheat on their coursework has been banned from the cl… [+1419 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "[Removed]"
-			},
-			"author": null,
-			"title": "[Removed]",
-			"description": "[Removed]",
-			"url": "https://removed.com",
-			"urlToImage": null,
-			"publishedAt": "2024-10-09T10:00:00Z",
-			"content": "[Removed]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "BBC News"
-			},
-			"author": null,
-			"title": "Early signs of pupils leaving, private schools say",
-			"description": "The Independent Schools Council says some members reported a drop in pupils starting secondary school.",
-			"url": "https://www.bbc.com/news/articles/cy5y0w6xg43o",
-			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e2bd/live/96c43d60-7feb-11ef-83dd-fbf1b9732cf0.jpg",
-			"publishedAt": "2024-10-04T00:58:50Z",
-			"content": "There are fewer private school pupils starting secondary this year, according to the body that represents most independent schools in the UK.\r\nThe Independent Schools Council (ISC) says some members … [+4911 chars]"
-		},
-		{
-			"source": {
-				"id": "business-insider",
-				"name": "Business Insider"
-			},
-			"author": "Santiago Barraza Lopez",
-			"title": "I went to an Ivy League college. The education alone wasn't worth the price tag, but the special privileges I now have are priceless.",
-			"description": "Columbia's classes and student life weren't worth the student loans. However, being an Ivy League alumni has granted me privileges when job searching.",
-			"url": "https://www.businessinsider.com/ivy-league-grad-tuition-student-loans-special-privileges-2024-10",
-			"urlToImage": "https://i.insider.com/6712c36a01ea6d83dee28c8b?width=1200&format=jpeg",
-			"publishedAt": "2024-10-23T17:14:12Z",
-			"content": "The author went to an Ivy League school.Zeiss4Me/Getty Images\r\n<ul><li>I went to Columbia for grad school and had to take out a loan to afford the high tuition.</li><li>The classes, professors, and s… [+4397 chars]"
-		},
-		{
-			"source": {
-				"id": "abc-news",
-				"name": "ABC News"
-			},
-			"author": "Arthur Jones II",
-			"title": "What you need to know about the Sept. 30 education relief deadline",
-			"description": "The White House is touting a pandemic-era education relief fund that exhausted 90% of available funds by today's deadline.",
-			"url": "https://abcnews.go.com/Politics/pandemic-era-school-relief-fund-expires-today/story?id=114333435",
-			"urlToImage": "https://i.abcnewsfe.com/a/6b89111c-883b-452e-afa2-a91e24e02b69/School0covid-funding-gty-jm-240929_1727640249454_hpMain_16x9.jpg?w=1600",
-			"publishedAt": "2024-09-30T10:40:52Z",
-			"content": "The White House is touting its American Rescue Plan (ARP) COVID emergency funding program as a win for public education with nearly 90% of its funds exhausted by Monday's deadline, according to senio… [+6834 chars]"
-		},
-		{
-			"source": {
-				"id": "wired",
-				"name": "Wired"
-			},
-			"author": "Tess Owen",
-			"title": "Leaked Docs From Far-Right Militias Show History of Voter Intimidation Plans",
-			"description": "“All the state leaders should be getting their people out … to watch for ballot stuffing,” wrote the leader of the American Patriots Three Percent militia. “Our nation depends on this.\"",
-			"url": "https://www.wired.com/story/leaked-messages-militias-ap3-voter-intimidation-plan/",
-			"urlToImage": "https://media.wired.com/photos/670821283ca364f2e7a6063e/191:100/w_1280,c_limit/militant-election-pol-2174386334.jpg",
-			"publishedAt": "2024-10-11T18:18:57Z",
-			"content": "A trove of leaked internal messages and documents from the militia American Patriots Three Percentalso known as AP3reveals how the group coordinated with election denial groups as part of a plan to c… [+2846 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "9to5Mac"
-			},
-			"author": "Ryan Christoffel",
-			"title": "Apple expands education efforts with new tools, grants, and app highlights",
-			"description": "Today is World Teachers’ Day, and to mark the occasion, Apple has announced a variety of expansions to its education efforts. There are new tools for teachers, grants funding education, and a campaign of Apple’s apps and services to highlight education.\n\n\n\n m…",
-			"url": "https://9to5mac.com/2024/10/01/apple-expands-education-efforts-with-new-tools-grants-and-app-highlights/",
-			"urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/apple-education-2024.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-			"publishedAt": "2024-10-01T13:37:27Z",
-			"content": "Today is World Teachers Day, and to mark the occasion, Apple has announced a variety of expansions to its education efforts. There are new tools for teachers, grants funding education, and a campaign… [+1768 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "CNET"
-			},
-			"author": "Rebecca Safier",
-			"title": "Student Loan Forgiveness: You Have a Few Hours Left to Apply for This Debt Relief Program",
-			"description": "It's your last chance to get your student loans out of default so you can qualify for benefits like forgiveness.",
-			"url": "https://www.cnet.com/personal-finance/loans/student-loan-forgiveness-you-have-a-few-hours-left-to-apply-for-this-debt-relief-program/",
-			"urlToImage": "https://www.cnet.com/a/img/resize/7a809caab231ee6cb950d87853c528d16405c25d/hub/2024/06/04/e25b0c58-7c56-45f9-b8ff-298c45ac3d3d/student-loans-3.jpg?auto=webp&fit=crop&height=675&width=1200",
-			"publishedAt": "2024-10-02T02:30:00Z",
-			"content": "If you have any student loans that are in default, the Department of Education is giving you until Oct. 2 at 3 a.m. ET to apply for the Fresh Start program to get them back in good standing so you ca… [+10072 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "CNET"
-			},
-			"author": "Evan Zimmer",
-			"title": "Biden Administration Forgives Another $4.5 Billion in Student Loans. Who's Eligible?",
-			"description": "If you're a public servant such as a teacher, nurse, or first responder, your student debt could soon be forgiven.",
-			"url": "https://www.cnet.com/personal-finance/loans/biden-administration-forgives-another-4-5-billion-in-student-loans-whos-eligible/",
-			"urlToImage": "https://www.cnet.com/a/img/resize/c8a22b6fbca49cc93ed82600376c3d032dad7583/hub/2024/10/17/d6aa5063-855b-45ba-a012-4895a1c68110/gettyimages-2141954357.jpg?auto=webp&fit=crop&height=675&width=1200",
-			"publishedAt": "2024-10-18T16:06:00Z",
-			"content": "The Biden-Harris Administration announced Thursday that over 60,000 nurses, teachers and other public service workers will receive $4.5 billion in student loan debt relief. The latest adjustment to t… [+2970 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Joe Tilleli",
-			"title": "Wall Street in Your Pocket: The Tykr Stock Screener App Will Teach You to Earn Back the Money You Spent on Its Lifetime Plan",
-			"description": "Save 83% and an additional $30 when you sign up for the Tykr Stock Screener premium plan lifetime subscription with this code.",
-			"url": "https://gizmodo.com/wall-street-in-your-pocket-the-tykr-stock-screener-app-will-teach-you-to-earn-back-the-money-you-spent-on-its-lifetime-plan-2000505735",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/10/Tykr.jpg",
-			"publishedAt": "2024-10-01T18:18:47Z",
-			"content": "Just starting out with stock trading can be an overwhelming experience. Knowing what stocks are good and bad and knowing when to buy or sell doesn’t come naturally. You can work with a financial advi… [+2251 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Gizmodo Deals",
-			"title": "With This Record Low Price, Babbel’s Lifetime Subscription is Now Cheaper Than a Pair of AirPods",
-			"description": "Are you looking to learn a new language without overspending?",
-			"url": "https://gizmodo.com/with-this-record-low-price-babbels-lifetime-subscription-is-now-cheaper-than-a-pair-of-airpods-2000512397",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/10/babbel-app-language.jpg",
-			"publishedAt": "2024-10-16T11:45:59Z",
-			"content": "Just when you thought the best deals had come and gone after Prime Day, Babbel has stepped in with an irresistible offer thats hard to ignore. This digital language education platform is now offering… [+2578 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "BBC News"
-			},
-			"author": null,
-			"title": "Second DUP minister holds meeting with loyalist group",
-			"description": "The Department for Communities said a meeting took place \"to discuss social deprivation in unionist communities\".",
-			"url": "https://www.bbc.com/news/articles/cp95vz8pyr7o",
-			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6167/live/95378e50-864b-11ef-ac05-1b95256399e8.jpg",
-			"publishedAt": "2024-10-09T22:45:09Z",
-			"content": "The Loyalist Communities Council (LCC) has met Democratic Unionist Party (DUP) Minister for Communities Gordon Lyons.\r\nThe Department for Communities confirmed that a meeting took place \"to discuss e… [+1617 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "BBC News"
-			},
-			"author": null,
-			"title": "Russian rocket becomes musical instrument of hope",
-			"description": "The extraordinary instrument will be featured at a concert, raising funds for Ukraine.",
-			"url": "https://www.bbc.com/news/articles/ckgmp1n982ko",
-			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0130/live/3774dfa0-8d6e-11ef-b8e0-4b19c1c6fcc7.jpg",
-			"publishedAt": "2024-10-19T06:24:04Z",
-			"content": "A musical instrument made from a Russian missile will be featured at a concert held at Blenheim Palace on Saturday night.\r\nThe Gala Dinner for Ukraine at the estate in Woodstock, Oxfordshire, is bein… [+1666 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "CNET"
-			},
-			"author": "Rebecca Safier",
-			"title": "Inside the FAFSA Fiasco: Should You Expect Delays for This Year's Free Application for Federal Student Aid?",
-			"description": "Last year, the FAFSA delay put students in a tough spot. This year, many are worried about a repeat.",
-			"url": "https://www.cnet.com/personal-finance/loans/inside-the-fafsa-fiasco-should-you-expect-delays-for-this-years-free-application-for-federal-student-aid/",
-			"urlToImage": "https://www.cnet.com/a/img/resize/e57da615eaca9ca235eeb6369237426cf68e1c50/hub/2024/08/18/fa691cb2-0b43-470e-8cf9-85188cc06bc0/student-loan-0008-2.png?auto=webp&fit=crop&height=675&width=1200",
-			"publishedAt": "2024-09-29T15:50:36Z",
-			"content": "The updated 2024-25 FAFSA, or Free Application for Federal Student Aid, was supposed to simplify the financial aid application process. Instead, it caused major headaches for both students and colleg… [+8120 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "The Hustle"
-			},
-			"author": "Mark Dent",
-			"title": "The Economics of Free Lunch",
-			"description": "American schools spend ~$900B a year on education. Should the federal government pay more for meals?",
-			"url": "https://thehustle.co/originals/the-economics-of-free-lunch#article",
-			"urlToImage": "https://20627419.fs1.hubspotusercontent-na1.net/hubfs/20627419/school_meals_Share.png",
-			"publishedAt": "2024-10-14T16:42:43Z",
-			"content": "American schools spend ~$900B a year on education. Should the federal government pay more for meals?\r\nWhen Kathy Alexander started managing a lunch program at a Vermont school with 200 children in th… [+10914 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Scientific American"
-			},
-			"author": "Allison Parshall",
-			"title": "Trump and Harris Have Vastly Different Plans for Public Education",
-			"description": "The presidential candidates differ on classroom censorship, school choice, federal funding for schools, and more",
-			"url": "https://www.scientificamerican.com/article/trump-and-harris-have-vastly-different-plans-for-public-education/",
-			"urlToImage": "https://static.scientificamerican.com/dam/m/33e4f3d17e6aa738/original/sciam-education2.jpg?w=1200",
-			"publishedAt": "2024-10-14T11:00:00Z",
-			"content": "Education in the U.S. is in a state of flux. The pandemic has left students across the country with learning gaps, especially in math and science. Teacher turnover is high, with some areas hit by sta… [+9150 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "NPR"
-			},
-			"author": "Juliana Kim",
-			"title": "Two major student loan grace periods are set to expire this week. Here's what to know",
-			"description": "Two federal programs that helped federal student loan borrowers ease back into payments are ending. It will have the biggest impact on borrowers with defaulted loans or borrowers who miss payments moving forward.",
-			"url": "https://www.npr.org/2024/09/30/nx-s1-5133296/student-loan-default-fresh-start-explainer",
-			"urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5428x3053+0+341/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff8%2F06%2F360dcd7a487288f1566da70f4780%2Fgettyimages-2141952610.jpg",
-			"publishedAt": "2024-09-30T20:18:50Z",
-			"content": "Two federal measures designed to help student loan borrowers with their payments are set to expire this week.\r\nSince federal student loan payments resumed last October, borrowers have received some a… [+3102 chars]"
-		},
-		{
-			"source": {
-				"id": "business-insider",
-				"name": "Business Insider"
-			},
-			"author": "Ayelet Sheffey",
-			"title": "Millions of student-loan borrowers just lost access to a key debt relief program — and it could have big financial consequences",
-			"description": "The on-ramp period for millions of student-loan borrowers is over. This means those who miss payments are at risk of negative credit reporting.",
-			"url": "https://www.businessinsider.com/student-loan-borrowers-on-ramp-period-ending-credit-scores-consequences-2024-10",
-			"urlToImage": "https://i.insider.com/66fac985f44bdb4cfa381df9?width=1200&format=jpeg",
-			"publishedAt": "2024-10-01T09:36:02Z",
-			"content": "The on-ramp period for millions of student-loan borrowers ended on October 1.Getty Images\r\n<ul><li>The on-ramp period for student-loan borrowers ended October 1.</li><li>It means that servicers will … [+3191 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "BBC News"
-			},
-			"author": null,
-			"title": "Mexico's first female president vows 'it's time for women'",
-			"description": "At her inauguration, the first female president of Mexico promises to focus on improving health and education.",
-			"url": "https://www.bbc.com/news/articles/ce3z263453lo",
-			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/485b/live/d9338980-80a4-11ef-b78b-3338b2138154.jpg",
-			"publishedAt": "2024-10-02T10:33:14Z",
-			"content": "Claudia Sheinbaum is Mexico's first female president in modern times\r\nThe passing of the presidential sash every six years is always an important and symbolic occasion in Mexico.\r\nBut on Tuesday, whe… [+4303 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "CNET"
-			},
-			"author": "Dana Miranda",
-			"title": "Harris vs. Trump on Student Loans: Experts Weigh In on Both Candidates' Student Loan Plans",
-			"description": "The next president could have significant sway over what happens next with student loans programs.",
-			"url": "https://www.cnet.com/personal-finance/loans/harris-vs-trump-on-student-loans-experts-weigh-in-on-both-candidates-student-loan-plans/",
-			"urlToImage": "https://www.cnet.com/a/img/resize/ef8514f64ecfef2bc5e8e103e8d6cbfb78df7f81/hub/2024/09/26/5b0232d9-babb-4f8e-8a7a-294b8aece880/student-loan-election.png?auto=webp&fit=crop&height=675&width=1200",
-			"publishedAt": "2024-10-03T17:00:00Z",
-			"content": "The future of student loan forgiveness and repayment programs could hinge on whoever wins the presidency this November.\r\nVice President Kamala Harris and former President Donald Trump have laid out d… [+6661 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "CNET"
-			},
-			"author": "Rebecca Safier",
-			"title": "Student Loan Forgiveness: Today's the Last Day to Apply for This Student Loan Debt Relief Program",
-			"description": "The Fresh Start Program can move your loans out of default and help you qualify for forgiveness -- but you have to apply by Sep. 30.",
-			"url": "https://www.cnet.com/personal-finance/loans/student-loan-forgiveness-todays-the-last-day-to-apply-for-this-student-loan-debt-relief-program/",
-			"urlToImage": "https://www.cnet.com/a/img/resize/7a809caab231ee6cb950d87853c528d16405c25d/hub/2024/06/04/e25b0c58-7c56-45f9-b8ff-298c45ac3d3d/student-loans-3.jpg?auto=webp&fit=crop&height=675&width=1200",
-			"publishedAt": "2024-09-30T04:01:00Z",
-			"content": "If you have student loans that are in default, today's the last day to get them out of default through the Fresh Start program.\r\nBefore the pandemic-related payment pause that started in March 2020, … [+9607 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "CNET"
-			},
-			"author": "Dana Miranda",
-			"title": "Your Student Loans Under Harris vs. Trump. Here's What the Experts Predict",
-			"description": "Both presidential candidates have shared very different plans for the future of student loans programs.",
-			"url": "https://www.cnet.com/personal-finance/loans/your-student-loans-under-harris-vs-trump-heres-what-the-experts-predict/",
-			"urlToImage": "https://www.cnet.com/a/img/resize/ef8514f64ecfef2bc5e8e103e8d6cbfb78df7f81/hub/2024/09/26/5b0232d9-babb-4f8e-8a7a-294b8aece880/student-loan-election.png?auto=webp&fit=crop&height=675&width=1200",
-			"publishedAt": "2024-09-29T02:03:56Z",
-			"content": "The future of student loan forgiveness and repayment programs could depend on whoever wins the presidency this November.\r\nVice President Kamala Harris and former President Donald Trump have laid out … [+6671 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "BBC News"
-			},
-			"author": null,
-			"title": "'I massively regret using AI to cheat at uni'",
-			"description": "Hannah says she is lucky she wasn't thrown out of university after being caught using AI.",
-			"url": "https://www.bbc.com/news/articles/cz04emrxp4xo",
-			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/32bc/live/60461b00-8644-11ef-83dd-fbf1b9732cf0.jpg",
-			"publishedAt": "2024-10-24T05:09:55Z",
-			"content": "Hannah used an AI tool in her first year at university after being ill with Covid\r\nA student is warning others about the potential consequences of using generative artificial intelligence (AI) to che… [+5298 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "BBC News"
-			},
-			"author": null,
-			"title": "Sex charge tutor case reveals ‘massive' safeguarding hole",
-			"description": "A man charged with sexual assault has been advertising as a private tutor for children, the BBC finds.",
-			"url": "https://www.bbc.com/news/articles/cp957rd154ko",
-			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ddc4/live/ed87b050-80ea-11ef-822c-a50726bfda2e.jpg",
-			"publishedAt": "2024-10-02T23:07:11Z",
-			"content": "A man charged with sexual assault has been advertising as a private tutor for children in maths and science, a BBC investigation has found.\r\nThe man, who were not naming for legal reasons, left his j… [+5446 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "BBC News"
-			},
-			"author": null,
-			"title": "School's period policy deemed a 'slap in the face'",
-			"description": "Charities and campaigners react to a school's stance on absences due to period pain.",
-			"url": "https://www.bbc.com/news/articles/c153x7zjz8jo",
-			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/998b/live/cd770720-8581-11ef-8533-1b0f2decc26d.jpg",
-			"publishedAt": "2024-10-09T05:27:12Z",
-			"content": "Jen Moore said she only got medical proof of her endometriosis and adenomyosis in her thirties\r\nA woman whose endometriosis went undiagnosed for more than two decades says a school's toughened stance… [+3879 chars]"
-		},
-		{
-			"source": {
-				"id": "business-insider",
-				"name": "Business Insider"
-			},
-			"author": "Ayelet Sheffey",
-			"title": "8 million student-loan borrowers who remain blocked from cheaper payments and debt cancellation are getting a step closer to a final decision on Biden's new repayment plan",
-			"description": "A Missouri judge blocked student-loan forgiveness under the SAVE plan and will soon hear oral arguments on the case. Servicer Mohela plays a key role.",
-			"url": "https://www.businessinsider.com/save-plan-blocked-student-loan-company-mohela-debt-cancellation-biden-2024-10",
-			"urlToImage": "https://i.insider.com/670ea8043f2165d716e10ef0?width=1200&format=jpeg",
-			"publishedAt": "2024-10-20T09:22:01Z",
-			"content": "A Missouri judge will hear oral arguments on President Joe Biden's SAVE student-loan repayment plan, which remains blocked.Scott Olson/Getty Images\r\n<ul><li>A Missouri court will hear oral arguments … [+5064 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "BBC News"
-			},
-			"author": null,
-			"title": "Fight begins to make mobile-free schools law",
-			"description": "A law to ban smartphones in schools will be called for under a private member’s bill on Wednesday.",
-			"url": "https://www.bbc.com/news/articles/czj98jrj112o",
-			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6f19/live/8348af50-8a45-11ef-8936-1185f9e7d044.jpg",
-			"publishedAt": "2024-10-15T02:19:12Z",
-			"content": "Calls are growing to ban smartphones in schools in England by law, as education experts and unions back an MPs attempt to push a new law through Parliament.\r\nChildren doomscrolling for hours a day is… [+4958 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "NPR"
-			},
-			"author": "Jonaki Mehta",
-			"title": "Some students are fighting to stay in college after the FAFSA delayed financial aid",
-			"description": "Students had to make all kinds of decisions about college before knowing how much financial aid they would get. Now, many of them are scrambling to stay in school.",
-			"url": "https://www.npr.org/2024/10/10/nx-s1-5144239/fafsa-college-students-education",
-			"urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7952x4473+0+416/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff1%2Fdb%2Fb5a88676421785d05d23a58237fe%2Fgettyimages-1723267289.jpg",
-			"publishedAt": "2024-10-10T09:00:00Z",
-			"content": "Brenda H. almost didnt make it to her first day of college. She tried to apply for financial aid through the Free Application for Federal Student Aid (FAFSA) four times, but encountered glitch after … [+6658 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "The Atlantic"
-			},
-			"author": "Bushra Seddique",
-			"title": "Afghan Women Have Been Brought Back in Time",
-			"description": "“Every morning we are waking up with a new Taliban rule limiting us in every way they could; rules for our body, hair, education, and now our voices.”",
-			"url": "https://www.theatlantic.com/ideas/archive/2024/10/afghan-women-brought-back-in-time/680260/",
-			"urlToImage": "https://cdn.theatlantic.com/thumbor/sHFnpY7XRwx2LJVzu1Fjml5TFFY=/0x788:2160x1913/1200x625/media/img/mt/2024/10/original_1/original.jpg",
-			"publishedAt": "2024-10-16T15:30:00Z",
-			"content": "Mariam was 12 years old when a relative sold her into a marriage with a 40-year-old soldier in the Taliban, who was already married. She was repeatedly sexually and physically assaulted. By the time … [+5418 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "BBC News"
-			},
-			"author": null,
-			"title": "Strikes set to close Perth and Kinross schools for two weeks",
-			"description": "The Unison action is due to begin on 21 October and will affect 50 schools and early years centres.",
-			"url": "https://www.bbc.com/news/articles/cm29x1kjd1lo",
-			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3294/live/fde148a0-855c-11ef-9048-6d8e2241889b.jpg",
-			"publishedAt": "2024-10-08T10:23:11Z",
-			"content": "Unison members have rejected the national pay offer for council staff\r\nStrike action is set to close schools in Perth and Kinross for two weeks after the largest council union rejected a national pay… [+1847 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Migdal.pl"
-			},
-			"author": "Piotr Migdał",
-			"title": "Science-based games and explorable explanations",
-			"description": "Science-based games and interactive explorable explanations are revolutionizing education, making complex topics like physics and machine learning accessible and fun.",
-			"url": "https://p.migdal.pl/blog/2024/05/science-games-explorable-explanations/",
-			"urlToImage": "https://p.migdal.pl/blog/2024/05/science-games-explorable-explanations/fourier-color-coded.png",
-			"publishedAt": "2024-09-25T14:39:11Z",
-			"content": "The traditional way of teaching includes textbooks, lectures, and projects. This teaching method is performed top-down, with clear instructions and expectations. Students are tested via grading of pr… [+9872 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Thepsmiths.com"
-			},
-			"author": "John Psmith",
-			"title": "Math from Three to Seven",
-			"description": "Math from Three to Seven: The Story of a Mathematical Circle for Preschoolers, Alexander Zvonkin (Moscow Center for Continuing Mathematical Education, 2007).",
-			"url": "https://www.thepsmiths.com/p/review-math-from-three-to-seven-by",
-			"urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca929aa2-a7d2-4837-8156-cd02da28136f_1380x776.jpeg",
-			"publishedAt": "2024-10-01T23:58:45Z",
-			"content": "Math from Three to Seven: The Story of a Mathematical Circle for Preschoolers, Alexander Zvonkin (Moscow Center for Continuing Mathematical Education, 2007).\r\nTo me, one of the greatest historical pu… [+20109 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "BBC News"
-			},
-			"author": null,
-			"title": "Human trafficking charges against Stagecoach tycoon are dropped",
-			"description": "Dame Ann Gloag said the \"malicious allegations\" have been a devastating threat to her legacy.",
-			"url": "https://www.bbc.com/news/articles/cdd4qy34m2yo",
-			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cf8/live/80888f20-867a-11ef-939b-53c2456f2016.jpg",
-			"publishedAt": "2024-10-09T20:19:32Z",
-			"content": "Human trafficking charges against Scottish transport tycoon Dame Ann Gloag have been dropped, the Crown Office has said.\r\nThe 81-year-old Stagecoach co-founder was charged alongside three other peopl… [+2135 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "CNET"
-			},
-			"author": "Courtney Johnston",
-			"title": "Student Loan Forgiveness on Hold Again. Experts Explain What's Next for Debt Relief",
-			"description": "The holds on the student loan forgiveness plan are only temporary right now. Here's what borrowers should know.",
-			"url": "https://www.cnet.com/personal-finance/loans/student-loan-forgiveness-on-hold-again-experts-explain-whats-next-for-debt-relief/",
-			"urlToImage": "https://www.cnet.com/a/img/resize/e75f99e2f54bbe45da537b6a25bb08dfabeaf3f2/hub/2024/08/18/527dff78-3dc8-4bc8-9e76-2cd00e1fb5e7/student-loan-0001-9.png?auto=webp&fit=crop&height=675&width=1200",
-			"publishedAt": "2024-10-04T21:45:00Z",
-			"content": "Not even a full day after the Biden administration's student loan forgiveness plan was given the green light, a Missouri judge blocked the plan again. If you have student loan debt, experts say to ex… [+4955 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Ed Cara",
-			"title": "Good and Bad News on the Obesity Front in the U.S.",
-			"description": "The rate of adult obesity has finally stopped climbing in recent years, new CDC data shows.",
-			"url": "https://gizmodo.com/good-and-bad-news-on-the-obesity-front-in-the-u-s-2000502586",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/09/tape-measure.jpg",
-			"publishedAt": "2024-09-24T15:25:54Z",
-			"content": "The latest data from the Centers for Disease Control and Prevention offers some good and bad news about obesity in the United States. On the positive side, the obesity rate in adults has finally stop… [+3567 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Joe Tilleli",
-			"title": "Students Can Pre-order the Samsung Galaxy S24 FE and Get the Galaxy Buds FE for Free",
-			"description": "You can knock up to $400 off your pre-order of the Samsung Galaxy S24 FE when you trade in your old phone.",
-			"url": "https://gizmodo.com/students-can-pre-order-the-samsung-galaxy-s24-fe-and-get-the-galaxy-buds-fe-for-free-2000504362",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/09/GalaxyS24FE.jpg",
-			"publishedAt": "2024-09-27T15:58:08Z",
-			"content": "Samsung recently announced a whole slew of new Galaxy products from refreshes in its smartphone lineup to new smartwatches and tablets. One of the newly unveiled smartphones is unsurprisingly the Gal… [+2462 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Lucas Ropek",
-			"title": "Infamous Tech Bro Starts School That Teaches How to Crowdfund Your Own Country",
-			"description": "A well-funded free market doctrine is getting its own mysterious educational platform.",
-			"url": "https://gizmodo.com/infamous-tech-bro-starts-school-that-teaches-how-to-crowdfund-your-own-country-2000502383",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/09/Balaji-Srinivasan-during-the-Fintech-Festival-in-Singapore.jpg",
-			"publishedAt": "2024-09-24T13:35:22Z",
-			"content": "Balaji Srinivasan, the former chief technology officer of Coinbase, is a weird guy. He’s talked about living forever. He helped finance a pro-steroids athletic competition. And he once threw away a m… [+3090 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Gizmodo Deals",
-			"title": "Want to learn a second language easily? Babbel is now available at one of the lowest prices ever seen",
-			"description": "If you've ever dreamed of becoming bilingual, now is the perfect time to seize the opportunity with Babbel's lifetime subscription available at an unprecedented low price.",
-			"url": "https://gizmodo.com/want-to-learn-a-second-language-easily-babbel-is-now-available-at-one-of-the-lowest-prices-ever-seen-2000502558",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/09/babbel-app-1.jpg",
-			"publishedAt": "2024-09-24T12:32:32Z",
-			"content": "Babbel is a pioneer in digital language education since 2007 and has revolutionized the way people learn languages. The platform has just made headlines with an unprecedented offer on its lifetime su… [+3213 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Gizmodo Deals",
-			"title": "In The Wake of Prime Day, Babbel Language Service hits record low price with a 76% discount.",
-			"description": "Following the excitement of Prime Day, Babbel has unveiled an incredible offer and slashes its lifetime subscription price by 76%.",
-			"url": "https://gizmodo.com/in-the-wake-of-prime-day-babbel-language-service-hits-record-low-price-with-a-76-discount-2000511027",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/08/babbel-app.jpg",
-			"publishedAt": "2024-10-12T12:15:51Z",
-			"content": "In an unexpected turn of events following the recent Prime Day event, language learning enthusiasts have been gifted with an extraordinary opportunity: the renowned digital language education platfor… [+3415 chars]"
-		},
-		{
-			"source": {
-				"id": "ars-technica",
-				"name": "Ars Technica"
-			},
-			"author": "Beth Mole",
-			"title": "Senate holds rich CEO of “third-world medicine” hospitals in contempt",
-			"description": "Ralph de la Torre, CEO of Steward, faces up to 12 months in prison if convicted.",
-			"url": "https://arstechnica.com/science/2024/09/senate-holds-rich-ceo-of-third-world-medicine-hospitals-in-contempt/",
-			"urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-2170818186-760x380.jpg",
-			"publishedAt": "2024-09-26T14:56:42Z",
-			"content": "Enlarge/ Vermont Senator Bernie Sanders speaks about Ralph De La Torre's spending habits during the US Senate Committee on Health, Education, Labor, &amp; Pensions on September 12, 2024.\r\n4\r\nThe Sena… [+2671 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "MyCentralJersey.com"
-			},
-			"author": "Cheryl Makin, MyCentralJersey.com",
-			"title": "Somerset County educator named 2024-25 New Jersey Teacher of the Year",
-			"description": "Gov. Murphy lauded Stefanie Lachenauer as an educator \"who cares for the whole student, from their academic growth to their emotional well-being.\"",
-			"url": "https://www.mycentraljersey.com/story/news/education/2024/09/24/stefanie-lachenauer-new-jersey-teacher-of-the-year/75348041007/",
-			"urlToImage": "https://s.yimg.com/ny/api/res/1.2/BWhrDJ83IcSFSisX5X1azg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/courier-news/dd7b8afb5f2c8269efec7969196797e1",
-			"publishedAt": "2024-09-24T08:52:28Z",
-			"content": "Stefanie Lachenauer, a civics and mindfulness teacher at Montgomery Upper Middle School, was named the 2024-25 New Jersey Department of Education Teacher of the Year on Monday.\r\nGov. Phil Murphy laud… [+5011 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "KTVI Fox 2 St. Louis"
-			},
-			"author": "Taylor Harris",
-			"title": "SLPS Superintendent Dr. Keisha Scarlett fired by school board",
-			"description": "The St. Louis Board of Education fired SLPS Superintendent Dr. Keisha Scarlett Tuesday night at a special closed session.",
-			"url": "https://fox2now.com/news/missouri/slps-superintendent-dr-keisha-scarlett-fired-by-school-board/",
-			"urlToImage": "https://media.zenfs.com/en/ktvi_articles_498/98c168f7456f8cfb6a481a4597bdc951",
-			"publishedAt": "2024-09-25T00:49:20Z",
-			"content": "ST. LOUIS The St. Louis Board of Education fired SLPS Superintendent Dr. Keisha Scarlett Tuesday night at a special closed session.\r\nScarlett was placed on paid temporary leave of absence on July 26 … [+1777 chars]"
-		},
-		{
-			"source": {
-				"id": "business-insider",
-				"name": "Business Insider"
-			},
-			"author": "Ayelet Sheffey",
-			"title": "Kamala Harris is embracing the degree-free wave — and thousands of workers could benefit",
-			"description": "Vice President Kamala Harris proposed getting rid of college degree requirements for 500,000 federal jobs while adding more apprenticeships.",
-			"url": "https://www.businessinsider.com/federal-jobs-no-college-degree-student-debt-kamala-harris-plan-2024-9",
-			"urlToImage": "https://i.insider.com/66f475cdde59ade1a3b4a4ce?width=1200&format=jpeg",
-			"publishedAt": "2024-09-26T17:24:14Z",
-			"content": "Vice President Kamala Harris proposed getting rid of college degree requirements for 500,000 federal jobs.Joe Raedle/Getty Images\r\n<ul><li>Vice President Kamala Harris proposed eliminating college de… [+4080 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Yahoo Entertainment"
-			},
-			"author": "COLLIN BINKLEY",
-			"title": "Biden's student loan cancellation free to move forward as court order expires",
-			"description": "President Joe Biden’s latest attempt at student loan cancellation is free to move ahead — at least temporarily — after a judge in Georgia decided that a...",
-			"url": "https://www.yahoo.com/news/bidens-student-loan-cancellation-free-202116675.html",
-			"urlToImage": "https://media.zenfs.com/en/ap.org/4c0608b607125a6ced3c2732b85f0e1c",
-			"publishedAt": "2024-10-03T20:21:16Z",
-			"content": "WASHINGTON (AP) President Joe Bidens latest attempt at student loan cancellation is free to move ahead at least temporarily after a judge in Georgia decided that a legal challenge should be handled b… [+2951 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Scientific American"
-			},
-			"author": "Jennie Germann Molz",
-			"title": "Worldschooling Is Catching On. Here’s What You Need to Know",
-			"description": "People are pulling their kids out of traditional education to learn while they travel. Data on educational success are limited, but there are other reasons to consider worldschooling",
-			"url": "https://www.scientificamerican.com/article/worldschooling-is-catching-on-heres-what-you-need-to-know/",
-			"urlToImage": "https://static.scientificamerican.com/dam/m/39b2358bddc88c55/original/students_in_class_green_school_bali_indonesia.jpg?w=1200",
-			"publishedAt": "2024-10-21T10:00:00Z",
-			"content": "This piece is part of Scientific American’s column The Science of Parenting. For more, go here.\r\nA decade ago I started studying an emerging trend among middle-class families who were taking their ch… [+8851 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Harvard Business Review"
-			},
-			"author": "Palena Neale",
-			"title": "A Self-Care Checklist for Leaders",
-			"description": "Research has long shown the importance of self-care — yet many leaders still struggle to put self-care into practice in their own work lives. Before a leader can sustainably practice self-care, several important mindset shifts are necessary to ensure leaders …",
-			"url": "https://hbr.org/2024/09/a-self-care-checklist-for-leaders",
-			"urlToImage": "https://hbr.org/resources/images/article_assets/2024/09/Sep24_27_ChiaraGhigliazza.jpg",
-			"publishedAt": "2024-09-27T12:05:13Z",
-			"content": "Despite the momentous rise in media attention given to care, resilience, and well-being since the pandemic began, many leaders struggle to implement self-care practices. We know from research, experi… [+522 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "BBC News"
-			},
-			"author": null,
-			"title": "Starmer 'pleased' assisted dying vote will take place",
-			"description": "The PM says his views are \"well known\" but he will look at the details of the bill.",
-			"url": "https://www.bbc.com/news/articles/c3e9031n142o",
-			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3ebf/live/b3d0e0e0-8250-11ef-822c-a50726bfda2e.jpg",
-			"publishedAt": "2024-10-04T14:08:27Z",
-			"content": "Sir Keir Starmer has said he is \"very pleased\" MPs will get the chance to debate and vote on the issue of assisted dying. \r\nThe prime minister confirmed his government would remain neutral on the sub… [+3302 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "BBC News"
-			},
-			"author": null,
-			"title": "Families 'left in lurch' on child autism diagnoses",
-			"description": "Support services are failing to meet high demand, says the Children's Commissioner for England.",
-			"url": "https://www.bbc.com/news/articles/cy435yk4vj4o",
-			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1b34/live/199e1290-8a3e-11ef-91e3-2bc8acef8e57.jpg",
-			"publishedAt": "2024-10-15T01:58:27Z",
-			"content": "Hundreds of thousands of children with suspected neurodevelopmental conditions in England, including autism and ADHD, face unacceptably long waits to be diagnosed, the Children's Commissioner has war… [+3488 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "BBC News"
-			},
-			"author": "Daniel Austin, Natalie Pirks",
-			"title": "'It was a relief when my ex-footballer husband died after CTE'",
-			"description": "The widows of ex-footballers diagnosed with CTE tell BBC Sport about the pain of seeing their husbands suffer from the brain disease.",
-			"url": "https://www.bbc.com/sport/football/articles/c98182zz490o",
-			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/c9a1/live/36d79f00-9170-11ef-89ae-5575c76d98e6.png",
-			"publishedAt": "2024-10-24T05:16:39Z",
-			"content": "Judith Gates, whose husband Bill retired from football the day before his 30th birthday due to persistent migraines after playing over 200 times for Middlesbrough, set up the Head Safe Football found… [+3066 chars]"
-		},
-		{
-			"source": {
-				"id": "time",
-				"name": "Time"
-			},
-			"author": "Solcyré Burga",
-			"title": "What a Trump or Harris Win Could Mean for Student Loan Forgiveness",
-			"description": "Neither Vice President Kamala Harris or former President Donald Trump have laid out clear policy plans regarding student loans.",
-			"url": "https://time.com/7095067/trump-harris-win-student-loan-forgiveness/",
-			"urlToImage": "https://api.time.com/wp-content/uploads/2024/10/AP24269512518028.jpg?quality=85&w=1200&h=628&crop=1",
-			"publishedAt": "2024-10-18T20:18:18Z",
-			"content": "Student loan forgiveness is in legal limbo as facets of the Biden Administrations broader student loan forgiveness has been stifled by numerous lawsuits. While the judiciary wields significant power … [+6072 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Android Central"
-			},
-			"author": "tips@androidcentral.com (Nickolas Diaz)",
-			"title": "Gemini in Gmail is giving you smarter replies for when you have more to say",
-			"description": "Google detailed another Gemini update in Gmail that brings smarter, \"contextual\" replies to messages.",
-			"url": "https://www.androidcentral.com/apps-software/gemini-in-gmail-contextual-smart-replies-workspace",
-			"urlToImage": "https://cdn.mos.cms.futurecdn.net/f8tGeSUqNBTSbz7iEeM7zM-1200-80.jpg",
-			"publishedAt": "2024-09-30T14:50:33Z",
-			"content": "What you need to know\r\n<ul><li>Google is rolling out an update for Workspace customers that brings Gemini into Gmail for new \"contextual smart replies.\"</li><li>This new variant of the smart reply fe… [+2793 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Android Central"
-			},
-			"author": "tips@androidcentral.com (Nickolas Diaz)",
-			"title": "Google Chat's Gemini update gives you all the deets before opening a thread",
-			"description": "Google detailed a new update for its Chat app that brings a time-saving Gemini feature.",
-			"url": "https://www.androidcentral.com/apps-software/google-chat-ai-gemini-summaries-update",
-			"urlToImage": "https://cdn.mos.cms.futurecdn.net/pTFT5tahw4qCHXi2NqSn5M-1200-80.jpg",
-			"publishedAt": "2024-10-21T20:20:14Z",
-			"content": "What you need to know\r\n<ul><li>Google is pushing an update to Workspace customers that includes Gemini-backed summaries for unread conversations.</li><li>A \"summarize\" button will appear when hoverin… [+2729 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "CNET"
-			},
-			"author": "Rebecca Safier",
-			"title": "Two Major Student Loan Benefits Expire Today. Here's What to Do",
-			"description": "If you've missed student loan payments or have loans in default, you'll want to take action before 11:59 p.m. tonight.",
-			"url": "https://www.cnet.com/personal-finance/loans/two-major-student-loan-benefits-expire-today-heres-what-to-do/",
-			"urlToImage": "https://www.cnet.com/a/img/resize/0390cd45715005a8187eaaf8f061f1e043be8866/hub/2024/06/04/c86f46d7-92a6-4573-92a9-9564fecb0b4c/student-loan-cost.jpg?auto=webp&fit=crop&height=675&width=1200",
-			"publishedAt": "2024-09-30T04:01:00Z",
-			"content": "If you have federal student loans, two important benefits are ending today: the student loan repayment \"on-ramp\" and the Fresh Start program. \r\nFrom March 2020 through October 2023, federal student l… [+4828 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "BBC News"
-			},
-			"author": null,
-			"title": "Turkish cleric accused over failed 2016 coup dead at 83, reports say",
-			"description": "The US-based cleric was the leader of an influential Islamic movement in Turkey and worldwide.",
-			"url": "https://www.bbc.com/news/articles/cy80638zgndo",
-			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a5ed/live/7d0fe430-8f6f-11ef-89a1-3bcaaf1a3641.jpg",
-			"publishedAt": "2024-10-21T07:04:25Z",
-			"content": "Fethullah Gulen, the Turkish cleric accused of masterminding a bloody attempted coup in 2016, has died aged 83, according to Turkish media reports. \r\nThe cleric, who had been living in self-imposed e… [+2805 chars]"
-		},
-		{
-			"source": {
-				"id": "time",
-				"name": "Time"
-			},
-			"author": "Solcyré Burga",
-			"title": "The Student Loan ‘On-Ramp Period’ Is Ending. How It Will Affect You",
-			"description": "The “on-ramp” repayment plan—a buffer given to student loan borrowers— will end on Monday.",
-			"url": "https://time.com/7024912/student-loan-on-ramp-period-ending/",
-			"urlToImage": "https://api.time.com/wp-content/uploads/2024/09/student-loans-new.jpg?quality=85&w=1200&h=628&crop=1",
-			"publishedAt": "2024-09-26T20:13:17Z",
-			"content": "The on-ramp repayment plana buffer given to student loan borrowers as post-pandemic payment pauses resumed last fall will end on Monday, Sept. 30; and once again, borrowers will be subject to consequ… [+4485 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Slashdot.org"
-			},
-			"author": "msmash",
-			"title": "California Passes Law To Ban or Restrict Smartphones in School",
-			"description": "Speaking of California, its governor Gavin Newsom has signed into law a a bill that requires schools to limit or ban the use of smartphones, amid a growing consensus that excess usage can increase the risk of mental illness and impair learning. From a report:…",
-			"url": "https://news.slashdot.org/story/24/09/24/0958209/california-passes-law-to-ban-or-restrict-smartphones-in-school",
-			"urlToImage": "https://a.fsdn.com/sd/topics/usa_64.png",
-			"publishedAt": "2024-09-24T14:00:00Z",
-			"content": "Thirteen other states this year have banned or restricted cellphones in school or recommended local educators do so, after Florida led the way by banning phones in class in 2023, according to Educati… [+918 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Slashdot.org"
-			},
-			"author": "msmash",
-			"title": "Private Equity Firms Ploughing Billions Into Fossil Fuels, Analysis Reveals",
-			"description": "Private equity firms are using US public sector workers' retirement savings to fund fossil fuel projects pumping more than a billion tonnes of greenhouse gas emissions into the atmosphere every year, according to an analysis. From a report: They have ploughed…",
-			"url": "https://news.slashdot.org/story/24/10/03/0146246/private-equity-firms-ploughing-billions-into-fossil-fuels-analysis-reveals",
-			"urlToImage": "https://a.fsdn.com/sd/topics/earth_64.png",
-			"publishedAt": "2024-10-03T13:00:00Z",
-			"content": "They have ploughed more than $1tn into the energy sector since 2010, often buying into old and new fossil fuel projects and, thanks to exemptions from many financial disclosures, operating them outsi… [+914 chars]"
-		},
-		{
-			"source": {
-				"id": "business-insider",
-				"name": "Business Insider"
-			},
-			"author": "Jesse Gormley",
-			"title": "Working in corporate America burned me out, so I became an elementary school teacher",
-			"description": "I spent 16 years working in an office and was not enjoying it. My dad's retirement inspired me to become a school teacher.",
-			"url": "https://www.businessinsider.com/quit-corporate-job-to-become-an-elementary-school-teacher-2024-10",
-			"urlToImage": "https://i.insider.com/66fd7c9f5ccfc192a552a0ff?width=1200&format=jpeg",
-			"publishedAt": "2024-10-08T09:45:02Z",
-			"content": "For 16 years the author worked in the corporate world before he decided to become an elementary school teacher.Courtesy of the author\r\n<ul><li>For 16 years, I worked in the billing department of a co… [+4179 chars]"
-		},
-		{
-			"source": {
-				"id": "business-insider",
-				"name": "Business Insider"
-			},
-			"author": "Ayelet Sheffey",
-			"title": "Legacy students no longer have an advantage at Stanford and other private California colleges",
-			"description": "California Gov. Gavin Newsom announced a ban on legacy preference in admissions at all private schools in the state, including Stanford and USC.",
-			"url": "https://www.businessinsider.com/california-bans-legacy-admissions-preference-stanford-usc-private-colleges-2024-9",
-			"urlToImage": "https://i.insider.com/66fae3dc75c877a99b61d7e3?width=1200&format=jpeg",
-			"publishedAt": "2024-09-30T18:14:55Z",
-			"content": "California Gov. Gavin Newsom announced a ban on legacy preference in admissions at private colleges in the state.REUTERS/Beck Diefenbach/File Photo\r\n<ul><li>California Gov. Gavin Newsom announced a b… [+3157 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Fresno Bee"
-			},
-			"author": "Leqi Zhong",
-			"title": "Retired teacher runs for trustee to ‘uphold core values of Clovis Unified,’ back parental rights",
-			"description": "“I am a supporter of parental rights. I know that nobody loves and cares for the well-being of any child more than the child’s parent,” said longtime Clovis ...",
-			"url": "https://www.fresnobee.com/news/local/education-lab/article293686574.html",
-			"urlToImage": "https://media.zenfs.com/en/fresno_bee_mcclatchy_articles_660/50a034013c35a172b34bae8b47f8f872",
-			"publishedAt": "2024-10-09T12:30:00Z",
-			"content": "After more than five decades inside Clovis Unified classrooms and 14 years into retirement, longtime teacher Janet Kardashian says her work in the district is not done. Her next assignment, she says,… [+6074 chars]"
-		},
-		{
-			"source": {
-				"id": "ars-technica",
-				"name": "Ars Technica"
-			},
-			"author": "Beth Mole",
-			"title": "CEO of “health care terrorists” sues senators after contempt of Congress charges",
-			"description": "Suing an entire Senate panel seen as a \"Hail Mary play\" unlikely to succeed.",
-			"url": "https://arstechnica.com/science/2024/09/ceo-of-health-care-terrorists-sues-senators-after-contempt-of-congress-charges/",
-			"urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-2170818209-760x380.jpg",
-			"publishedAt": "2024-09-30T21:36:37Z",
-			"content": "Enlarge/ The empty chair of Steward Health Care System Chief Executive Officer, Dr. Ralph de la Torre who did not show up during the US Senate Committee on Health, Education, Labor, &amp; Pensions Ex… [+4767 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Science Daily"
-			},
-			"author": null,
-			"title": "Comprehensive efforts needed to develop health-promoting learning environments",
-			"description": "Mental ill-health among students in higher education is a growing problem globally. Most efforts implemented to address ill-health involve individual treatment and adjustments to pedagogy. But more can and needs to be done at a structural or environmental lev…",
-			"url": "https://www.sciencedaily.com/releases/2024/10/241015141334.htm",
-			"urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-			"publishedAt": "2024-10-15T18:13:34Z",
-			"content": "Mental ill-health among students in higher education is a growing problem globally. Most efforts implemented to address ill-health involve individual treatment and adjustments to pedagogy. But more c… [+3268 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "ArchDaily"
-			},
-			"author": "Valeria Silva",
-			"title": "From Brown Coal to Education / Sehw Architektur",
-			"description": "Comprehensive School with Upper Secondary Level and Three-field Sports Hall in the Lusatia region. Lusatia, a former lignite mining region, is facing the challenges of a profound structural transformation. To retain young families in the area, more educationa…",
-			"url": "https://www.archdaily.com/1022390/from-brown-coal-to-education-sehw-architektur",
-			"urlToImage": "https://images.adsttc.com/media/images/670e/c196/2aec/2b01/7c36/09ae/large_jpg/from-brown-coal-to-education-sehw-architektur_2.jpg?1729020327",
-			"publishedAt": "2024-10-18T12:00:00Z",
-			"content": "© Helin Bereket\r\n+ 43\r\nMore SpecsLess Specs\r\n© Helin Bereket\r\nText description provided by the architects. Comprehensive School with Upper Secondary Level and Three-field Sports Hall in the Lusatia r… [+3962 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Slashdot.org"
-			},
-			"author": "BeauHD",
-			"title": "Dozens of Fortune 100 Companies Have Unwittingly Hired North Korean IT Workers",
-			"description": "\"Dozens of Fortune 100 organizations\" have unknowingly hired North Korean IT workers using fake identities, generating revenue for the North Korean government while potentially compromising tech firms, according to Google's Mandiant unit. \"In a report publish…",
-			"url": "https://it.slashdot.org/story/24/09/27/0011212/dozens-of-fortune-100-companies-have-unwittingly-hired-north-korean-it-workers",
-			"urlToImage": "https://a.fsdn.com/sd/topics/business_64.png",
-			"publishedAt": "2024-09-27T00:45:00Z",
-			"content": "The remote workers \"often gain elevated access to modify code and administer network systems,\" Mandiant found, warning of the downstream effects of allowing malicious actors into a company's inner sa… [+1881 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Gizmodo.com"
-			},
-			"author": "Todd Feathers",
-			"title": "Penguin Adds a Do-Not-Scrape-for-AI Page to Its Books",
-			"description": "The world's largest publishing house doesn't want its copyrighted work used to train AI models.",
-			"url": "https://gizmodo.com/penguin-adds-a-do-not-scrape-for-ai-page-to-its-books-2000513543",
-			"urlToImage": "https://gizmodo.com/app/uploads/2024/10/penguin-ai-copyright.jpg",
-			"publishedAt": "2024-10-18T16:30:30Z",
-			"content": "Taking a firm stance against tech companies’ unlicensed use of its authors’ works, the publishing giant Penguin Random House will change the language on all of its books’ copyright pages to expressly… [+4097 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "9to5Mac"
-			},
-			"author": "Ben Lovejoy",
-			"title": "Apple supporting national parks initiative in China, likely for two reasons",
-			"description": "Apple is supporting a national parks initiative in China, geared to providing training and education within the field of nature conservation.\n\n\n\nThe work in five of China’s national parks is being done through the China Green Carbon Sink Foundation, and the c…",
-			"url": "https://9to5mac.com/2024/10/21/apple-supporting-national-parks-initiative-in-china-likely-for-two-reasons/",
-			"urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/Apple-supporting-national-parks-initiative-in-China.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-			"publishedAt": "2024-10-21T11:00:08Z",
-			"content": "Apple is supporting a national parks initiative in China, geared to providing training and education within the field of nature conservation.\r\nThe work in five of China’s national parks is being done… [+1939 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Mental Floss"
-			},
-			"author": "CaLea Johnson",
-			"title": "Spice Things Up With This Chengdu Noodle Recipe",
-			"description": "If you’re looking for a unique dinner recipe, make this Chengdu noodle dish from the Institute of Culinary Education.",
-			"url": "https://www.mentalfloss.com/posts/chengdu-noodle-recipe",
-			"urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2000,h_1125,x_0,y_159/v1727810583/images/voltaxMediaLibrary/mmsport/mentalfloss/01j94rjee1f16fxz78jm.jpg",
-			"publishedAt": "2024-10-02T22:02:00Z",
-			"content": "Chengdu, the capital of the Sichuan province in China, is home to such famous dishes as dragon claw dumplings and mapo tofu. If youd like to sample the regions cuisine without traveling far, try maki… [+2421 chars]"
-		},
-		{
-			"source": {
-				"id": "abc-news",
-				"name": "ABC News"
-			},
-			"author": "Kiara Alfonseca",
-			"title": "Gov. Gavin Newsom deals blow to reparations effort in California",
-			"description": "Gov. Gavin Newsom deals a legislative blow to the groundbreaking reparations effort in Californa.",
-			"url": "https://abcnews.go.com/Politics/gov-gavin-newsom-deals-blow-reparations-effort-california/story?id=113562232",
-			"urlToImage": "https://i.abcnewsfe.com/a/5cf9ea96-fc0b-4c13-8a4f-24f2b0c23555/gavin-newsom-ap-jt-240926_1727374980989_hpMain_16x9.jpg?w=1600",
-			"publishedAt": "2024-09-26T19:06:20Z",
-			"content": "California Gov. Gavin Newsom dealt a blow to legislation linked to the state's groundbreaking reparations efforts on Wednesday.\r\nHe vetoed Senate Bill 1050, which would have restored property taken u… [+3778 chars]"
-		},
-		{
-			"source": {
-				"id": "business-insider",
-				"name": "Business Insider"
-			},
-			"author": "Noah Sheidlower",
-			"title": "We heard from 1,000 older Americans: Here are some of their biggest regrets",
-			"description": "Over 1,000 older Americans shared their biggest regrets, including not saving enough for retirement or taking Social Security too early.",
-			"url": "https://www.businessinsider.com/older-americans-regret-retirement-savings-taking-social-security-early-investments-2024-10",
-			"urlToImage": "https://i.insider.com/66ffef9aa7031864927f72bb?width=1200&format=jpeg",
-			"publishedAt": "2024-10-20T10:03:02Z",
-			"content": "Older Americans said they wished they had saved more for their retirement and emergencies.Getty Images; Jenny Chang-Rodriguez/BI\r\n<ul><li>More than 1,000 older Americans shared their biggest regrets … [+10192 chars]"
-		},
-		{
-			"source": {
-				"id": "business-insider",
-				"name": "Business Insider"
-			},
-			"author": "Huileng Tan,Matthew Loh",
-			"title": "Young Chinese are looking for dupes and cheaper substitutes for everything from Hermès to travel",
-			"description": "The trend comes as China faces a prolonged economic slump following its exit from pandemic lockdowns.",
-			"url": "https://www.businessinsider.com/chinese-economy-young-shoppers-looking-dupes-substitutes-pingti-fashion-travel-2024-9",
-			"urlToImage": "https://i.insider.com/66e89a2dbf0250c21493eb50?width=1200&format=jpeg",
-			"publishedAt": "2024-09-30T00:00:02Z",
-			"content": "Hermes; Getty Images; Chelsea Jia Feng/BI\r\n<ul><li>Chinese consumers are opting for affordable alternatives across various categories to save money.</li><li>The trend, known as pingti, is driven by e… [+7906 chars]"
-		},
-		{
-			"source": {
-				"id": "time",
-				"name": "Time"
-			},
-			"author": "Nik Popli",
-			"title": "Biden Can Move Forward With Student Loan Forgiveness. What Happens Next",
-			"description": "Now that a federal judge has ruled that the Biden Administration can proceed with its student loan forgiveness program, lifting a temporary restraining order that had prevented the discharge of debt for over 25 million Americans, many are hoping for a swift i…",
-			"url": "https://time.com/7034708/biden-student-loan-forgiveness-plan/",
-			"urlToImage": "https://api.time.com/wp-content/uploads/2024/10/GettyImages-2141955473.jpg?quality=85&w=1200&h=628&crop=1",
-			"publishedAt": "2024-10-03T20:46:04Z",
-			"content": "Now that a federal judge has ruled that the Biden Administration can proceed with its student loan forgiveness program, lifting a temporary restraining order that had prevented the discharge of debt … [+4819 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Themarginalian.org"
-			},
-			"author": "Maria Popova",
-			"title": "18 Life-Learnings from 18 Years of The Marginalian",
-			"description": "Somewhere along the way, you realize that no one will teach you how to live your own life — not your parents or your idols, not the philosophers or the poets, not your liberal arts education or your twelve-step program, not church or therapy or Tolstoy. No ma…",
-			"url": "https://www.themarginalian.org/2024/10/22/marginalian-18/",
-			"urlToImage": "https://www.themarginalian.org/wp-content/uploads/2023/10/marginalian_intro.png?fit=700%2C400&ssl=1",
-			"publishedAt": "2024-10-23T00:42:19Z",
-			"content": "Somewhere along the way, you realize that no one will teach you how to live your own life — not your parents or your idols, not the philosophers or the poets, not your liberal arts education or your … [+13224 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "CNET"
-			},
-			"author": "James Bricknell",
-			"title": "The 9th-Gen iPad Is My Kid's Favorite Toy and It's Still Massively Discounted After Prime Day",
-			"description": "She abuses the device but also loves the Apple tablet more than life. For $200, it's basically a steal.",
-			"url": "https://www.cnet.com/deals/the-9th-gen-ipad-is-my-kids-favorite-toy-and-its-still-massively-discounted-after-prime-day/",
-			"urlToImage": "https://www.cnet.com/a/img/resize/155ce3715b0975c0642ee4e927533f004f37c420/hub/2023/11/22/933c86b5-9ddc-4483-b2b0-ff114d2c533b/ipad-9-gen-kids-toy.jpg?auto=webp&fit=crop&height=675&width=1200",
-			"publishedAt": "2024-10-10T19:32:21Z",
-			"content": "If the sight of this image upsets you, I understand. Believe me when I tell you this is the image of a well-loved and well-used part of my daughter Emma's life. This ninth-gen iPad has been with her … [+2147 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Hackaday"
-			},
-			"author": "Lewin Day",
-			"title": "Interactive Project Teaches Lessons About Electromagnets And Waves",
-			"description": "Whether you’re a kid or a nerdy adult, you’ll probably agree that the interactive exhibitions at the museum are the best. If you happened to get down to the Oregon Science Festival in t…",
-			"url": "https://hackaday.com/2024/10/04/interactive-project-teaches-lessons-about-electromagnets-and-waves/",
-			"urlToImage": "https://hackaday.com/wp-content/uploads/2024/09/ctw_all-e1727692777671.jpg",
-			"publishedAt": "2024-10-04T18:30:10Z",
-			"content": "Whether you’re a kid or a nerdy adult, you’ll probably agree that the interactive exhibitions at the museum are the best. If you happened to get down to the Oregon Science Festival in the last couple… [+1229 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "BBC News"
-			},
-			"author": null,
-			"title": "Curfew - is there a radical fix for violence against women?",
-			"description": "Set in a dystopian future, the show imagines a society where men are subjected to a curfew.",
-			"url": "https://www.bbc.com/news/articles/cnvdgl37qz3o",
-			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6c44/live/be3ba3c0-8567-11ef-83dd-fbf1b9732cf0.jpg",
-			"publishedAt": "2024-10-09T02:00:01Z",
-			"content": "Alexandra Burke and Mandip Gill play Helen, a schoolteacher, and Sarah, an ankle-monitor fitter, at the Women's Safety Centre \r\nWould a curfew for men lead to less violence against women and girls?\r\n… [+4320 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "AppleInsider"
-			},
-			"author": "news@appleinsider.com (Amber Neely)",
-			"title": "Apple celebrates teachers with new resources and grants",
-			"description": "Apple has launched four brand new classroom resources geared toward helping students embrace creativity just in time for World Teacher's Day.Image Credit: AppleThe new activities are part of Apple's \"Everyone Can Create\" program and are available for teachers…",
-			"url": "https://appleinsider.com/articles/24/10/01/apple-celebrates-teachers-with-new-resources-and-grants",
-			"urlToImage": "https://photos5.appleinsider.com/gallery/61224-126429-education-xl.jpg",
-			"publishedAt": "2024-10-01T14:13:31Z",
-			"content": "Apple has launched four brand new classroom resources geared toward helping students embrace creativity just in time for World Teacher's Day. \r\nThe new activities are part of Apple's \"Everyone Can Cr… [+1828 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "NPR"
-			},
-			"author": "Brittney Melton",
-			"title": "Missouri executes man prosecutors thought innocent. And, FAFSA’s disastrous launch",
-			"description": "Missouri executed Marcellus Williams yesterday, a man prosecutors believed was innocent. And, why FAFSA’s launch was so disastrous.",
-			"url": "https://www.npr.org/2024/09/25/g-s1-24457/up-first-newsletter-missouri-marcellus-williams-fafsa-visa-lawsuit",
-			"urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fde%2Fbf%2Fae7acb814832b416552fa0d5f5bd%2Fap24235578863117.jpg",
-			"publishedAt": "2024-09-25T12:09:38Z",
-			"content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.\r\nToday's top st… [+4646 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "NPR"
-			},
-			"author": "The Associated Press",
-			"title": "Pentagon to give honorable discharges to some kicked out from 'don't ask, don't tell'",
-			"description": "The Pentagon said more than 800 military personnel have seen their records upgraded to honorable discharges after being kicked out of the military under its former “don’t ask, don’t tell” policy.",
-			"url": "https://www.npr.org/2024/10/16/g-s1-28468/pentagon-honorable-discharges-dont-ask-dont-tell",
-			"urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6903x3883+0+360/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fee%2F3d%2F28558adb4ba8b5235f8cfd672b52%2Fap24274647431906.jpg",
-			"publishedAt": "2024-10-16T05:16:56Z",
-			"content": "WASHINGTON The Pentagon announced Tuesday that more than 800 military personnel have seen their service records upgraded to honorable discharges after previously being kicked out of the military unde… [+2146 chars]"
-		},
-		{
-			"source": {
-				"id": "business-insider",
-				"name": "Business Insider"
-			},
-			"author": "Kelly Burch",
-			"title": "I'm a child psychologist, and I asked my son's teachers to limit his use of technology at school. Here's what happened.",
-			"description": "Scott Kollins is a child psychologist. To help his son with his tech addiction, he asked his teachers to give him tehcnology-free assignments.",
-			"url": "https://www.businessinsider.com/tech-addiction-kid-limit-technology-assignments-school-2024-10",
-			"urlToImage": "https://i.insider.com/66fbf90b75c877a99b621684?width=1200&format=jpeg",
-			"publishedAt": "2024-10-03T08:53:02Z",
-			"content": "Scott Kollins (not pictured) asked his son's teachers to limit use of technology for his son.Getty Images\r\n<ul><li>Scott Kollins is a clinical psychologist who studies families and kids.</li><li>His … [+4076 chars]"
-		}
-	]
+  "status": "ok",
+  "totalResults": 20982,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Prison education failing young offenders, says Ofsted",
+      "description": "Some children in young offender institutions spend 23 hours per day in their cells, a report says.",
+      "url": "https://www.bbc.com/news/articles/c2lnkgplvgzo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d1e8/live/7ee547b0-7fdd-11ef-a06b-57bc065cd07e.jpg",
+      "publishedAt": "2024-10-01T23:27:26Z",
+      "content": "Lorenzo Alara says education did not \"feel valuable\" during his time in a young offender institution\r\nThe standard of education received by children in young offender institutions (YOIs) is in rapid … [+3814 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Children to stay in education or training until 18",
+      "description": "At present, young people in Northern Ireland can leave school at the age of 16.",
+      "url": "https://www.bbc.com/news/articles/ce9jk15jyypo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/264c/live/ee3c5dc0-8ef5-11ef-b8e1-b57cfd03dab0.jpg",
+      "publishedAt": "2024-10-20T23:18:56Z",
+      "content": "The school leaving age in Northern Ireland has been 16 by law since 1972.\r\nEducation Minister Paul Givan is set to make it compulsory for young people to stay in education or training until they are … [+4130 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Givan criticised for LCC meeting while declining 205 others",
+      "description": "The Education Minister Paul Givan has declined 205 meetings since taking office.",
+      "url": "https://www.bbc.com/news/articles/c80rne3pljlo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d446/live/38aa47e0-8a38-11ef-91e3-2bc8acef8e57.jpg",
+      "publishedAt": "2024-10-14T23:01:53Z",
+      "content": "Paul Givan took up office as education minister in February 2024\r\nIn a freedom of information (FoI) request the SDLP councillor Séamas de Faoite asked the Department of Education (DE): \"How many grou… [+4373 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Review call after jailing of paedophile headteacher",
+      "description": "Liz Saville Roberts says a duty of care was owed to children in education.",
+      "url": "https://www.bbc.com/news/articles/cq8xw1z0zvyo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dc0c/live/9164f1b0-872b-11ef-822c-a50726bfda2e.png",
+      "publishedAt": "2024-10-10T17:41:08Z",
+      "content": "Cyngor Gwynedd has a duty of care to children and should be subject to an independent review, according to Liz Saville-Roberts. \r\nThe MP made her demand following the jailing of paedophile headteache… [+2184 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Givan defends meeting with loyalist paramilitaries",
+      "description": "The education minister has defended holding a meeting with the LCC about an Irish Language school.",
+      "url": "https://www.bbc.com/news/articles/czxdg5v31z6o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5316/live/2d943030-8247-11ef-83dd-fbf1b9732cf0.jpg",
+      "publishedAt": "2024-10-04T12:21:27Z",
+      "content": "The education minister has defended holding a meeting with the Loyalist Communities Council (LCC) about a proposal to build an Irish language school in east Belfast.\r\nPaul Givan met the LCC, which in… [+844 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-05T12:00:15Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Gmail for iOS gets an AI assistant to help manage your inbox",
+      "description": "Google is rolling out iOS support for its Gmail Q&A feature, which gives users a Gemini-powered AI assistant to help manage their inbox and Google Drive.",
+      "url": "https://www.theverge.com/2024/10/4/24261926/gmail-for-ios-gemini-ai-assistant-inbox-support",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/5KDrAFDF0p1fErypFb2lKrwinaM=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23954508/acastro_STK459_10.jpg",
+      "publishedAt": "2024-10-04T12:29:19Z",
+      "content": "Gmail for iOS gets an AI assistant to help manage your inbox\r\nGmail for iOS gets an AI assistant to help manage your inbox\r\n / Googles Gemini AI gives some iOS users a way to easily summarize emails … [+1289 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Mariella Moon",
+      "title": "Google launches Gemini's contextual smart replies in Gmail",
+      "description": "When Google rolled out Gemini side panels for Gmail and its other Workspace apps, it revealed that its generative AI chatbot will also be able to offer contextual smart replies for its email service in the future. Now, the company has officially released that…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6efb187d-85b6-440a-a22f-3b7e28935fa6",
+      "urlToImage": null,
+      "publishedAt": "2024-09-27T14:00:21Z",
+      "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Parents lose hope as report says Send system broken",
+      "description": "The special educational needs system is financially unsustainable, the National Audit Office warns.",
+      "url": "https://www.bbc.com/news/articles/cn0d28zk1q8o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3bcf/live/0b30dca0-911f-11ef-88b8-8b00cbc9d4aa.jpg",
+      "publishedAt": "2024-10-23T23:08:15Z",
+      "content": "Claire Dyson waited 10 years for her son Dylan's autism diagnosis\r\nFamilies of children with special education needs and disabilities (Send) have lost confidence in a system that \"often falls short\" … [+5041 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Laura Kwerel",
+      "title": "'A light went off in my head': A professor honors his high school civics teacher",
+      "description": "Malcolm Campbell remembers Don Lawson, the high school civics teacher who helped him understand the true value of education.",
+      "url": "https://www.npr.org/2024/10/21/nx-s1-5159715/professor-kindness-good-news-high-school-teacher",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/819x461+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F86%2Fd0%2Ffd8eb3c04d7a858d551ec1f1344a%2Fpair.jpg",
+      "publishedAt": "2024-10-23T09:00:00Z",
+      "content": "This story is part of the My Unsung Hero series, from the Hidden Brain team. It features stories of people whose kindness left a lasting impression on someone else.\r\nIn 1980, when Malcolm Campbell wa… [+1999 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Jacob Zinkula",
+      "title": "A millennial with a Ph.D. and over $250k in student loan debt says she's been looking for a job for 4 years. She wishes she prioritized work experience over education.",
+      "description": "A millennial said she regrets her degrees and recommends people do their homework before pursuing higher education.",
+      "url": "https://www.businessinsider.com/millennial-phd-cant-find-job-significant-student-loan-debt-2024-10",
+      "urlToImage": "https://i.insider.com/66fc428df44bdb4cfa38a9b5?width=1200&format=jpeg",
+      "publishedAt": "2024-10-04T10:03:02Z",
+      "content": "A. Rasberry has struggled to find a job in her field of study for the last four years after earning her doctorate degree in business management. Aisha Rasberry\r\n<ul><li>A millennial with a Ph.D. and … [+6315 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Jon Marcus",
+      "title": "Some colleges are targeting financial aid to middle-class families",
+      "description": "Many middle-income families are frustrated by the cost of higher education, feeling they earn too much for financial aid, but not enough to pay for it themselves.",
+      "url": "https://www.npr.org/2024/10/22/nx-s1-5155173/colleges-financial-aid-middle-class-families",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+156/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F89%2F33%2F99e6218c409baa7edd4a45155135%2Fmarcus-middleclass-04.jpg",
+      "publishedAt": "2024-10-24T09:00:00Z",
+      "content": "For Emily Kayser, the prospect of covering her sons college tuition on a teachers salary is scary. Its very stressful. To pay for it, Im thinking, what can I sell?\r\nKayser, who was touring Colby Coll… [+12216 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Ayelet Sheffey",
+      "title": "8 million student-loan borrowers enrolled in Biden's new repayment plan won't have to make payments for at least another 6 months",
+      "description": "The Education Department extended the student-loan payment pause by at least 6 more months for borrowers on the SAVE plan.",
+      "url": "https://www.businessinsider.com/save-plan-blocked-biden-extends-payment-pause-student-loan-borrowers-2024-10",
+      "urlToImage": "https://i.insider.com/6717b103a0a0cc14f222f0b4?width=1024&format=jpeg",
+      "publishedAt": "2024-10-22T15:13:19Z",
+      "content": "President Joe Biden extended the student-loan payment pause for borrowers on the SAVE plan. Irfan Khan/Los Angeles Times via Getty Images\r\n<ul><li>The Education Department extended the student-loan p… [+2945 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Claim pupils called 'bullies' over homosexuality views",
+      "description": "A Presbyterian Church representative tells MLAs it is important to teach \"critical thinking\" in lessons.",
+      "url": "https://www.bbc.com/news/articles/cx2lr47zd2do",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/102d/live/3e149cf0-8662-11ef-8ed8-7335b67a3ad9.jpg",
+      "publishedAt": "2024-10-10T05:26:50Z",
+      "content": "Some sixth-form pupils were called bullies for expressing a view that homosexuality was wrong, it has been claimed.\r\nA representative from the Presbyterian Church in Ireland (PCI) made the claim to M… [+4031 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Todd Feathers",
+      "title": "Parents Sue School That Gave Bad Grade to Student Who Used AI to Complete Assignment",
+      "description": "A Massachusetts couple claims that their son's high school attempted to derail his future by giving him detention and a bad grade on an assignment he wrote using generative AI.",
+      "url": "https://gizmodo.com/parents-sue-school-that-gave-bad-grade-to-student-who-used-ai-to-complete-assignment-2000512000",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/hingham-schools-ai-lawsuit.jpg",
+      "publishedAt": "2024-10-15T16:20:21Z",
+      "content": "An old and powerful force has entered the fraught debate over generative AI in schools: litigious parents angry that their child may not be accepted into a prestigious university.\r\nIn what appears to… [+3085 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Ed Cara",
+      "title": "Global Surge in Nearsightedness Linked to Covid-19, Study Finds",
+      "description": "A new review reveals that one in three kids now has myopia, with various factors contributing to the rise—and covid-19 may be one of them.",
+      "url": "https://gizmodo.com/global-surge-in-nearsightedness-linked-to-covid-19-study-finds-2000503155",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/09/eyeglasses.jpg",
+      "publishedAt": "2024-09-25T19:15:34Z",
+      "content": "If you had trouble seeing things in the distance as a kid, you’re far from alone. New research this week has found that the rate of nearsightedness in children and teens has steadily increased over t… [+3514 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Matt Novak",
+      "title": "California Cops Show Off Absurd New Cybertruck With Music From Terminator Movies",
+      "description": "Because if we learned anything from the Terminator franchise, it's that cops are good.",
+      "url": "https://gizmodo.com/california-cops-show-off-absurd-new-cybertruck-with-music-from-terminator-movies-2000509382",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/irvine-police-cybertruck-oct-8-2024.jpg",
+      "publishedAt": "2024-10-08T20:20:29Z",
+      "content": "Police in the city of Irvine, California, released a new promotional video Tuesday to show off their new Tesla Cybertruck. The video is every bit as cringey as you’d expect, but there are a few detai… [+2997 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Joe Rossignol",
+      "title": "Apple's Back to School Promotion Ending Soon: Here's What You Can Get",
+      "description": "In June, Apple launched its annual Back to School promotion for college students in the U.S. and select other countries. Students can get a free Apple gift card with the purchase of an eligible Mac or iPad from Apple, along with 20% off AppleCare+ plans.\n\n\n\n\n…",
+      "url": "https://www.macrumors.com/2024/09/27/apples-2024-back-to-school-offer-ends-soon/",
+      "urlToImage": "https://images.macrumors.com/t/xfi353blcS3sbk06OqqlV-k5TSc=/1600x/article-new/2024/09/Apple-2024-Back-to-School-Offer.jpeg",
+      "publishedAt": "2024-09-27T13:52:47Z",
+      "content": "In June, Apple launched its annual Back to School promotion for college students in the U.S. and select other countries. Students can get a free Apple gift card with the purchase of an eligible Mac o… [+1040 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Ayelet Sheffey",
+      "title": "60,000 student-loan borrowers in public service are getting $4.5 billion in debt cancellation while Biden's broader relief remains blocked in court",
+      "description": "The latest student-loan forgiveness announcement brings the total number of borrowers approved for relief through PSLF to 1 million.",
+      "url": "https://www.businessinsider.com/student-loan-forgiveness-pslf-more-borrowers-approved-debt-cancellation-biden-2024-10",
+      "urlToImage": "https://i.insider.com/670fce78a70318649282d2ff?width=1200&format=jpeg",
+      "publishedAt": "2024-10-17T09:01:01Z",
+      "content": "President Joe Biden approved another batch of student-loan borrowers in public service for debt cancellation.Kevin Dietsch/Getty Images\r\n<ul><li>Biden announced an additional $4.5 billion in student-… [+3578 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "This young disabled man dreamed of having a job - the system had other ideas",
+      "description": "Elliot wants to live independently - but making that happen proved a bigger challenge than he expected.",
+      "url": "https://www.bbc.com/news/articles/c2kdye8z8llo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c00a/live/6298c4d0-8a3a-11ef-81f8-1f28bcc5be15.png",
+      "publishedAt": "2024-10-15T02:00:29Z",
+      "content": "Disabled people are almost twice as likely to be unemployed as non-disabled people\r\nI want to contribute to society. I dream of living with friends in supported living, not far from St James' Park, a… [+12035 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-08T17:23:42Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "English teacher banned after helping pupils cheat",
+      "description": "John Spelacy has shown \"little remorse\" for his actions at the school, a panel hears.",
+      "url": "https://www.bbc.com/news/articles/c4g9rqwl34qo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b654/live/18239a60-7c02-11ef-9e47-a1d24aeb8a99.png",
+      "publishedAt": "2024-09-26T12:55:55Z",
+      "content": "John Spelacy showed \"little remorse\" for his actions at Fakenham Academy, the teaching watchdog said\r\nAn English teacher who helped his pupils to cheat on their coursework has been banned from the cl… [+1419 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-09T10:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Early signs of pupils leaving, private schools say",
+      "description": "The Independent Schools Council says some members reported a drop in pupils starting secondary school.",
+      "url": "https://www.bbc.com/news/articles/cy5y0w6xg43o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e2bd/live/96c43d60-7feb-11ef-83dd-fbf1b9732cf0.jpg",
+      "publishedAt": "2024-10-04T00:58:50Z",
+      "content": "There are fewer private school pupils starting secondary this year, according to the body that represents most independent schools in the UK.\r\nThe Independent Schools Council (ISC) says some members … [+4911 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Santiago Barraza Lopez",
+      "title": "I went to an Ivy League college. The education alone wasn't worth the price tag, but the special privileges I now have are priceless.",
+      "description": "Columbia's classes and student life weren't worth the student loans. However, being an Ivy League alumni has granted me privileges when job searching.",
+      "url": "https://www.businessinsider.com/ivy-league-grad-tuition-student-loans-special-privileges-2024-10",
+      "urlToImage": "https://i.insider.com/6712c36a01ea6d83dee28c8b?width=1200&format=jpeg",
+      "publishedAt": "2024-10-23T17:14:12Z",
+      "content": "The author went to an Ivy League school.Zeiss4Me/Getty Images\r\n<ul><li>I went to Columbia for grad school and had to take out a loan to afford the high tuition.</li><li>The classes, professors, and s… [+4397 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Arthur Jones II",
+      "title": "What you need to know about the Sept. 30 education relief deadline",
+      "description": "The White House is touting a pandemic-era education relief fund that exhausted 90% of available funds by today's deadline.",
+      "url": "https://abcnews.go.com/Politics/pandemic-era-school-relief-fund-expires-today/story?id=114333435",
+      "urlToImage": "https://i.abcnewsfe.com/a/6b89111c-883b-452e-afa2-a91e24e02b69/School0covid-funding-gty-jm-240929_1727640249454_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2024-09-30T10:40:52Z",
+      "content": "The White House is touting its American Rescue Plan (ARP) COVID emergency funding program as a win for public education with nearly 90% of its funds exhausted by Monday's deadline, according to senio… [+6834 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Tess Owen",
+      "title": "Leaked Docs From Far-Right Militias Show History of Voter Intimidation Plans",
+      "description": "“All the state leaders should be getting their people out … to watch for ballot stuffing,” wrote the leader of the American Patriots Three Percent militia. “Our nation depends on this.\"",
+      "url": "https://www.wired.com/story/leaked-messages-militias-ap3-voter-intimidation-plan/",
+      "urlToImage": "https://media.wired.com/photos/670821283ca364f2e7a6063e/191:100/w_1280,c_limit/militant-election-pol-2174386334.jpg",
+      "publishedAt": "2024-10-11T18:18:57Z",
+      "content": "A trove of leaked internal messages and documents from the militia American Patriots Three Percentalso known as AP3reveals how the group coordinated with election denial groups as part of a plan to c… [+2846 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ryan Christoffel",
+      "title": "Apple expands education efforts with new tools, grants, and app highlights",
+      "description": "Today is World Teachers’ Day, and to mark the occasion, Apple has announced a variety of expansions to its education efforts. There are new tools for teachers, grants funding education, and a campaign of Apple’s apps and services to highlight education.\n\n\n\n m…",
+      "url": "https://9to5mac.com/2024/10/01/apple-expands-education-efforts-with-new-tools-grants-and-app-highlights/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/apple-education-2024.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-10-01T13:37:27Z",
+      "content": "Today is World Teachers Day, and to mark the occasion, Apple has announced a variety of expansions to its education efforts. There are new tools for teachers, grants funding education, and a campaign… [+1768 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Rebecca Safier",
+      "title": "Student Loan Forgiveness: You Have a Few Hours Left to Apply for This Debt Relief Program",
+      "description": "It's your last chance to get your student loans out of default so you can qualify for benefits like forgiveness.",
+      "url": "https://www.cnet.com/personal-finance/loans/student-loan-forgiveness-you-have-a-few-hours-left-to-apply-for-this-debt-relief-program/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/7a809caab231ee6cb950d87853c528d16405c25d/hub/2024/06/04/e25b0c58-7c56-45f9-b8ff-298c45ac3d3d/student-loans-3.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-10-02T02:30:00Z",
+      "content": "If you have any student loans that are in default, the Department of Education is giving you until Oct. 2 at 3 a.m. ET to apply for the Fresh Start program to get them back in good standing so you ca… [+10072 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Evan Zimmer",
+      "title": "Biden Administration Forgives Another $4.5 Billion in Student Loans. Who's Eligible?",
+      "description": "If you're a public servant such as a teacher, nurse, or first responder, your student debt could soon be forgiven.",
+      "url": "https://www.cnet.com/personal-finance/loans/biden-administration-forgives-another-4-5-billion-in-student-loans-whos-eligible/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/c8a22b6fbca49cc93ed82600376c3d032dad7583/hub/2024/10/17/d6aa5063-855b-45ba-a012-4895a1c68110/gettyimages-2141954357.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-10-18T16:06:00Z",
+      "content": "The Biden-Harris Administration announced Thursday that over 60,000 nurses, teachers and other public service workers will receive $4.5 billion in student loan debt relief. The latest adjustment to t… [+2970 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Joe Tilleli",
+      "title": "Wall Street in Your Pocket: The Tykr Stock Screener App Will Teach You to Earn Back the Money You Spent on Its Lifetime Plan",
+      "description": "Save 83% and an additional $30 when you sign up for the Tykr Stock Screener premium plan lifetime subscription with this code.",
+      "url": "https://gizmodo.com/wall-street-in-your-pocket-the-tykr-stock-screener-app-will-teach-you-to-earn-back-the-money-you-spent-on-its-lifetime-plan-2000505735",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Tykr.jpg",
+      "publishedAt": "2024-10-01T18:18:47Z",
+      "content": "Just starting out with stock trading can be an overwhelming experience. Knowing what stocks are good and bad and knowing when to buy or sell doesn’t come naturally. You can work with a financial advi… [+2251 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "With This Record Low Price, Babbel’s Lifetime Subscription is Now Cheaper Than a Pair of AirPods",
+      "description": "Are you looking to learn a new language without overspending?",
+      "url": "https://gizmodo.com/with-this-record-low-price-babbels-lifetime-subscription-is-now-cheaper-than-a-pair-of-airpods-2000512397",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/babbel-app-language.jpg",
+      "publishedAt": "2024-10-16T11:45:59Z",
+      "content": "Just when you thought the best deals had come and gone after Prime Day, Babbel has stepped in with an irresistible offer thats hard to ignore. This digital language education platform is now offering… [+2578 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Second DUP minister holds meeting with loyalist group",
+      "description": "The Department for Communities said a meeting took place \"to discuss social deprivation in unionist communities\".",
+      "url": "https://www.bbc.com/news/articles/cp95vz8pyr7o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6167/live/95378e50-864b-11ef-ac05-1b95256399e8.jpg",
+      "publishedAt": "2024-10-09T22:45:09Z",
+      "content": "The Loyalist Communities Council (LCC) has met Democratic Unionist Party (DUP) Minister for Communities Gordon Lyons.\r\nThe Department for Communities confirmed that a meeting took place \"to discuss e… [+1617 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Russian rocket becomes musical instrument of hope",
+      "description": "The extraordinary instrument will be featured at a concert, raising funds for Ukraine.",
+      "url": "https://www.bbc.com/news/articles/ckgmp1n982ko",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0130/live/3774dfa0-8d6e-11ef-b8e0-4b19c1c6fcc7.jpg",
+      "publishedAt": "2024-10-19T06:24:04Z",
+      "content": "A musical instrument made from a Russian missile will be featured at a concert held at Blenheim Palace on Saturday night.\r\nThe Gala Dinner for Ukraine at the estate in Woodstock, Oxfordshire, is bein… [+1666 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Rebecca Safier",
+      "title": "Inside the FAFSA Fiasco: Should You Expect Delays for This Year's Free Application for Federal Student Aid?",
+      "description": "Last year, the FAFSA delay put students in a tough spot. This year, many are worried about a repeat.",
+      "url": "https://www.cnet.com/personal-finance/loans/inside-the-fafsa-fiasco-should-you-expect-delays-for-this-years-free-application-for-federal-student-aid/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/e57da615eaca9ca235eeb6369237426cf68e1c50/hub/2024/08/18/fa691cb2-0b43-470e-8cf9-85188cc06bc0/student-loan-0008-2.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-09-29T15:50:36Z",
+      "content": "The updated 2024-25 FAFSA, or Free Application for Federal Student Aid, was supposed to simplify the financial aid application process. Instead, it caused major headaches for both students and colleg… [+8120 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Hustle"
+      },
+      "author": "Mark Dent",
+      "title": "The Economics of Free Lunch",
+      "description": "American schools spend ~$900B a year on education. Should the federal government pay more for meals?",
+      "url": "https://thehustle.co/originals/the-economics-of-free-lunch#article",
+      "urlToImage": "https://20627419.fs1.hubspotusercontent-na1.net/hubfs/20627419/school_meals_Share.png",
+      "publishedAt": "2024-10-14T16:42:43Z",
+      "content": "American schools spend ~$900B a year on education. Should the federal government pay more for meals?\r\nWhen Kathy Alexander started managing a lunch program at a Vermont school with 200 children in th… [+10914 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Scientific American"
+      },
+      "author": "Allison Parshall",
+      "title": "Trump and Harris Have Vastly Different Plans for Public Education",
+      "description": "The presidential candidates differ on classroom censorship, school choice, federal funding for schools, and more",
+      "url": "https://www.scientificamerican.com/article/trump-and-harris-have-vastly-different-plans-for-public-education/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/33e4f3d17e6aa738/original/sciam-education2.jpg?w=1200",
+      "publishedAt": "2024-10-14T11:00:00Z",
+      "content": "Education in the U.S. is in a state of flux. The pandemic has left students across the country with learning gaps, especially in math and science. Teacher turnover is high, with some areas hit by sta… [+9150 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Juliana Kim",
+      "title": "Two major student loan grace periods are set to expire this week. Here's what to know",
+      "description": "Two federal programs that helped federal student loan borrowers ease back into payments are ending. It will have the biggest impact on borrowers with defaulted loans or borrowers who miss payments moving forward.",
+      "url": "https://www.npr.org/2024/09/30/nx-s1-5133296/student-loan-default-fresh-start-explainer",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5428x3053+0+341/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff8%2F06%2F360dcd7a487288f1566da70f4780%2Fgettyimages-2141952610.jpg",
+      "publishedAt": "2024-09-30T20:18:50Z",
+      "content": "Two federal measures designed to help student loan borrowers with their payments are set to expire this week.\r\nSince federal student loan payments resumed last October, borrowers have received some a… [+3102 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Ayelet Sheffey",
+      "title": "Millions of student-loan borrowers just lost access to a key debt relief program — and it could have big financial consequences",
+      "description": "The on-ramp period for millions of student-loan borrowers is over. This means those who miss payments are at risk of negative credit reporting.",
+      "url": "https://www.businessinsider.com/student-loan-borrowers-on-ramp-period-ending-credit-scores-consequences-2024-10",
+      "urlToImage": "https://i.insider.com/66fac985f44bdb4cfa381df9?width=1200&format=jpeg",
+      "publishedAt": "2024-10-01T09:36:02Z",
+      "content": "The on-ramp period for millions of student-loan borrowers ended on October 1.Getty Images\r\n<ul><li>The on-ramp period for student-loan borrowers ended October 1.</li><li>It means that servicers will … [+3191 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Mexico's first female president vows 'it's time for women'",
+      "description": "At her inauguration, the first female president of Mexico promises to focus on improving health and education.",
+      "url": "https://www.bbc.com/news/articles/ce3z263453lo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/485b/live/d9338980-80a4-11ef-b78b-3338b2138154.jpg",
+      "publishedAt": "2024-10-02T10:33:14Z",
+      "content": "Claudia Sheinbaum is Mexico's first female president in modern times\r\nThe passing of the presidential sash every six years is always an important and symbolic occasion in Mexico.\r\nBut on Tuesday, whe… [+4303 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Dana Miranda",
+      "title": "Harris vs. Trump on Student Loans: Experts Weigh In on Both Candidates' Student Loan Plans",
+      "description": "The next president could have significant sway over what happens next with student loans programs.",
+      "url": "https://www.cnet.com/personal-finance/loans/harris-vs-trump-on-student-loans-experts-weigh-in-on-both-candidates-student-loan-plans/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/ef8514f64ecfef2bc5e8e103e8d6cbfb78df7f81/hub/2024/09/26/5b0232d9-babb-4f8e-8a7a-294b8aece880/student-loan-election.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-10-03T17:00:00Z",
+      "content": "The future of student loan forgiveness and repayment programs could hinge on whoever wins the presidency this November.\r\nVice President Kamala Harris and former President Donald Trump have laid out d… [+6661 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Rebecca Safier",
+      "title": "Student Loan Forgiveness: Today's the Last Day to Apply for This Student Loan Debt Relief Program",
+      "description": "The Fresh Start Program can move your loans out of default and help you qualify for forgiveness -- but you have to apply by Sep. 30.",
+      "url": "https://www.cnet.com/personal-finance/loans/student-loan-forgiveness-todays-the-last-day-to-apply-for-this-student-loan-debt-relief-program/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/7a809caab231ee6cb950d87853c528d16405c25d/hub/2024/06/04/e25b0c58-7c56-45f9-b8ff-298c45ac3d3d/student-loans-3.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-09-30T04:01:00Z",
+      "content": "If you have student loans that are in default, today's the last day to get them out of default through the Fresh Start program.\r\nBefore the pandemic-related payment pause that started in March 2020, … [+9607 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Dana Miranda",
+      "title": "Your Student Loans Under Harris vs. Trump. Here's What the Experts Predict",
+      "description": "Both presidential candidates have shared very different plans for the future of student loans programs.",
+      "url": "https://www.cnet.com/personal-finance/loans/your-student-loans-under-harris-vs-trump-heres-what-the-experts-predict/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/ef8514f64ecfef2bc5e8e103e8d6cbfb78df7f81/hub/2024/09/26/5b0232d9-babb-4f8e-8a7a-294b8aece880/student-loan-election.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-09-29T02:03:56Z",
+      "content": "The future of student loan forgiveness and repayment programs could depend on whoever wins the presidency this November.\r\nVice President Kamala Harris and former President Donald Trump have laid out … [+6671 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "'I massively regret using AI to cheat at uni'",
+      "description": "Hannah says she is lucky she wasn't thrown out of university after being caught using AI.",
+      "url": "https://www.bbc.com/news/articles/cz04emrxp4xo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/32bc/live/60461b00-8644-11ef-83dd-fbf1b9732cf0.jpg",
+      "publishedAt": "2024-10-24T05:09:55Z",
+      "content": "Hannah used an AI tool in her first year at university after being ill with Covid\r\nA student is warning others about the potential consequences of using generative artificial intelligence (AI) to che… [+5298 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "School's period policy deemed a 'slap in the face'",
+      "description": "Charities and campaigners react to a school's stance on absences due to period pain.",
+      "url": "https://www.bbc.com/news/articles/c153x7zjz8jo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/998b/live/cd770720-8581-11ef-8533-1b0f2decc26d.jpg",
+      "publishedAt": "2024-10-09T05:27:12Z",
+      "content": "Jen Moore said she only got medical proof of her endometriosis and adenomyosis in her thirties\r\nA woman whose endometriosis went undiagnosed for more than two decades says a school's toughened stance… [+3879 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Sex charge tutor case reveals ‘massive' safeguarding hole",
+      "description": "A man charged with sexual assault has been advertising as a private tutor for children, the BBC finds.",
+      "url": "https://www.bbc.com/news/articles/cp957rd154ko",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ddc4/live/ed87b050-80ea-11ef-822c-a50726bfda2e.jpg",
+      "publishedAt": "2024-10-02T23:07:11Z",
+      "content": "A man charged with sexual assault has been advertising as a private tutor for children in maths and science, a BBC investigation has found.\r\nThe man, who were not naming for legal reasons, left his j… [+5446 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Ayelet Sheffey",
+      "title": "8 million student-loan borrowers who remain blocked from cheaper payments and debt cancellation are getting a step closer to a final decision on Biden's new repayment plan",
+      "description": "A Missouri judge blocked student-loan forgiveness under the SAVE plan and will soon hear oral arguments on the case. Servicer Mohela plays a key role.",
+      "url": "https://www.businessinsider.com/save-plan-blocked-student-loan-company-mohela-debt-cancellation-biden-2024-10",
+      "urlToImage": "https://i.insider.com/670ea8043f2165d716e10ef0?width=1200&format=jpeg",
+      "publishedAt": "2024-10-20T09:22:01Z",
+      "content": "A Missouri judge will hear oral arguments on President Joe Biden's SAVE student-loan repayment plan, which remains blocked.Scott Olson/Getty Images\r\n<ul><li>A Missouri court will hear oral arguments … [+5064 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Fight begins to make mobile-free schools law",
+      "description": "A law to ban smartphones in schools will be called for under a private member’s bill on Wednesday.",
+      "url": "https://www.bbc.com/news/articles/czj98jrj112o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6f19/live/8348af50-8a45-11ef-8936-1185f9e7d044.jpg",
+      "publishedAt": "2024-10-15T02:19:12Z",
+      "content": "Calls are growing to ban smartphones in schools in England by law, as education experts and unions back an MPs attempt to push a new law through Parliament.\r\nChildren doomscrolling for hours a day is… [+4958 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Jonaki Mehta",
+      "title": "Some students are fighting to stay in college after the FAFSA delayed financial aid",
+      "description": "Students had to make all kinds of decisions about college before knowing how much financial aid they would get. Now, many of them are scrambling to stay in school.",
+      "url": "https://www.npr.org/2024/10/10/nx-s1-5144239/fafsa-college-students-education",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7952x4473+0+416/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff1%2Fdb%2Fb5a88676421785d05d23a58237fe%2Fgettyimages-1723267289.jpg",
+      "publishedAt": "2024-10-10T09:00:00Z",
+      "content": "Brenda H. almost didnt make it to her first day of college. She tried to apply for financial aid through the Free Application for Federal Student Aid (FAFSA) four times, but encountered glitch after … [+6658 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "Bushra Seddique",
+      "title": "Afghan Women Have Been Brought Back in Time",
+      "description": "“Every morning we are waking up with a new Taliban rule limiting us in every way they could; rules for our body, hair, education, and now our voices.”",
+      "url": "https://www.theatlantic.com/ideas/archive/2024/10/afghan-women-brought-back-in-time/680260/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/sHFnpY7XRwx2LJVzu1Fjml5TFFY=/0x788:2160x1913/1200x625/media/img/mt/2024/10/original_1/original.jpg",
+      "publishedAt": "2024-10-16T15:30:00Z",
+      "content": "Mariam was 12 years old when a relative sold her into a marriage with a 40-year-old soldier in the Taliban, who was already married. She was repeatedly sexually and physically assaulted. By the time … [+5418 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Migdal.pl"
+      },
+      "author": "Piotr Migdał",
+      "title": "Science-based games and explorable explanations",
+      "description": "Science-based games and interactive explorable explanations are revolutionizing education, making complex topics like physics and machine learning accessible and fun.",
+      "url": "https://p.migdal.pl/blog/2024/05/science-games-explorable-explanations/",
+      "urlToImage": "https://p.migdal.pl/blog/2024/05/science-games-explorable-explanations/fourier-color-coded.png",
+      "publishedAt": "2024-09-25T14:39:11Z",
+      "content": "The traditional way of teaching includes textbooks, lectures, and projects. This teaching method is performed top-down, with clear instructions and expectations. Students are tested via grading of pr… [+9872 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thepsmiths.com"
+      },
+      "author": "John Psmith",
+      "title": "Math from Three to Seven",
+      "description": "Math from Three to Seven: The Story of a Mathematical Circle for Preschoolers, Alexander Zvonkin (Moscow Center for Continuing Mathematical Education, 2007).",
+      "url": "https://www.thepsmiths.com/p/review-math-from-three-to-seven-by",
+      "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca929aa2-a7d2-4837-8156-cd02da28136f_1380x776.jpeg",
+      "publishedAt": "2024-10-01T23:58:45Z",
+      "content": "Math from Three to Seven: The Story of a Mathematical Circle for Preschoolers, Alexander Zvonkin (Moscow Center for Continuing Mathematical Education, 2007).\r\nTo me, one of the greatest historical pu… [+20109 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Strikes set to close Perth and Kinross schools for two weeks",
+      "description": "The Unison action is due to begin on 21 October and will affect 50 schools and early years centres.",
+      "url": "https://www.bbc.com/news/articles/cm29x1kjd1lo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3294/live/fde148a0-855c-11ef-9048-6d8e2241889b.jpg",
+      "publishedAt": "2024-10-08T10:23:11Z",
+      "content": "Unison members have rejected the national pay offer for council staff\r\nStrike action is set to close schools in Perth and Kinross for two weeks after the largest council union rejected a national pay… [+1847 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Human trafficking charges against Stagecoach tycoon are dropped",
+      "description": "Dame Ann Gloag said the \"malicious allegations\" have been a devastating threat to her legacy.",
+      "url": "https://www.bbc.com/news/articles/cdd4qy34m2yo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cf8/live/80888f20-867a-11ef-939b-53c2456f2016.jpg",
+      "publishedAt": "2024-10-09T20:19:32Z",
+      "content": "Human trafficking charges against Scottish transport tycoon Dame Ann Gloag have been dropped, the Crown Office has said.\r\nThe 81-year-old Stagecoach co-founder was charged alongside three other peopl… [+2135 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Courtney Johnston",
+      "title": "Student Loan Forgiveness on Hold Again. Experts Explain What's Next for Debt Relief",
+      "description": "The holds on the student loan forgiveness plan are only temporary right now. Here's what borrowers should know.",
+      "url": "https://www.cnet.com/personal-finance/loans/student-loan-forgiveness-on-hold-again-experts-explain-whats-next-for-debt-relief/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/e75f99e2f54bbe45da537b6a25bb08dfabeaf3f2/hub/2024/08/18/527dff78-3dc8-4bc8-9e76-2cd00e1fb5e7/student-loan-0001-9.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-10-04T21:45:00Z",
+      "content": "Not even a full day after the Biden administration's student loan forgiveness plan was given the green light, a Missouri judge blocked the plan again. If you have student loan debt, experts say to ex… [+4955 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "In The Wake of Prime Day, Babbel Language Service hits record low price with a 76% discount.",
+      "description": "Following the excitement of Prime Day, Babbel has unveiled an incredible offer and slashes its lifetime subscription price by 76%.",
+      "url": "https://gizmodo.com/in-the-wake-of-prime-day-babbel-language-service-hits-record-low-price-with-a-76-discount-2000511027",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/babbel-app.jpg",
+      "publishedAt": "2024-10-12T12:15:51Z",
+      "content": "In an unexpected turn of events following the recent Prime Day event, language learning enthusiasts have been gifted with an extraordinary opportunity: the renowned digital language education platfor… [+3415 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Joe Tilleli",
+      "title": "Students Can Pre-order the Samsung Galaxy S24 FE and Get the Galaxy Buds FE for Free",
+      "description": "You can knock up to $400 off your pre-order of the Samsung Galaxy S24 FE when you trade in your old phone.",
+      "url": "https://gizmodo.com/students-can-pre-order-the-samsung-galaxy-s24-fe-and-get-the-galaxy-buds-fe-for-free-2000504362",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/09/GalaxyS24FE.jpg",
+      "publishedAt": "2024-09-27T15:58:08Z",
+      "content": "Samsung recently announced a whole slew of new Galaxy products from refreshes in its smartphone lineup to new smartwatches and tablets. One of the newly unveiled smartphones is unsurprisingly the Gal… [+2462 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Beth Mole",
+      "title": "Senate holds rich CEO of “third-world medicine” hospitals in contempt",
+      "description": "Ralph de la Torre, CEO of Steward, faces up to 12 months in prison if convicted.",
+      "url": "https://arstechnica.com/science/2024/09/senate-holds-rich-ceo-of-third-world-medicine-hospitals-in-contempt/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-2170818186-760x380.jpg",
+      "publishedAt": "2024-09-26T14:56:42Z",
+      "content": "Enlarge/ Vermont Senator Bernie Sanders speaks about Ralph De La Torre's spending habits during the US Senate Committee on Health, Education, Labor, &amp; Pensions on September 12, 2024.\r\n4\r\nThe Sena… [+2671 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Ayelet Sheffey",
+      "title": "Kamala Harris is embracing the degree-free wave — and thousands of workers could benefit",
+      "description": "Vice President Kamala Harris proposed getting rid of college degree requirements for 500,000 federal jobs while adding more apprenticeships.",
+      "url": "https://www.businessinsider.com/federal-jobs-no-college-degree-student-debt-kamala-harris-plan-2024-9",
+      "urlToImage": "https://i.insider.com/66f475cdde59ade1a3b4a4ce?width=1200&format=jpeg",
+      "publishedAt": "2024-09-26T17:24:14Z",
+      "content": "Vice President Kamala Harris proposed getting rid of college degree requirements for 500,000 federal jobs.Joe Raedle/Getty Images\r\n<ul><li>Vice President Kamala Harris proposed eliminating college de… [+4080 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "COLLIN BINKLEY",
+      "title": "Biden's student loan cancellation free to move forward as court order expires",
+      "description": "President Joe Biden’s latest attempt at student loan cancellation is free to move ahead — at least temporarily — after a judge in Georgia decided that a...",
+      "url": "https://www.yahoo.com/news/bidens-student-loan-cancellation-free-202116675.html",
+      "urlToImage": "https://media.zenfs.com/en/ap.org/4c0608b607125a6ced3c2732b85f0e1c",
+      "publishedAt": "2024-10-03T20:21:16Z",
+      "content": "WASHINGTON (AP) President Joe Bidens latest attempt at student loan cancellation is free to move ahead at least temporarily after a judge in Georgia decided that a legal challenge should be handled b… [+2951 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Scientific American"
+      },
+      "author": "Jennie Germann Molz",
+      "title": "Worldschooling Is Catching On. Here’s What You Need to Know",
+      "description": "People are pulling their kids out of traditional education to learn while they travel. Data on educational success are limited, but there are other reasons to consider worldschooling",
+      "url": "https://www.scientificamerican.com/article/worldschooling-is-catching-on-heres-what-you-need-to-know/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/39b2358bddc88c55/original/students_in_class_green_school_bali_indonesia.jpg?w=1200",
+      "publishedAt": "2024-10-21T10:00:00Z",
+      "content": "This piece is part of Scientific American’s column The Science of Parenting. For more, go here.\r\nA decade ago I started studying an emerging trend among middle-class families who were taking their ch… [+8851 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Harvard Business Review"
+      },
+      "author": "Palena Neale",
+      "title": "A Self-Care Checklist for Leaders",
+      "description": "Research has long shown the importance of self-care — yet many leaders still struggle to put self-care into practice in their own work lives. Before a leader can sustainably practice self-care, several important mindset shifts are necessary to ensure leaders …",
+      "url": "https://hbr.org/2024/09/a-self-care-checklist-for-leaders",
+      "urlToImage": "https://hbr.org/resources/images/article_assets/2024/09/Sep24_27_ChiaraGhigliazza.jpg",
+      "publishedAt": "2024-09-27T12:05:13Z",
+      "content": "Despite the momentous rise in media attention given to care, resilience, and well-being since the pandemic began, many leaders struggle to implement self-care practices. We know from research, experi… [+522 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Erin Liam",
+      "title": "College in the US was too expensive, so these students opted for Europe",
+      "description": "Besides the draw of cheaper tuition, some American students choose to study abroad for the chance to travel or to pursue a specific program.",
+      "url": "https://www.businessinsider.com/more-american-students-avoid-debt-studying-abroad-college-europe-2024-10",
+      "urlToImage": "https://i.insider.com/67073947198738e3a70f8bf7?width=1200&format=jpeg",
+      "publishedAt": "2024-10-25T02:45:27Z",
+      "content": "Liza Jean Miezejeski decided to move to Prague for a more affordable college education.Liza Jean Miezejeski\r\n<ul><li>As college tuition fees soar, more American students are going abroad.</li><li>Bey… [+9819 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Starmer 'pleased' assisted dying vote will take place",
+      "description": "The PM says his views are \"well known\" but he will look at the details of the bill.",
+      "url": "https://www.bbc.com/news/articles/c3e9031n142o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3ebf/live/b3d0e0e0-8250-11ef-822c-a50726bfda2e.jpg",
+      "publishedAt": "2024-10-04T14:08:27Z",
+      "content": "Sir Keir Starmer has said he is \"very pleased\" MPs will get the chance to debate and vote on the issue of assisted dying. \r\nThe prime minister confirmed his government would remain neutral on the sub… [+3302 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Families 'left in lurch' on child autism diagnoses",
+      "description": "Support services are failing to meet high demand, says the Children's Commissioner for England.",
+      "url": "https://www.bbc.com/news/articles/cy435yk4vj4o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1b34/live/199e1290-8a3e-11ef-91e3-2bc8acef8e57.jpg",
+      "publishedAt": "2024-10-15T01:58:27Z",
+      "content": "Hundreds of thousands of children with suspected neurodevelopmental conditions in England, including autism and ADHD, face unacceptably long waits to be diagnosed, the Children's Commissioner has war… [+3488 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Daniel Austin, Natalie Pirks",
+      "title": "'It was a relief when my ex-footballer husband died after CTE'",
+      "description": "The widows of ex-footballers diagnosed with CTE tell BBC Sport about the pain of seeing their husbands suffer from the brain disease.",
+      "url": "https://www.bbc.com/sport/football/articles/c98182zz490o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/c9a1/live/36d79f00-9170-11ef-89ae-5575c76d98e6.png",
+      "publishedAt": "2024-10-24T05:16:39Z",
+      "content": "Judith Gates, whose husband Bill retired from football the day before his 30th birthday due to persistent migraines after playing over 200 times for Middlesbrough, set up the Head Safe Football found… [+3066 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Queen's University to cut up to 270 jobs",
+      "description": "The university told BBC News NI it is planning to cut the jobs through a voluntary redundancy scheme.",
+      "url": "https://www.bbc.com/news/articles/cwy54v5lg45o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d674/live/e2c2c3a0-9218-11ef-bcc7-814433f8e757.jpg",
+      "publishedAt": "2024-10-24T23:17:38Z",
+      "content": "Queen's University Belfast (QUB) is set to cut up to 270 jobs - more than 5% of its workforce. \r\nAccording to documents seen by BBC News NI, the university is facing a deficit of more than £11m in 20… [+2767 chars]"
+    },
+    {
+      "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "Solcyré Burga",
+      "title": "What a Trump or Harris Win Could Mean for Student Loan Forgiveness",
+      "description": "Neither Vice President Kamala Harris or former President Donald Trump have laid out clear policy plans regarding student loans.",
+      "url": "https://time.com/7095067/trump-harris-win-student-loan-forgiveness/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2024/10/AP24269512518028.jpg?quality=85&w=1200&h=628&crop=1",
+      "publishedAt": "2024-10-18T20:18:18Z",
+      "content": "Student loan forgiveness is in legal limbo as facets of the Biden Administrations broader student loan forgiveness has been stifled by numerous lawsuits. While the judiciary wields significant power … [+6072 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "tips@androidcentral.com (Nickolas Diaz)",
+      "title": "Gemini in Gmail is giving you smarter replies for when you have more to say",
+      "description": "Google detailed another Gemini update in Gmail that brings smarter, \"contextual\" replies to messages.",
+      "url": "https://www.androidcentral.com/apps-software/gemini-in-gmail-contextual-smart-replies-workspace",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/f8tGeSUqNBTSbz7iEeM7zM-1200-80.jpg",
+      "publishedAt": "2024-09-30T14:50:33Z",
+      "content": "What you need to know\r\n<ul><li>Google is rolling out an update for Workspace customers that brings Gemini into Gmail for new \"contextual smart replies.\"</li><li>This new variant of the smart reply fe… [+2793 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "tips@androidcentral.com (Nickolas Diaz)",
+      "title": "Google Chat's Gemini update gives you all the deets before opening a thread",
+      "description": "Google detailed a new update for its Chat app that brings a time-saving Gemini feature.",
+      "url": "https://www.androidcentral.com/apps-software/google-chat-ai-gemini-summaries-update",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pTFT5tahw4qCHXi2NqSn5M-1200-80.jpg",
+      "publishedAt": "2024-10-21T20:20:14Z",
+      "content": "What you need to know\r\n<ul><li>Google is pushing an update to Workspace customers that includes Gemini-backed summaries for unread conversations.</li><li>A \"summarize\" button will appear when hoverin… [+2729 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Rebecca Safier",
+      "title": "Two Major Student Loan Benefits Expire Today. Here's What to Do",
+      "description": "If you've missed student loan payments or have loans in default, you'll want to take action before 11:59 p.m. tonight.",
+      "url": "https://www.cnet.com/personal-finance/loans/two-major-student-loan-benefits-expire-today-heres-what-to-do/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/0390cd45715005a8187eaaf8f061f1e043be8866/hub/2024/06/04/c86f46d7-92a6-4573-92a9-9564fecb0b4c/student-loan-cost.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-09-30T04:01:00Z",
+      "content": "If you have federal student loans, two important benefits are ending today: the student loan repayment \"on-ramp\" and the Fresh Start program. \r\nFrom March 2020 through October 2023, federal student l… [+4828 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Turkish cleric accused over failed 2016 coup dead at 83, reports say",
+      "description": "The US-based cleric was the leader of an influential Islamic movement in Turkey and worldwide.",
+      "url": "https://www.bbc.com/news/articles/cy80638zgndo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a5ed/live/7d0fe430-8f6f-11ef-89a1-3bcaaf1a3641.jpg",
+      "publishedAt": "2024-10-21T07:04:25Z",
+      "content": "Fethullah Gulen, the Turkish cleric accused of masterminding a bloody attempted coup in 2016, has died aged 83, according to Turkish media reports. \r\nThe cleric, who had been living in self-imposed e… [+2805 chars]"
+    },
+    {
+      "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "Solcyré Burga",
+      "title": "The Student Loan ‘On-Ramp Period’ Is Ending. How It Will Affect You",
+      "description": "The “on-ramp” repayment plan—a buffer given to student loan borrowers— will end on Monday.",
+      "url": "https://time.com/7024912/student-loan-on-ramp-period-ending/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2024/09/student-loans-new.jpg?quality=85&w=1200&h=628&crop=1",
+      "publishedAt": "2024-09-26T20:13:17Z",
+      "content": "The on-ramp repayment plana buffer given to student loan borrowers as post-pandemic payment pauses resumed last fall will end on Monday, Sept. 30; and once again, borrowers will be subject to consequ… [+4485 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "msmash",
+      "title": "Private Equity Firms Ploughing Billions Into Fossil Fuels, Analysis Reveals",
+      "description": "Private equity firms are using US public sector workers' retirement savings to fund fossil fuel projects pumping more than a billion tonnes of greenhouse gas emissions into the atmosphere every year, according to an analysis. From a report: They have ploughed…",
+      "url": "https://news.slashdot.org/story/24/10/03/0146246/private-equity-firms-ploughing-billions-into-fossil-fuels-analysis-reveals",
+      "urlToImage": "https://a.fsdn.com/sd/topics/earth_64.png",
+      "publishedAt": "2024-10-03T13:00:00Z",
+      "content": "They have ploughed more than $1tn into the energy sector since 2010, often buying into old and new fossil fuel projects and, thanks to exemptions from many financial disclosures, operating them outsi… [+914 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Jesse Gormley",
+      "title": "Working in corporate America burned me out, so I became an elementary school teacher",
+      "description": "I spent 16 years working in an office and was not enjoying it. My dad's retirement inspired me to become a school teacher.",
+      "url": "https://www.businessinsider.com/quit-corporate-job-to-become-an-elementary-school-teacher-2024-10",
+      "urlToImage": "https://i.insider.com/66fd7c9f5ccfc192a552a0ff?width=1200&format=jpeg",
+      "publishedAt": "2024-10-08T09:45:02Z",
+      "content": "For 16 years the author worked in the corporate world before he decided to become an elementary school teacher.Courtesy of the author\r\n<ul><li>For 16 years, I worked in the billing department of a co… [+4179 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Ayelet Sheffey",
+      "title": "Legacy students no longer have an advantage at Stanford and other private California colleges",
+      "description": "California Gov. Gavin Newsom announced a ban on legacy preference in admissions at all private schools in the state, including Stanford and USC.",
+      "url": "https://www.businessinsider.com/california-bans-legacy-admissions-preference-stanford-usc-private-colleges-2024-9",
+      "urlToImage": "https://i.insider.com/66fae3dc75c877a99b61d7e3?width=1200&format=jpeg",
+      "publishedAt": "2024-09-30T18:14:55Z",
+      "content": "California Gov. Gavin Newsom announced a ban on legacy preference in admissions at private colleges in the state.REUTERS/Beck Diefenbach/File Photo\r\n<ul><li>California Gov. Gavin Newsom announced a b… [+3157 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fresno Bee"
+      },
+      "author": "Leqi Zhong",
+      "title": "Retired teacher runs for trustee to ‘uphold core values of Clovis Unified,’ back parental rights",
+      "description": "“I am a supporter of parental rights. I know that nobody loves and cares for the well-being of any child more than the child’s parent,” said longtime Clovis ...",
+      "url": "https://www.fresnobee.com/news/local/education-lab/article293686574.html",
+      "urlToImage": "https://media.zenfs.com/en/fresno_bee_mcclatchy_articles_660/50a034013c35a172b34bae8b47f8f872",
+      "publishedAt": "2024-10-09T12:30:00Z",
+      "content": "After more than five decades inside Clovis Unified classrooms and 14 years into retirement, longtime teacher Janet Kardashian says her work in the district is not done. Her next assignment, she says,… [+6074 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Beth Mole",
+      "title": "CEO of “health care terrorists” sues senators after contempt of Congress charges",
+      "description": "Suing an entire Senate panel seen as a \"Hail Mary play\" unlikely to succeed.",
+      "url": "https://arstechnica.com/science/2024/09/ceo-of-health-care-terrorists-sues-senators-after-contempt-of-congress-charges/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-2170818209-760x380.jpg",
+      "publishedAt": "2024-09-30T21:36:37Z",
+      "content": "Enlarge/ The empty chair of Steward Health Care System Chief Executive Officer, Dr. Ralph de la Torre who did not show up during the US Senate Committee on Health, Education, Labor, &amp; Pensions Ex… [+4767 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ArchDaily"
+      },
+      "author": "Valeria Silva",
+      "title": "From Brown Coal to Education / Sehw Architektur",
+      "description": "Comprehensive School with Upper Secondary Level and Three-field Sports Hall in the Lusatia region. Lusatia, a former lignite mining region, is facing the challenges of a profound structural transformation. To retain young families in the area, more educationa…",
+      "url": "https://www.archdaily.com/1022390/from-brown-coal-to-education-sehw-architektur",
+      "urlToImage": "https://images.adsttc.com/media/images/670e/c196/2aec/2b01/7c36/09ae/large_jpg/from-brown-coal-to-education-sehw-architektur_2.jpg?1729020327",
+      "publishedAt": "2024-10-18T12:00:00Z",
+      "content": "© Helin Bereket\r\n+ 43\r\nMore SpecsLess Specs\r\n© Helin Bereket\r\nText description provided by the architects. Comprehensive School with Upper Secondary Level and Three-field Sports Hall in the Lusatia r… [+3962 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Comprehensive efforts needed to develop health-promoting learning environments",
+      "description": "Mental ill-health among students in higher education is a growing problem globally. Most efforts implemented to address ill-health involve individual treatment and adjustments to pedagogy. But more can and needs to be done at a structural or environmental lev…",
+      "url": "https://www.sciencedaily.com/releases/2024/10/241015141334.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-10-15T18:13:34Z",
+      "content": "Mental ill-health among students in higher education is a growing problem globally. Most efforts implemented to address ill-health involve individual treatment and adjustments to pedagogy. But more c… [+3268 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "BeauHD",
+      "title": "Dozens of Fortune 100 Companies Have Unwittingly Hired North Korean IT Workers",
+      "description": "\"Dozens of Fortune 100 organizations\" have unknowingly hired North Korean IT workers using fake identities, generating revenue for the North Korean government while potentially compromising tech firms, according to Google's Mandiant unit. \"In a report publish…",
+      "url": "https://it.slashdot.org/story/24/09/27/0011212/dozens-of-fortune-100-companies-have-unwittingly-hired-north-korean-it-workers",
+      "urlToImage": "https://a.fsdn.com/sd/topics/business_64.png",
+      "publishedAt": "2024-09-27T00:45:00Z",
+      "content": "The remote workers \"often gain elevated access to modify code and administer network systems,\" Mandiant found, warning of the downstream effects of allowing malicious actors into a company's inner sa… [+1881 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Todd Feathers",
+      "title": "Penguin Adds a Do-Not-Scrape-for-AI Page to Its Books",
+      "description": "The world's largest publishing house doesn't want its copyrighted work used to train AI models.",
+      "url": "https://gizmodo.com/penguin-adds-a-do-not-scrape-for-ai-page-to-its-books-2000513543",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/penguin-ai-copyright.jpg",
+      "publishedAt": "2024-10-18T16:30:30Z",
+      "content": "Taking a firm stance against tech companies’ unlicensed use of its authors’ works, the publishing giant Penguin Random House will change the language on all of its books’ copyright pages to expressly… [+4097 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ben Lovejoy",
+      "title": "Apple supporting national parks initiative in China, likely for two reasons",
+      "description": "Apple is supporting a national parks initiative in China, geared to providing training and education within the field of nature conservation.\n\n\n\nThe work in five of China’s national parks is being done through the China Green Carbon Sink Foundation, and the c…",
+      "url": "https://9to5mac.com/2024/10/21/apple-supporting-national-parks-initiative-in-china-likely-for-two-reasons/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/Apple-supporting-national-parks-initiative-in-China.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-10-21T11:00:08Z",
+      "content": "Apple is supporting a national parks initiative in China, geared to providing training and education within the field of nature conservation.\r\nThe work in five of China’s national parks is being done… [+1939 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mental Floss"
+      },
+      "author": "CaLea Johnson",
+      "title": "Spice Things Up With This Chengdu Noodle Recipe",
+      "description": "If you’re looking for a unique dinner recipe, make this Chengdu noodle dish from the Institute of Culinary Education.",
+      "url": "https://www.mentalfloss.com/posts/chengdu-noodle-recipe",
+      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2000,h_1125,x_0,y_159/v1727810583/images/voltaxMediaLibrary/mmsport/mentalfloss/01j94rjee1f16fxz78jm.jpg",
+      "publishedAt": "2024-10-02T22:02:00Z",
+      "content": "Chengdu, the capital of the Sichuan province in China, is home to such famous dishes as dragon claw dumplings and mapo tofu. If youd like to sample the regions cuisine without traveling far, try maki… [+2421 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Kiara Alfonseca",
+      "title": "Gov. Gavin Newsom deals blow to reparations effort in California",
+      "description": "Gov. Gavin Newsom deals a legislative blow to the groundbreaking reparations effort in Californa.",
+      "url": "https://abcnews.go.com/Politics/gov-gavin-newsom-deals-blow-reparations-effort-california/story?id=113562232",
+      "urlToImage": "https://i.abcnewsfe.com/a/5cf9ea96-fc0b-4c13-8a4f-24f2b0c23555/gavin-newsom-ap-jt-240926_1727374980989_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2024-09-26T19:06:20Z",
+      "content": "California Gov. Gavin Newsom dealt a blow to legislation linked to the state's groundbreaking reparations efforts on Wednesday.\r\nHe vetoed Senate Bill 1050, which would have restored property taken u… [+3778 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Noah Sheidlower",
+      "title": "We heard from 1,000 older Americans: Here are some of their biggest regrets",
+      "description": "Over 1,000 older Americans shared their biggest regrets, including not saving enough for retirement or taking Social Security too early.",
+      "url": "https://www.businessinsider.com/older-americans-regret-retirement-savings-taking-social-security-early-investments-2024-10",
+      "urlToImage": "https://i.insider.com/66ffef9aa7031864927f72bb?width=1200&format=jpeg",
+      "publishedAt": "2024-10-20T10:03:02Z",
+      "content": "Older Americans said they wished they had saved more for their retirement and emergencies.Getty Images; Jenny Chang-Rodriguez/BI\r\n<ul><li>More than 1,000 older Americans shared their biggest regrets … [+10192 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Huileng Tan,Matthew Loh",
+      "title": "Young Chinese are looking for dupes and cheaper substitutes for everything from Hermès to travel",
+      "description": "The trend comes as China faces a prolonged economic slump following its exit from pandemic lockdowns.",
+      "url": "https://www.businessinsider.com/chinese-economy-young-shoppers-looking-dupes-substitutes-pingti-fashion-travel-2024-9",
+      "urlToImage": "https://i.insider.com/66e89a2dbf0250c21493eb50?width=1200&format=jpeg",
+      "publishedAt": "2024-09-30T00:00:02Z",
+      "content": "Hermes; Getty Images; Chelsea Jia Feng/BI\r\n<ul><li>Chinese consumers are opting for affordable alternatives across various categories to save money.</li><li>The trend, known as pingti, is driven by e… [+7906 chars]"
+    },
+    {
+      "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "Nik Popli",
+      "title": "Biden Can Move Forward With Student Loan Forgiveness. What Happens Next",
+      "description": "Now that a federal judge has ruled that the Biden Administration can proceed with its student loan forgiveness program, lifting a temporary restraining order that had prevented the discharge of debt for over 25 million Americans, many are hoping for a swift i…",
+      "url": "https://time.com/7034708/biden-student-loan-forgiveness-plan/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2024/10/GettyImages-2141955473.jpg?quality=85&w=1200&h=628&crop=1",
+      "publishedAt": "2024-10-03T20:46:04Z",
+      "content": "Now that a federal judge has ruled that the Biden Administration can proceed with its student loan forgiveness program, lifting a temporary restraining order that had prevented the discharge of debt … [+4819 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Themarginalian.org"
+      },
+      "author": "Maria Popova",
+      "title": "18 Life-Learnings from 18 Years of The Marginalian",
+      "description": "Somewhere along the way, you realize that no one will teach you how to live your own life — not your parents or your idols, not the philosophers or the poets, not your liberal arts education or your twelve-step program, not church or therapy or Tolstoy. No ma…",
+      "url": "https://www.themarginalian.org/2024/10/22/marginalian-18/",
+      "urlToImage": "https://www.themarginalian.org/wp-content/uploads/2023/10/marginalian_intro.png?fit=700%2C400&ssl=1",
+      "publishedAt": "2024-10-23T00:42:19Z",
+      "content": "Somewhere along the way, you realize that no one will teach you how to live your own life — not your parents or your idols, not the philosophers or the poets, not your liberal arts education or your … [+13224 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "James Bricknell",
+      "title": "The 9th-Gen iPad Is My Kid's Favorite Toy and It's Still Massively Discounted After Prime Day",
+      "description": "She abuses the device but also loves the Apple tablet more than life. For $200, it's basically a steal.",
+      "url": "https://www.cnet.com/deals/the-9th-gen-ipad-is-my-kids-favorite-toy-and-its-still-massively-discounted-after-prime-day/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/155ce3715b0975c0642ee4e927533f004f37c420/hub/2023/11/22/933c86b5-9ddc-4483-b2b0-ff114d2c533b/ipad-9-gen-kids-toy.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-10-10T19:32:21Z",
+      "content": "If the sight of this image upsets you, I understand. Believe me when I tell you this is the image of a well-loved and well-used part of my daughter Emma's life. This ninth-gen iPad has been with her … [+2147 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hackaday"
+      },
+      "author": "Lewin Day",
+      "title": "Interactive Project Teaches Lessons About Electromagnets And Waves",
+      "description": "Whether you’re a kid or a nerdy adult, you’ll probably agree that the interactive exhibitions at the museum are the best. If you happened to get down to the Oregon Science Festival in t…",
+      "url": "https://hackaday.com/2024/10/04/interactive-project-teaches-lessons-about-electromagnets-and-waves/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2024/09/ctw_all-e1727692777671.jpg",
+      "publishedAt": "2024-10-04T18:30:10Z",
+      "content": "Whether you’re a kid or a nerdy adult, you’ll probably agree that the interactive exhibitions at the museum are the best. If you happened to get down to the Oregon Science Festival in the last couple… [+1229 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Curfew - is there a radical fix for violence against women?",
+      "description": "Set in a dystopian future, the show imagines a society where men are subjected to a curfew.",
+      "url": "https://www.bbc.com/news/articles/cnvdgl37qz3o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6c44/live/be3ba3c0-8567-11ef-83dd-fbf1b9732cf0.jpg",
+      "publishedAt": "2024-10-09T02:00:01Z",
+      "content": "Alexandra Burke and Mandip Gill play Helen, a schoolteacher, and Sarah, an ankle-monitor fitter, at the Women's Safety Centre \r\nWould a curfew for men lead to less violence against women and girls?\r\n… [+4320 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (Amber Neely)",
+      "title": "Apple celebrates teachers with new resources and grants",
+      "description": "Apple has launched four brand new classroom resources geared toward helping students embrace creativity just in time for World Teacher's Day.Image Credit: AppleThe new activities are part of Apple's \"Everyone Can Create\" program and are available for teachers…",
+      "url": "https://appleinsider.com/articles/24/10/01/apple-celebrates-teachers-with-new-resources-and-grants",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/61224-126429-education-xl.jpg",
+      "publishedAt": "2024-10-01T14:13:31Z",
+      "content": "Apple has launched four brand new classroom resources geared toward helping students embrace creativity just in time for World Teacher's Day. \r\nThe new activities are part of Apple's \"Everyone Can Cr… [+1828 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Brittney Melton",
+      "title": "Missouri executes man prosecutors thought innocent. And, FAFSA’s disastrous launch",
+      "description": "Missouri executed Marcellus Williams yesterday, a man prosecutors believed was innocent. And, why FAFSA’s launch was so disastrous.",
+      "url": "https://www.npr.org/2024/09/25/g-s1-24457/up-first-newsletter-missouri-marcellus-williams-fafsa-visa-lawsuit",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fde%2Fbf%2Fae7acb814832b416552fa0d5f5bd%2Fap24235578863117.jpg",
+      "publishedAt": "2024-09-25T12:09:38Z",
+      "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.\r\nToday's top st… [+4646 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "The Associated Press",
+      "title": "Pentagon to give honorable discharges to some kicked out from 'don't ask, don't tell'",
+      "description": "The Pentagon said more than 800 military personnel have seen their records upgraded to honorable discharges after being kicked out of the military under its former “don’t ask, don’t tell” policy.",
+      "url": "https://www.npr.org/2024/10/16/g-s1-28468/pentagon-honorable-discharges-dont-ask-dont-tell",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6903x3883+0+360/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fee%2F3d%2F28558adb4ba8b5235f8cfd672b52%2Fap24274647431906.jpg",
+      "publishedAt": "2024-10-16T05:16:56Z",
+      "content": "WASHINGTON The Pentagon announced Tuesday that more than 800 military personnel have seen their service records upgraded to honorable discharges after previously being kicked out of the military unde… [+2146 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Kelly Burch",
+      "title": "I'm a child psychologist, and I asked my son's teachers to limit his use of technology at school. Here's what happened.",
+      "description": "Scott Kollins is a child psychologist. To help his son with his tech addiction, he asked his teachers to give him tehcnology-free assignments.",
+      "url": "https://www.businessinsider.com/tech-addiction-kid-limit-technology-assignments-school-2024-10",
+      "urlToImage": "https://i.insider.com/66fbf90b75c877a99b621684?width=1200&format=jpeg",
+      "publishedAt": "2024-10-03T08:53:02Z",
+      "content": "Scott Kollins (not pictured) asked his son's teachers to limit use of technology for his son.Getty Images\r\n<ul><li>Scott Kollins is a clinical psychologist who studies families and kids.</li><li>His … [+4076 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Cailey Griffin",
+      "title": "I was a graphic designer for decades and went back to school at 60 to become a teacher. It pays less but is more rewarding.",
+      "description": "After a successful career in graphic design, Stuart Fuller went go back to school to pursue a career in teaching at 60. It pays less but he loves it.",
+      "url": "https://www.businessinsider.com/career-change-less-money-more-rewarding-2024-10",
+      "urlToImage": "https://i.insider.com/6705aaf5198738e3a70f3815?width=1200&format=jpeg",
+      "publishedAt": "2024-10-12T10:38:01Z",
+      "content": "Stuart Fuller went back to school at 60 to pursue teaching.Photo credit: Simon Puschmann\r\n<ul><li>Stuart Fuller, 64, teaches graphics, design, and technology in London.</li><li>He went back to school… [+5283 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Search Engine Journal"
+      },
+      "author": "Wix Studio",
+      "title": "Is That SEO Course Worth Your Time? How To Tell via @sejournal, @WixStudio",
+      "description": "Formal education is difficult to find in SEO. Learn how to tell whether and SEO course is worth your time.\nThe post Is That SEO Course Worth Your Time? How To Tell appeared first on Search Engine Journal.",
+      "url": "https://www.searchenginejournal.com/wix-seo-course-worth-your-time-spa/527260/",
+      "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/09/1600x640-2-136.png",
+      "publishedAt": "2024-10-01T05:00:39Z",
+      "content": "This post was sponsored by Wix. The opinions expressed in this article are the sponsor’s own.\r\nSEO courses seem to be everywhere. In that sense, they’ve become a dime a dozen. That’s generally becaus… [+9809 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Four top councillors quit over paedophile head row",
+      "description": "Four councillors quit the cabinet after their leader refused to apologise to Neil Foden's victims.",
+      "url": "https://www.bbc.com/news/articles/c7v69ey47e5o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fd9c/live/fbde19e0-87b2-11ef-81f8-1f28bcc5be15.png",
+      "publishedAt": "2024-10-11T16:14:17Z",
+      "content": "Four members of a council cabinet have quit after their leader refused to apologise to the victims of paedophile head teacher Neil Foden.\r\nOn Friday afternoon Cyngor Gwynedd leader Dyfrig Siencyn row… [+3845 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Free school meals trial feeds 20,000 more children",
+      "description": "A new pilot scheme helps councils find eligible children who are unregistered for free school meals.",
+      "url": "https://www.bbc.com/news/articles/cp8egkp8y90o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5fc0/live/9cca3230-8fc9-11ef-b3c2-754b6219680e.jpg",
+      "publishedAt": "2024-10-22T01:38:56Z",
+      "content": "In County Durham, the pilot scheme automatically enrolled more than 1,700 children who were previously unregistered for free school meals\r\nThousands more children from Englands poorest households are… [+4925 chars]"
+    }
+  ]
 }

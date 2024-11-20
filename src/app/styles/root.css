@@ -2,6 +2,7 @@
 
 * {
 	box-sizing: border-box;
+	scroll-behavior: smooth;
 }
 
 .playwrite-gb-s-playwrite {
@@ -49,7 +50,6 @@ h3 {
 section {
 	display: flex;
 	gap: 5px;
-	/* height: 250px; */
 	flex-direction: column;
 	overflow-y: none !important;
 }

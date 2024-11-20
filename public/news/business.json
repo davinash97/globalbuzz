@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 147471,
+  "totalResults": 143688,
   "articles": [
     {
       "source": {
@@ -43,19 +43,6 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Amy Francombe",
-      "title": "Nike's Next CEO Has One Hell of a Challenge Ahead",
-      "description": "A ruinous pandemic business strategy, declining innovation, exodus of talent, and a “worst sneaker of all time” accolade has laid the world's biggest sports brand low.",
-      "url": "https://www.wired.com/story/nikes-next-ceo-has-one-hell-of-a-challenge-ahead/",
-      "urlToImage": "https://media.wired.com/photos/66f1e6854eb5c4cc31e13b66/191:100/w_1280,c_limit/Nike_Alamy.jpg",
-      "publishedAt": "2024-09-24T09:35:29Z",
-      "content": "It all started when Donahoe took over as CEO and made the controversial decision to restructure Nikes product and marketing departments, eliminating long-established categories such as running, footb… [+3351 chars]"
-    },
-    {
-      "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
@@ -87,7 +74,7 @@
       },
       "author": "Jay Peters",
       "title": "Epic has a plan for the rest of the decade",
-      "description": "At Unreal Fest this week, Epic CEO Tim Sweeney laid out the next decade of business for the Fortnite creator — including how they get to the metaverse.",
+      "description": "At Unreal Fest this week, Epic CEO Tim Sweeney laid out the next decade of business for the Fortnite creator — including how they get to the metaverse.",
       "url": "https://www.theverge.com/2024/10/5/24262376/epic-unreal-engine-6-fortnite-metaverse-plans",
       "urlToImage": "https://cdn.vox-cdn.com/thumbor/3RBBv9dfiMmMzCnDqij9kRx4J24=/0x0:2040x1360/1200x628/filters:focal(935x590:936x591)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951570/VRG_Illo_STK186_L_Normand_TimSweeney_Neutral.jpg",
       "publishedAt": "2024-10-05T12:00:00Z",
@@ -200,19 +187,6 @@
     {
       "source": {
         "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Ex-police officer wins £1.1m after discrimination",
-      "description": "Thames Valley Police told Katrina Hibbert she must stop running a party business, a tribunal hears.",
-      "url": "https://www.bbc.com/news/articles/crkdxe778l7o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6c50/live/ed9bd380-7a66-11ef-b79d-b95d1c4d53f8.jpg",
-      "publishedAt": "2024-09-25T05:06:14Z",
-      "content": "Katrina Hibbert [not pictured] started a party tent business to help her mental health\r\nA former police officer has been handed more than £1m in compensation after it was ruled she had been discrimin… [+2600 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Gizmodo.com"
       },
       "author": "Todd Feathers",
@@ -234,7 +208,7 @@
       "url": "https://www.businessinsider.com/blackstone-third-quarter-earnings-private-credit-insurance-unit-aum-2024-10",
       "urlToImage": "https://i.insider.com/6699546949138fa6f6e38ace?width=1200&format=jpeg",
       "publishedAt": "2024-10-17T18:53:01Z",
-      "content": "Jon Gray, President and COO of Blackstone, poses for a portrait at the Blackstone Group headquarters in New York City, U.S., January 18, 2023.Jeenah Moon/Reuters\r\n\u003Cul\u003E\u003Cli\u003EPrivate lending is now Black… [+5847 chars]"
+      "content": "Jon Gray, President and COO of Blackstone, poses for a portrait at the Blackstone Group headquarters in New York City, U.S., January 18, 2023.Jeenah Moon/Reuters\r\n<ul><li>Private lending is now Black… [+5847 chars]"
     },
     {
       "source": {
@@ -247,20 +221,7 @@
       "url": "https://www.businessinsider.com/difference-between-amenities-in-business-and-economy-class-2023-8",
       "urlToImage": "https://i.insider.com/66f6ddc1de59ade1a3b55240?width=1200&format=jpeg",
       "publishedAt": "2024-09-27T17:06:12Z",
-      "content": "Business Insider's author sat in both economy and business class for long-haul flights.Monica Humphries/Business Insider\r\n\u003Cul\u003E\n\u003Cli\u003EI've flown across the world in both business class and economy cabin… [+5748 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Central"
-      },
-      "author": "tips@androidcentral.com (Nickolas Diaz)",
-      "title": "The new Motorola ThinkPhone 25 is all business, comes with five years of updates",
-      "description": "Motorola detailed the launch of the ThinkPhone 25 with strong security features to protect business workers.",
-      "url": "https://www.androidcentral.com/phones/motorola-thinkphone-25-launch",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/oL9oTyJndoiutLosyS5vUc-1200-80.jpg",
-      "publishedAt": "2024-10-01T18:52:28Z",
-      "content": "What you need to know\r\n\u003Cul\u003E\u003Cli\u003EMotorola is expanding its business portfolio with the launch of the ThinkPhone 25.\u003C/li\u003E\u003Cli\u003EThe phone debuts with a 6.4-inch pOLED display protected by Gorilla Glass 7i … [+3498 chars]"
+      "content": "Business Insider's author sat in both economy and business class for long-haul flights.Monica Humphries/Business Insider\r\n<ul>\n<li>I've flown across the world in both business class and economy cabin… [+5748 chars]"
     },
     {
       "source": {
@@ -273,7 +234,33 @@
       "url": "https://www.androidcentral.com/apps-software/notebooklm-guide-ai-hosts-business-pilot-program",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/zzPTyYHBTjqpoen3vuSttM-1200-80.jpg",
       "publishedAt": "2024-10-17T20:20:33Z",
-      "content": "What you need to know\r\n\u003Cul\u003E\u003Cli\u003EGoogle detailed two new features arriving for NotebookLM, beginning with a \"customize\" button to guide the AI hosts in Audio Overviews.\u003C/li\u003E\u003Cli\u003EThe other feature lets u… [+2776 chars]"
+      "content": "What you need to know\r\n<ul><li>Google detailed two new features arriving for NotebookLM, beginning with a \"customize\" button to guide the AI hosts in Audio Overviews.</li><li>The other feature lets u… [+2776 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "tips@androidcentral.com (Nickolas Diaz)",
+      "title": "The new Motorola ThinkPhone 25 is all business, comes with five years of updates",
+      "description": "Motorola detailed the launch of the ThinkPhone 25 with strong security features to protect business workers.",
+      "url": "https://www.androidcentral.com/phones/motorola-thinkphone-25-launch",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/oL9oTyJndoiutLosyS5vUc-1200-80.jpg",
+      "publishedAt": "2024-10-01T18:52:28Z",
+      "content": "What you need to know\r\n<ul><li>Motorola is expanding its business portfolio with the launch of the ThinkPhone 25.</li><li>The phone debuts with a 6.4-inch pOLED display protected by Gorilla Glass 7i … [+3498 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Anna Washenko",
+      "title": "OpenAI and Microsoft are funding $10 million in grants for AI-powered journalism",
+      "description": "OpenAI and Microsoft are funding projects to bring more AI tools into the newsroom. The duo will give grants of up to $10 million to Chicago Public Media, the Minnesota Star Tribune, Newsday (in Long Island, NY), The Philadelphia Inquirer and The Seattle Time…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a4f5a67c-45e7-4197-be4b-8ec7e70c5bc4",
+      "urlToImage": null,
+      "publishedAt": "2024-10-22T19:30:42Z",
+      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
     },
     {
       "source": {
@@ -299,7 +286,7 @@
       "url": "https://www.businessinsider.com/adam-neumann-launching-wework-rival-different-business-strategy-2024-10",
       "urlToImage": "https://i.insider.com/66fd8ec35ccfc192a552a98d?width=1200&format=jpeg",
       "publishedAt": "2024-10-03T19:47:53Z",
-      "content": "Andreessen Horowitz-backed Flow was founded by Neumann to revolutionize residential living.Romain Maurice/Getty Images\r\n\u003Cul\u003E\u003Cli\u003EAdam Neumann is launching a WeWork rival called Workflow.\u003C/li\u003E\u003Cli\u003EWorkf… [+5587 chars]"
+      "content": "Andreessen Horowitz-backed Flow was founded by Neumann to revolutionize residential living.Romain Maurice/Getty Images\r\n<ul><li>Adam Neumann is launching a WeWork rival called Workflow.</li><li>Workf… [+5587 chars]"
     },
     {
       "source": {
@@ -312,7 +299,7 @@
       "url": "https://www.businessinsider.com/the-final-frontier-life-on-europa-nasa-launch-jupiter-moon-2024-10",
       "urlToImage": "https://i.insider.com/670e49333f2165d716e0c700?width=1200&format=jpeg",
       "publishedAt": "2024-10-15T11:20:21Z",
-      "content": "NASA/JPL-Caltech/SETI Institute\r\n\u003Cul\u003E\u003Cli\u003EThis excerpt originally appeared in the Insider Today newsletter.\u003C/li\u003E\u003Cli\u003EYou can sign up for Business Insider's daily newsletter here.\u003C/li\u003E\u003C/ul\u003EIs there life… [+2450 chars]"
+      "content": "NASA/JPL-Caltech/SETI Institute\r\n<ul><li>This excerpt originally appeared in the Insider Today newsletter.</li><li>You can sign up for Business Insider's daily newsletter here.</li></ul>Is there life… [+2450 chars]"
     },
     {
       "source": {
@@ -325,7 +312,7 @@
       "url": "https://www.businessinsider.com/american-visited-scotland-biggest-tourist-mistakes-cities-highlands-weather-2024-10",
       "urlToImage": "https://i.insider.com/66fe56e39e0c5c2eeeea3feb?width=1200&format=jpeg",
       "publishedAt": "2024-10-13T17:13:35Z",
-      "content": "Helene Sula is a travel blogger from Texas.Helene Sula\r\n\u003Cul\u003E\u003Cli\u003EHelene Sula is a US travel blogger who has visited Scotland around a dozen times.\u003C/li\u003E\u003Cli\u003ESula said people needed to explore beyond Edi… [+3354 chars]"
+      "content": "Helene Sula is a travel blogger from Texas.Helene Sula\r\n<ul><li>Helene Sula is a US travel blogger who has visited Scotland around a dozen times.</li><li>Sula said people needed to explore beyond Edi… [+3354 chars]"
     },
     {
       "source": {
@@ -338,7 +325,7 @@
       "url": "https://www.businessinsider.com/openai-kevin-weil-mira-murati-great-bench-cto-abrupt-departure-2024-10",
       "urlToImage": "https://i.insider.com/66fdabdc7de5c8fd4834d0ba?width=1200&format=jpeg",
       "publishedAt": "2024-10-02T20:50:43Z",
-      "content": "Kevin WeilPhoto by Horacio Villalobos/Corbis via Getty Images\r\n\u003Cul\u003E\u003Cli\u003EOpenAI exec Kevin Weil told BI the company has a \"great bench\" after CTO Mira Murati abruptly quit.\u003C/li\u003E\u003Cli\u003EWeil, the buzzy AI f… [+3571 chars]"
+      "content": "Kevin WeilPhoto by Horacio Villalobos/Corbis via Getty Images\r\n<ul><li>OpenAI exec Kevin Weil told BI the company has a \"great bench\" after CTO Mira Murati abruptly quit.</li><li>Weil, the buzzy AI f… [+3571 chars]"
     },
     {
       "source": {
@@ -351,7 +338,7 @@
       "url": "https://www.businessinsider.com/small-business-disaster-loan-program-is-out-of-funds-2024-10",
       "urlToImage": "https://i.insider.com/67107e406ac7b701e7ccb9e2?width=1024&format=jpeg",
       "publishedAt": "2024-10-17T11:02:01Z",
-      "content": "Hurricane Helene caused record flooding and damage on September 28, 2024 in Asheville, North Carolina.Melissa Sue Gerrits/Getty Images\r\n\u003Cul\u003E\u003Cli\u003EThe Small Business Administration ran out of funding fo… [+3903 chars]"
+      "content": "Hurricane Helene caused record flooding and damage on September 28, 2024 in Asheville, North Carolina.Melissa Sue Gerrits/Getty Images\r\n<ul><li>The Small Business Administration ran out of funding fo… [+3903 chars]"
     },
     {
       "source": {
@@ -371,13 +358,13 @@
         "id": "business-insider",
         "name": "Business Insider"
       },
-      "author": "Monica Humphries",
-      "title": "I went inside the secret room where pilots sleep on long-haul flights. It was the best seat on the plane.",
-      "description": "Business Insider's reporter toured the secret room where Air New Zealand pilots sleep on long-haul Boeing 777-300ER flights.",
-      "url": "https://www.businessinsider.com/secret-airplane-room-where-pilots-sleep-long-boeing-777-flights-2022-7",
-      "urlToImage": "https://i.insider.com/62d841c43068cd00180409d1?width=1200&format=jpeg",
-      "publishedAt": "2024-09-24T20:12:29Z",
-      "content": "Business Insider's author toured the room where pilots rest on Air New Zealand Boeing 777-300ER planes.Monica Humphries/Business Insider\r\n\u003Cul\u003E\n\u003Cli\u003EPilots take shifts on long-haul flights. When they'r… [+4818 chars]"
+      "author": "Geoff Weiss",
+      "title": "New report lays out 'shocking' Secret Service failures that nearly led to Trump's death",
+      "description": "The Secret Service told Business Insider in a statement it has \"begun to implement\" many of the report's \"proposed enhancements.\"",
+      "url": "https://www.businessinsider.com/shocking-failures-led-to-trump-assassination-attempt-senate-report-2024-9",
+      "urlToImage": "https://i.insider.com/66f43e2b0d59cc64f5b01f70?width=1200&format=jpeg",
+      "publishedAt": "2024-09-25T17:31:45Z",
+      "content": "Donald Trump is shielded by Secret Service agents after an assassination attempt in Pennsylvania in July, 2024.Anna Moneymaker via Getty Images\r\n<ul><li>A Senate report revealed the Secret Service fa… [+2902 chars]"
     },
     {
       "source": {
@@ -390,20 +377,7 @@
       "url": "https://www.businessinsider.com/startup-klarity-generative-ai-sabbatical-2024-9",
       "urlToImage": "https://i.insider.com/66ec70d8ce3009a0fac7bd0c?width=1200&format=jpeg",
       "publishedAt": "2024-09-25T09:00:02Z",
-      "content": "When OpenAI released ChatGPT, Nischal Nadhamuni said he \"abdicated all my other responsibilities\" for one month to focus on the breakthrough new technology.Klarity\r\n\u003Cul\u003E\u003Cli\u003EKlarity, a startup that ma… [+5691 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Geoff Weiss",
-      "title": "New report lays out 'shocking' Secret Service failures that nearly led to Trump's death",
-      "description": "The Secret Service told Business Insider in a statement it has \"begun to implement\" many of the report's \"proposed enhancements.\"",
-      "url": "https://www.businessinsider.com/shocking-failures-led-to-trump-assassination-attempt-senate-report-2024-9",
-      "urlToImage": "https://i.insider.com/66f43e2b0d59cc64f5b01f70?width=1200&format=jpeg",
-      "publishedAt": "2024-09-25T17:31:45Z",
-      "content": "Donald Trump is shielded by Secret Service agents after an assassination attempt in Pennsylvania in July, 2024.Anna Moneymaker via Getty Images\r\n\u003Cul\u003E\u003Cli\u003EA Senate report revealed the Secret Service fa… [+2902 chars]"
+      "content": "When OpenAI released ChatGPT, Nischal Nadhamuni said he \"abdicated all my other responsibilities\" for one month to focus on the breakthrough new technology.Klarity\r\n<ul><li>Klarity, a startup that ma… [+5691 chars]"
     },
     {
       "source": {
@@ -416,20 +390,7 @@
       "url": "https://www.businessinsider.com/ey-graduate-hires-start-dates-delayed-slowdown-strategy-consulting-2024-10",
       "urlToImage": "https://i.insider.com/670cd2de6ac7b701e7cac3a3?width=1200&format=jpeg",
       "publishedAt": "2024-10-14T15:20:36Z",
-      "content": "EY has told some new hires that they'll be joining the company later than planned. Jack Taylor/Stringer/Getty Images\r\n\u003Cul\u003E\u003Cli\u003EEY has delayed start dates for some of its new hires for a second consecu… [+2689 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Helen Li,Emma Cosgrove",
-      "title": "Leaders from the CIA, Dell Technologies, HP, SageCXO, and ezCater share how they keep up with AI development",
-      "description": "Technology executives, including CTOs and a CIO, discussed AI applications and trends at Business Insider's \"Build IT\" roundtable.",
-      "url": "https://www.businessinsider.com/technology-executives-on-artificial-intelligence-applications-role-of-cto-cio-2024-9",
-      "urlToImage": "https://i.insider.com/66ec514fcfb7f307e5731c36?width=1200&format=jpeg",
-      "publishedAt": "2024-09-24T19:00:36Z",
-      "content": "CIA; HP; Dell Technologies; ezCater; Alyssa Powell/BI\r\nOn September 12, Business Insider convened a roundtable of top technology executives as part of our \"Build IT\" series.These executives spoke abo… [+14030 chars]"
+      "content": "EY has told some new hires that they'll be joining the company later than planned. Jack Taylor/Stringer/Getty Images\r\n<ul><li>EY has delayed start dates for some of its new hires for a second consecu… [+2689 chars]"
     },
     {
       "source": {
@@ -442,46 +403,7 @@
       "url": "https://www.businessinsider.com/jd-vance-debate-performance-image-rehabilitation-tim-walz-attack-dog-2024-10",
       "urlToImage": "https://i.insider.com/66fcc0775ccfc192a552789d?width=1200&format=jpeg",
       "publishedAt": "2024-10-02T05:20:12Z",
-      "content": "On debate night, JD Vance started from a disadvantage and had to rehabilitate his image — which he did well, experts told Business Insider.Michele Crowe/CBS via Getty Images\r\n\u003Cul\u003E\u003Cli\u003ESen. JD Vance an… [+4078 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Matt Turner",
-      "title": "Insider Today: Nike's airball",
-      "description": "In this Sunday edition of Insider Today, we're talking about Nike's business woes, and Larry Page's money man.",
-      "url": "https://www.businessinsider.com/insider-today-nike-business-woes-larry-page-wayne-osborne",
-      "urlToImage": "https://i.insider.com/66edf0b5d17aa3c7b2b4cbec?width=1200&format=jpeg",
-      "publishedAt": "2024-09-22T11:08:02Z",
-      "content": "Nike\r\n\u003Cul\u003E\u003Cli\u003EThis post originally appeared in the Insider Today newsletter.\u003C/li\u003E\u003Cli\u003EYou can sign up for Business Insider's daily newsletter here.\u003C/li\u003E\u003C/ul\u003EWelcome back to our Sunday edition. This is… [+5588 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Madeline Berg",
-      "title": "Sean Combs' once-lucrative business empire is drying up. Here's where it stands.",
-      "description": "\"There is no way a brand is touching Diddy — probably forever,\" one entertainment expert told Business Insider.",
-      "url": "https://www.businessinsider.com/sean-combs-diddy-business-income-dried-up-ciroc-music-deleon-2024-10",
-      "urlToImage": "https://i.insider.com/6704863da70318649280177b?width=1200&format=jpeg",
-      "publishedAt": "2024-10-09T09:27:02Z",
-      "content": "Sean Combs' income streams have taken loss after loss since allegations of sexual abuse came to light last year.MEGA/GC Images\r\n\u003Cul\u003E\u003Cli\u003ESean Combs was once one of the world's top-earning entertainers… [+8906 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Peter Kafka",
-      "title": "You probably can't make more than $1 million a year on Substack. But Matthew Yglesias does.",
-      "description": "The political writer — and as of the last four years, a small business owner — on the upside of unbundling.",
-      "url": "https://www.businessinsider.com/matt-yglesias-substack-million-dollars-interview-2024-10",
-      "urlToImage": "https://i.insider.com/66fc70457de5c8fd48347f39?width=1200&format=jpeg",
-      "publishedAt": "2024-10-02T10:01:02Z",
-      "content": "Matthew Yglesias co-founded Vox.com, but left four years ago to start his own Substack. It's turned out be a very profitable decision.The Washington Post/Getty Images\r\n\u003Cul\u003E\u003Cli\u003EMatthew Yglesias, a pro… [+8445 chars]"
+      "content": "On debate night, JD Vance started from a disadvantage and had to rehabilitate his image — which he did well, experts told Business Insider.Michele Crowe/CBS via Getty Images\r\n<ul><li>Sen. JD Vance an… [+4078 chars]"
     },
     {
       "source": {
@@ -494,7 +416,20 @@
       "url": "https://www.businessinsider.com/business-insiders-2024-rising-stars-of-venture-capital-nominations-2024-10",
       "urlToImage": "https://i.insider.com/656562c0fd6200867dd0096a?width=1200&format=jpeg",
       "publishedAt": "2024-10-09T13:00:02Z",
-      "content": "From left: 2023 VC Rising Stars Vivien Ho, Toby Koker, Adina Tecklu, and Alysaa Co.Vivien Ho/Toby Koker/Adina Tecklu/Alysaa Co\r\n\u003Cul\u003E\u003Cli\u003EInsider is putting together a list of the best up-and-coming ve… [+1044 chars]"
+      "content": "From left: 2023 VC Rising Stars Vivien Ho, Toby Koker, Adina Tecklu, and Alysaa Co.Vivien Ho/Toby Koker/Adina Tecklu/Alysaa Co\r\n<ul><li>Insider is putting together a list of the best up-and-coming ve… [+1044 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Peter Kafka",
+      "title": "You probably can't make more than $1 million a year on Substack. But Matthew Yglesias does.",
+      "description": "The political writer — and as of the last four years, a small business owner — on the upside of unbundling.",
+      "url": "https://www.businessinsider.com/matt-yglesias-substack-million-dollars-interview-2024-10",
+      "urlToImage": "https://i.insider.com/66fc70457de5c8fd48347f39?width=1200&format=jpeg",
+      "publishedAt": "2024-10-02T10:01:02Z",
+      "content": "Matthew Yglesias co-founded Vox.com, but left four years ago to start his own Substack. It's turned out be a very profitable decision.The Washington Post/Getty Images\r\n<ul><li>Matthew Yglesias, a pro… [+8445 chars]"
     },
     {
       "source": {
@@ -507,7 +442,33 @@
       "url": "https://www.businessinsider.com/longevity-investments-ultra-rich-are-making-supplements-devices-2024-10",
       "urlToImage": "https://i.insider.com/670838d43f2165d716e00aaf?width=1099&format=jpeg",
       "publishedAt": "2024-10-11T16:05:05Z",
-      "content": "Moderator Martina Fuchs trying out some of the new tech on display at the Longevity Investors Conference in Gstaad, Switzerland.Longevity Investors Conference / David Biedert\r\n\u003Cul\u003E\u003Cli\u003ELongevity inves… [+7127 chars]"
+      "content": "Moderator Martina Fuchs trying out some of the new tech on display at the Longevity Investors Conference in Gstaad, Switzerland.Longevity Investors Conference / David Biedert\r\n<ul><li>Longevity inves… [+7127 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Madeline Berg",
+      "title": "Sean Combs' once-lucrative business empire is drying up. Here's where it stands.",
+      "description": "\"There is no way a brand is touching Diddy — probably forever,\" one entertainment expert told Business Insider.",
+      "url": "https://www.businessinsider.com/sean-combs-diddy-business-income-dried-up-ciroc-music-deleon-2024-10",
+      "urlToImage": "https://i.insider.com/6704863da70318649280177b?width=1200&format=jpeg",
+      "publishedAt": "2024-10-09T09:27:02Z",
+      "content": "Sean Combs' income streams have taken loss after loss since allegations of sexual abuse came to light last year.MEGA/GC Images\r\n<ul><li>Sean Combs was once one of the world's top-earning entertainers… [+8906 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Kathleen Elkins",
+      "title": "I started an e-commerce business with $5,000 upfront after writing about financially independent Amazon sellers. Here's how I doubled my budget.",
+      "description": "How hard is it really to launch an e-commerce business? I decided to find out for myself.",
+      "url": "https://www.businessinsider.com/launching-an-e-commerce-business-step-one-finding-business-partner-2024-10",
+      "urlToImage": "https://i.insider.com/66fd69225ccfc192a552943a?width=1140&format=jpeg",
+      "publishedAt": "2024-10-23T13:13:44Z",
+      "content": "The author is a personal finance reporter based in LA who covers lucrative side hustles, including e-commerce.Courtesy of Kathleen Elkins\r\n<ul><li>Inspired by successful e-commerce entrepreneurs, I d… [+4474 chars]"
     },
     {
       "source": {
@@ -520,7 +481,33 @@
       "url": "https://www.businessinsider.com/concorde-supersonic-plane-tour-photos-2024-10",
       "urlToImage": "https://i.insider.com/670e93563f2165d716e0fedb?width=1000&format=jpeg",
       "publishedAt": "2024-10-15T18:26:52Z",
-      "content": "The Concorde at the Intrepid Museum.R Ikeda/Shutterstock\r\n\u003Cul\u003E\u003Cli\u003EConcorde, the first and only supersonic commercial jetliner, operated from 1976 to 2003.\u003C/li\u003E\u003Cli\u003EFlown by royals, celebrities, and ex… [+7995 chars]"
+      "content": "The Concorde at the Intrepid Museum.R Ikeda/Shutterstock\r\n<ul><li>Concorde, the first and only supersonic commercial jetliner, operated from 1976 to 2003.</li><li>Flown by royals, celebrities, and ex… [+7995 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Huileng Tan,Beatrice Nolan",
+      "title": "TSMC chips reportedly ended up at Huawei. It raises concerns about 'shadow networks' bypassing US sanctions.",
+      "description": "TSMC and other chipmakers are barred from doing business with Huawei without exemptions from the US government.",
+      "url": "https://www.businessinsider.com/tsmc-chips-huawei-export-controls-supply-chain-2024-10",
+      "urlToImage": "https://i.insider.com/662137ed10c6b0cde5f0ac10?width=1024&format=jpeg",
+      "publishedAt": "2024-10-24T16:50:16Z",
+      "content": "Taiwan Semiconductor Manufacturing Company's customers may see production delays as the chip giant reels from a powerful earthquake on the island.Chiang Ying-ying/AP\r\n<ul><li>TSMC halted shipments to… [+5397 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "mhumphries@businessinsider.com (Monica Humphries)",
+      "title": "I paid $250 to stay in a plastic tiny house in New Zealand in the middle of winter. I thought I'd freeze, but by morning, I didn't want to leave.",
+      "description": "Business Insider's author slept in a plastic geodesic dome full of surprising luxury perks she'd never seen in a tiny house.",
+      "url": "https://www.businessinsider.com/geodesic-tiny-house-new-zealand-winter-review-photos-2023-1",
+      "urlToImage": "https://i.insider.com/63ab4e8647bbe4001983799d?width=1200&format=jpeg",
+      "publishedAt": "2024-10-24T19:34:42Z",
+      "content": "New Zealand is home to the most breathtaking nature I've seen.\r\nWhen I visited in June 2022, my focus was to soak in every moment. I wanted to explore the country's striking mountains, lush forests, … [+236 chars]"
     },
     {
       "source": {
@@ -563,19 +550,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Gizmodo Deals",
-      "title": "Want to Truly Succeed in Making ChatGPT Your Ultimate Assistant? Here’s Your Chance to Master AI for $24.99",
-      "description": "If you're ready to unlock the full potential of ChatGPT and elevate your skills in AI and automation, this is the perfect opportunity to invest in your future.",
-      "url": "https://gizmodo.com/want-to-truly-succeed-in-making-chatgpt-your-ultimate-assistant-heres-your-chance-to-master-ai-for-24-99-2000502572",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/chatgpt-iran-linked-election-influence-openai.jpg",
-      "publishedAt": "2024-09-24T12:50:23Z",
-      "content": "In today’s fast-paced business world, staying ahead of the curve is crucial, and the ChatGPT &amp; Automation E-Degree offers an unparalleled opportunity to master the latest AI tools and automation … [+2115 chars]"
-    },
-    {
-      "source": {
         "id": "wired",
         "name": "Wired"
       },
@@ -602,45 +576,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Fast Company"
-      },
-      "author": "Jared Newman",
-      "title": "Why I ditched business cards for a QR code",
-      "description": "With a QR code, you can easily share your info with anyone regardless of platform, and you have more control over what gets shared in the first place.\n\nAs of this week, I’ve hopefully handed out my last business card.",
-      "url": "https://www.fastcompany.com/91194603/why-i-ditched-business-cards-for-a-qr-code",
-      "urlToImage": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2024/09/p-91194603-ditch-the-business-card-for-qr-code.jpg",
-      "publishedAt": "2024-09-23T12:00:00Z",
-      "content": "As of this week, Ive hopefully handed out my last business card.\r\nNot that I have no need to promote my humble newsletters or freelance work, but Id rather not have to carry a stack of business cards… [+1272 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Palmer Haasch",
-      "title": "Francis Ford Coppola borrowed over $100 million against his wine business to fund 'Megalopolis.' He's projected to earn less than $10 million back opening weekend.",
-      "description": "Francis Ford Coppola self-funded his new epic \"Megalopolis\" by leveraging his wine business. He may not recoup his investment at the box office.",
-      "url": "https://www.businessinsider.com/francis-ford-coppola-funded-megalopolis-100-million-wine-business-2024-9",
-      "urlToImage": "https://i.insider.com/66ae1a40393cd3c8629b22c0?width=1200&format=jpeg",
-      "publishedAt": "2024-09-28T02:36:02Z",
-      "content": "Francis Ford CoppolaStephane Cardinale/Corbis via Getty Images\r\n\u003Cul\u003E\u003Cli\u003EFrancis Ford Coppola spent over $100 million to fund his film \"Megalopolis.\"\u003C/li\u003E\u003Cli\u003EHowever, the film's only projected to make… [+2850 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Matt Turner",
-      "title": "Meet the brash lawyer that everyone from Eric Adams to Alec Baldwin and Elon Musk turns to in a crisis",
-      "description": "Alex Spiro, the lawyer defending Eric Adams, is used to working for high-profile clients. Business Insider charted the brash attorney's rise in 2022.",
-      "url": "https://www.businessinsider.com/alex-spiro-lawyer-eric-adams-elon-musk-alec-baldwin-2024-9",
-      "urlToImage": "https://i.insider.com/66f6f7fcde59ade1a3b564b0?width=1200&format=jpeg",
-      "publishedAt": "2024-09-27T21:01:40Z",
-      "content": "Alex Spiro is known for his brash style and buzzy clientele.Pool/Getty Images\r\n\u003Cul\u003E\u003Cli\u003EAlex Spiro, a high-profile lawyer, is representing Mayor Eric Adams as he battles criminal charges.\u003C/li\u003E\u003Cli\u003ESpir… [+3423 chars]"
-    },
-    {
-      "source": {
         "id": "business-insider",
         "name": "Business Insider"
       },
@@ -650,7 +585,7 @@
       "url": "https://www.businessinsider.com/jackson-hole-airport-wyoming-national-park-review-2024-9",
       "urlToImage": "https://i.insider.com/66f4756ede59ade1a3b4a4a8?width=1200&format=jpeg",
       "publishedAt": "2024-09-26T10:32:02Z",
-      "content": "Business Insider's reporter flew into Jackson Hole Airport in Wyoming.Joey Hadden/Business Insider\r\n\u003Cul\u003E\u003Cli\u003EJackson Hole Airport offers a luxurious experience with a cozy cabin feel and free amenitie… [+6155 chars]"
+      "content": "Business Insider's reporter flew into Jackson Hole Airport in Wyoming.Joey Hadden/Business Insider\r\n<ul><li>Jackson Hole Airport offers a luxurious experience with a cozy cabin feel and free amenitie… [+6155 chars]"
     },
     {
       "source": {
@@ -663,7 +598,33 @@
       "url": "https://www.businessinsider.com/best-shoe-trends-right-now-fall-whats-out-stylists-designers-2024-9",
       "urlToImage": "https://i.insider.com/66f447b4f9f6733e4bdf8971?width=1200&format=jpeg",
       "publishedAt": "2024-09-27T14:07:01Z",
-      "content": "It's time to break out the leather loafers. Edward Berthelot/Getty Images\r\n\u003Cul\u003E\u003Cli\u003EBusiness Insider spoke to stylists and designers about what shoe trends are in and out this season.\u003C/li\u003E\u003Cli\u003EShoes an… [+7474 chars]"
+      "content": "It's time to break out the leather loafers. Edward Berthelot/Getty Images\r\n<ul><li>Business Insider spoke to stylists and designers about what shoe trends are in and out this season.</li><li>Shoes an… [+7474 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Palmer Haasch",
+      "title": "Francis Ford Coppola borrowed over $100 million against his wine business to fund 'Megalopolis.' He's projected to earn less than $10 million back opening weekend.",
+      "description": "Francis Ford Coppola self-funded his new epic \"Megalopolis\" by leveraging his wine business. He may not recoup his investment at the box office.",
+      "url": "https://www.businessinsider.com/francis-ford-coppola-funded-megalopolis-100-million-wine-business-2024-9",
+      "urlToImage": "https://i.insider.com/66ae1a40393cd3c8629b22c0?width=1200&format=jpeg",
+      "publishedAt": "2024-09-28T02:36:02Z",
+      "content": "Francis Ford CoppolaStephane Cardinale/Corbis via Getty Images\r\n<ul><li>Francis Ford Coppola spent over $100 million to fund his film \"Megalopolis.\"</li><li>However, the film's only projected to make… [+2850 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Matt Turner",
+      "title": "Meet the brash lawyer that everyone from Eric Adams to Alec Baldwin and Elon Musk turns to in a crisis",
+      "description": "Alex Spiro, the lawyer defending Eric Adams, is used to working for high-profile clients. Business Insider charted the brash attorney's rise in 2022.",
+      "url": "https://www.businessinsider.com/alex-spiro-lawyer-eric-adams-elon-musk-alec-baldwin-2024-9",
+      "urlToImage": "https://i.insider.com/66f6f7fcde59ade1a3b564b0?width=1200&format=jpeg",
+      "publishedAt": "2024-09-27T21:01:40Z",
+      "content": "Alex Spiro is known for his brash style and buzzy clientele.Pool/Getty Images\r\n<ul><li>Alex Spiro, a high-profile lawyer, is representing Mayor Eric Adams as he battles criminal charges.</li><li>Spir… [+3423 chars]"
     },
     {
       "source": {
@@ -676,7 +637,7 @@
       "url": "https://www.businessinsider.com/f-150-lightnings-are-keeping-the-lights-on-after-helene-2024-10",
       "urlToImage": "https://i.insider.com/66fd92e17de5c8fd4834bf83?width=1200&format=jpeg",
       "publishedAt": "2024-10-02T19:54:49Z",
-      "content": "Justin Long's F-150 Lightning kept the lights on at his vet clinic after Hurricane Helene destruction.Courtesy of Justin Long\r\n\u003Cul\u003E\u003Cli\u003EElectric pickup trucks have become unlikely saviors in extreme w… [+4102 chars]"
+      "content": "Justin Long's F-150 Lightning kept the lights on at his vet clinic after Hurricane Helene destruction.Courtesy of Justin Long\r\n<ul><li>Electric pickup trucks have become unlikely saviors in extreme w… [+4102 chars]"
     },
     {
       "source": {
@@ -689,46 +650,7 @@
       "url": "https://www.businessinsider.com/harris-tax-deduction-plan-small-business-startup-cost-2024-10",
       "urlToImage": "https://i.insider.com/66feba607de5c8fd48350258?width=1200&format=jpeg",
       "publishedAt": "2024-10-05T09:36:01Z",
-      "content": "Harris has made supporting small businesses a key part of her economic proposal.JEFF KOWALSKY / AFP\r\n\u003Cul\u003E\u003Cli\u003EHarris has proposed expanding the small business tax credit from $5,000 to $50,000.\u003C/li\u003E\u003Cl… [+7399 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Serafina Kenny",
-      "title": "I'm a Gen Z venture capitalist who felt lonely working from home. I started ballroom dancing despite feeling nervous and it changed my life.",
-      "description": "Charlotte Page felt lonely working remotely. Ballroom dancing helped her make friends and business partners, and boost her physical and mental health.",
-      "url": "https://www.businessinsider.com/ballroom-dancing-helped-gen-z-make-friends-work-from-home-2024-10",
-      "urlToImage": "https://i.insider.com/66f68d75de59ade1a3b52ca4?width=1200&format=jpeg",
-      "publishedAt": "2024-10-08T10:31:34Z",
-      "content": "Charlotte Page took up ballroom dancing earlier this year. It's improved her physical and mental health, and allowed her to make many friends.Charlotte Page/ Starpoint Dancesport\r\n\u003Cul\u003E\u003Cli\u003EWhen Charlo… [+4879 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Alice Tecotzky",
-      "title": "Donald Trump is running for president for the third time. Here's the lowdown on his personal life, career, and politics.",
-      "description": "Donald Trump was born June 14, 1946, in Queens. Learn more about his family, real estate business, and time as the United States' 45th president.",
-      "url": "https://www.businessinsider.com/donald-trump",
-      "urlToImage": "https://i.insider.com/6682f599c31eb990ea2fc75c?width=1200&format=jpeg",
-      "publishedAt": "2024-10-10T09:40:01Z",
-      "content": "Donald Trump's unconventional rise in politics includes real estate, reality television, and three marriages.Kevin Dietsch/Getty Images\r\n\u003Cul\u003E\u003Cli\u003EDonald Trump has had a winding personal and political … [+18423 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Taylor Rains,Benjamin Zhang",
-      "title": "Airlines are building 'business-class-lite' to generate more revenue and increase demand for the luxe seats",
-      "description": "Delta has hinted that it plans to unbundle its business class, meaning the cheapest fare may not include bags, a reserved seat, or lounge access.",
-      "url": "https://www.businessinsider.com/business-class-light-ubundled-delta-demand-overseas-2024-10",
-      "urlToImage": "https://i.insider.com/670931b8a703186492812a91?width=1200&format=jpeg",
-      "publishedAt": "2024-10-11T15:00:45Z",
-      "content": "Flying Delta One on a Delta Air Lines Boeing 767-400.Thomas Pallini/Insider\r\n\u003Cul\u003E\u003Cli\u003EAirlines are bringing the barebones basic economy experience to business class.\u003C/li\u003E\u003Cli\u003E\"Business Light\" fares are… [+3895 chars]"
+      "content": "Harris has made supporting small businesses a key part of her economic proposal.JEFF KOWALSKY / AFP\r\n<ul><li>Harris has proposed expanding the small business tax credit from $5,000 to $50,000.</li><l… [+7399 chars]"
     },
     {
       "source": {
@@ -741,33 +663,20 @@
       "url": "https://www.businessinsider.com/goldman-sachs-3q-results-dealmaking-trading-resurgence-david-solomon-2024-10",
       "urlToImage": "https://i.insider.com/670e8cf33f2165d716e0f004?width=1200&format=jpeg",
       "publishedAt": "2024-10-15T19:23:09Z",
-      "content": "Goldman Sachs' NYC headquartersPhoto by Michael M. Santiago/Getty Images\r\n\u003Cul\u003E\u003Cli\u003EGoldman Sachs reported a 45% surge in profits on Tuesday, fueling hope for a dealmaking rebound.\u003C/li\u003E\u003Cli\u003EThe firm poi… [+7116 chars]"
+      "content": "Goldman Sachs' NYC headquartersPhoto by Michael M. Santiago/Getty Images\r\n<ul><li>Goldman Sachs reported a 45% surge in profits on Tuesday, fueling hope for a dealmaking rebound.</li><li>The firm poi… [+7116 chars]"
     },
     {
       "source": {
         "id": "business-insider",
         "name": "Business Insider"
       },
-      "author": "Lara O'Reilly",
-      "title": "Taboola is looking to compete with Google and Facebook for small-business clients using a new generative AI tool for ad campaigns",
-      "description": "Abby looks to make campaign setup easier for busy, resource-sapped business owners who aren't up on the latest marketing techniques and jargon.",
-      "url": "https://www.businessinsider.com/taboola-generative-ai-ad-assistant-abby-google-facebook-competition-2024-10",
-      "urlToImage": "https://i.insider.com/670cf9af3f2165d716e08c1e?width=1200&format=jpeg",
-      "publishedAt": "2024-10-15T12:00:01Z",
-      "content": "Taboola\r\n\u003Cul\u003E\u003Cli\u003ETaboola on Tuesday is set to unveil a new generative-AI-powered chat assistant called Abby.\u003C/li\u003E\u003Cli\u003EAbby aims to make it easier to create and run an ad campaign.\u003C/li\u003E\u003Cli\u003ETaboola hope… [+3651 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Elle Hardy",
-      "title": "I became the breadwinner when my family moved to France. I feel like I've done my husband the biggest favor ever.",
-      "description": "Karen Kissane runs her coaching business from her family's chateau in France. Her husband quit his job and takes care of the kids.",
-      "url": "https://www.businessinsider.com/became-breadwinner-when-family-moved-did-husband-favor-2024-10",
-      "urlToImage": "https://i.insider.com/670fe2dd3f2165d716e1ec83?width=1200&format=jpeg",
-      "publishedAt": "2024-10-18T09:05:01Z",
-      "content": "Karen Kissane is a business coach living just outside of Cognac, France.Courtesy of Karen Kissane\r\n\u003Cul\u003E\u003Cli\u003EKaren Kissane left her job, started a coaching business, and moved her family to France.\u003C/li… [+6088 chars]"
+      "author": "Taylor Rains,Benjamin Zhang",
+      "title": "Airlines are building 'business-class-lite' to generate more revenue and increase demand for the luxe seats",
+      "description": "Delta has hinted that it plans to unbundle its business class, meaning the cheapest fare may not include bags, a reserved seat, or lounge access.",
+      "url": "https://www.businessinsider.com/business-class-light-ubundled-delta-demand-overseas-2024-10",
+      "urlToImage": "https://i.insider.com/670931b8a703186492812a91?width=1200&format=jpeg",
+      "publishedAt": "2024-10-11T15:00:45Z",
+      "content": "Flying Delta One on a Delta Air Lines Boeing 767-400.Thomas Pallini/Insider\r\n<ul><li>Airlines are bringing the barebones basic economy experience to business class.</li><li>\"Business Light\" fares are… [+3895 chars]"
     },
     {
       "source": {
@@ -780,46 +689,72 @@
       "url": "https://www.businessinsider.com/community-college-six-figure-tech-company-career-journey-2024-10",
       "urlToImage": "https://i.insider.com/6706cf9ba703186492809e43?width=1200&format=jpeg",
       "publishedAt": "2024-10-15T09:45:20Z",
-      "content": "Jen Lew took the first job that would hire her after college and learned by doing.Courtesy of Jen Lew\r\n\u003Cul\u003E\u003Cli\u003EJen Lew said she became a LinkedIn director by excelling beyond expectations.\u003C/li\u003E\u003Cli\u003ELe… [+6096 chars]"
+      "content": "Jen Lew took the first job that would hire her after college and learned by doing.Courtesy of Jen Lew\r\n<ul><li>Jen Lew said she became a LinkedIn director by excelling beyond expectations.</li><li>Le… [+6096 chars]"
     },
     {
       "source": {
         "id": "business-insider",
         "name": "Business Insider"
       },
-      "author": "Olivia Singh",
-      "title": "Shailene Woodley doesn't know any more about 'Big Little Lies' season 3 than you do",
-      "description": "Shailene Woodley, who starred as Jane Chapman on \"Big Little Lies,\" told Business Insider that she doesn't know much about the upcoming third season.",
-      "url": "https://www.businessinsider.com/shailene-woodley-big-little-lies-season-3-interview-2024-9",
-      "urlToImage": "https://i.insider.com/66f6f2c175c877a99b615a54?width=1200&format=jpeg",
-      "publishedAt": "2024-09-27T18:40:15Z",
-      "content": "Shailene Woodley as Jane Chapman on season two of \"Big Little Lies.\"HBO\r\n\u003Cul\u003E\u003Cli\u003EShailene Woodley reacted to the news about a potential season three of \"Big Little Lies.\"\u003C/li\u003E\u003Cli\u003EWoodley told Busines… [+2417 chars]"
+      "author": "Lara O'Reilly",
+      "title": "Taboola is looking to compete with Google and Facebook for small-business clients using a new generative AI tool for ad campaigns",
+      "description": "Abby looks to make campaign setup easier for busy, resource-sapped business owners who aren't up on the latest marketing techniques and jargon.",
+      "url": "https://www.businessinsider.com/taboola-generative-ai-ad-assistant-abby-google-facebook-competition-2024-10",
+      "urlToImage": "https://i.insider.com/670cf9af3f2165d716e08c1e?width=1200&format=jpeg",
+      "publishedAt": "2024-10-15T12:00:01Z",
+      "content": "Taboola\r\n<ul><li>Taboola on Tuesday is set to unveil a new generative-AI-powered chat assistant called Abby.</li><li>Abby aims to make it easier to create and run an ad campaign.</li><li>Taboola hope… [+3651 chars]"
     },
     {
       "source": {
         "id": "business-insider",
         "name": "Business Insider"
       },
-      "author": "Laura Italiano",
-      "title": "Diddy's freak-off arrest would have Kim Porter 'turning over in her grave,' her ex-lawyer says",
-      "description": "Freak offs? A tell-all memoir? The love of Sean Combs' life was too private and classy for that, Porter's former family lawyer tells Business Insider.",
-      "url": "https://www.businessinsider.com/kim-porter-diddy-freak-off-arrest-2024-9",
-      "urlToImage": "https://i.insider.com/66f6b83cde59ade1a3b5332a?width=1200&format=jpeg",
-      "publishedAt": "2024-09-28T10:30:02Z",
-      "content": "Kim Porter and Sean \"Diddy\" Combs in 2003Getty Images/Giulio Marcocchi\r\n\u003Cul\u003E\u003Cli\u003EFreak offs? A tell-all memoir? Kim Porter was too \"private and classy\" for that, her ex-lawyer says.\u003C/li\u003E\u003Cli\u003EBut in pri… [+5156 chars]"
+      "author": "Serafina Kenny",
+      "title": "I'm a Gen Z venture capitalist who felt lonely working from home. I started ballroom dancing despite feeling nervous and it changed my life.",
+      "description": "Charlotte Page felt lonely working remotely. Ballroom dancing helped her make friends and business partners, and boost her physical and mental health.",
+      "url": "https://www.businessinsider.com/ballroom-dancing-helped-gen-z-make-friends-work-from-home-2024-10",
+      "urlToImage": "https://i.insider.com/66f68d75de59ade1a3b52ca4?width=1200&format=jpeg",
+      "publishedAt": "2024-10-08T10:31:34Z",
+      "content": "Charlotte Page took up ballroom dancing earlier this year. It's improved her physical and mental health, and allowed her to make many friends.Charlotte Page/ Starpoint Dancesport\r\n<ul><li>When Charlo… [+4879 chars]"
     },
     {
       "source": {
         "id": "business-insider",
         "name": "Business Insider"
       },
-      "author": "John Towfighi",
-      "title": "A millennial left his job to start a consulting business and booked $400k in revenue in the first year. He shares his advice on launching a startup.",
-      "description": "Mario Vasquez Zuniga founded a consulting company in June 2023. He said getting regular meals with trusted advisors was key to building the business.",
-      "url": "https://www.businessinsider.com/millenniall-quit-job-start-business-shares-advice-entrepreneurship-networking-mentor-2024-9",
-      "urlToImage": "https://i.insider.com/66ead88ece3009a0fac7255f?width=1200&format=jpeg",
-      "publishedAt": "2024-09-23T14:10:07Z",
-      "content": "Mario Vasquez Zuniga founded a creative consulting business in June 2023 after leaving his salaried jobCourtesy of Mario Vasquez Zuniga\r\n\u003Cul\u003E\u003Cli\u003EMario Vasquez Zuniga cofounded a consulting business l… [+6259 chars]"
+      "author": "Alice Tecotzky",
+      "title": "Donald Trump is running for president for the third time. Here's the lowdown on his personal life, career, and politics.",
+      "description": "Donald Trump was born June 14, 1946, in Queens. Learn more about his family, real estate business, and time as the United States' 45th president.",
+      "url": "https://www.businessinsider.com/donald-trump",
+      "urlToImage": "https://i.insider.com/6682f599c31eb990ea2fc75c?width=1200&format=jpeg",
+      "publishedAt": "2024-10-10T09:40:01Z",
+      "content": "Donald Trump's unconventional rise in politics includes real estate, reality television, and three marriages.Kevin Dietsch/Getty Images\r\n<ul><li>Donald Trump has had a winding personal and political … [+18423 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Elle Hardy",
+      "title": "I became the breadwinner when my family moved to France. I feel like I've done my husband the biggest favor ever.",
+      "description": "Karen Kissane runs her coaching business from her family's chateau in France. Her husband quit his job and takes care of the kids.",
+      "url": "https://www.businessinsider.com/became-breadwinner-when-family-moved-did-husband-favor-2024-10",
+      "urlToImage": "https://i.insider.com/670fe2dd3f2165d716e1ec83?width=1200&format=jpeg",
+      "publishedAt": "2024-10-18T09:05:01Z",
+      "content": "Karen Kissane is a business coach living just outside of Cognac, France.Courtesy of Karen Kissane\r\n<ul><li>Karen Kissane left her job, started a coaching business, and moved her family to France.</li… [+6088 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Matthew Loh",
+      "title": "Putin once asked Elon Musk to not activate Starlink over Taiwan as a favor to Xi Jinping: report",
+      "description": "Musk has been maintaining regular contact with Putin since late 2022 and they speak on personal and business matters, per The Wall Street Journal.",
+      "url": "https://www.businessinsider.com/putin-elon-musk-starlink-taiwan-china-favor-xi-jinping-report-2024-10",
+      "urlToImage": "https://i.insider.com/671b1b589b3250dbbcea03c0?width=1200&format=jpeg",
+      "publishedAt": "2024-10-25T05:16:50Z",
+      "content": "The Wall Street Journal reported that Russian leader Vladimir Putin had asked Elon Musk not to provide Starlink in Taiwan as a favor to Xi Jinping.Gotham/GC Images, SERGEI GUNEYEV/POOL/AFP via Getty … [+5151 chars]"
     },
     {
       "source": {
@@ -832,7 +767,7 @@
       "url": "https://www.businessinsider.com/ina-garten-memoir-business-tips-barefoot-contessa-2024-10",
       "urlToImage": "https://i.insider.com/66fdb8645ccfc192a552c2af?width=1200&format=jpeg",
       "publishedAt": "2024-10-03T16:36:19Z",
-      "content": "Ina Garten's new memoir, \"Be Ready When the Luck Happens,\" was released on October 1.Dave Kotinsky/Getty Images for The Webby Awards\r\n\u003Cul\u003E\u003Cli\u003EIna Garten gave up her White House job to buy a specialty… [+8106 chars]"
+      "content": "Ina Garten's new memoir, \"Be Ready When the Luck Happens,\" was released on October 1.Dave Kotinsky/Getty Images for The Webby Awards\r\n<ul><li>Ina Garten gave up her White House job to buy a specialty… [+8106 chars]"
     },
     {
       "source": {
@@ -845,7 +780,7 @@
       "url": "https://www.businessinsider.com/mark-cuban-business-leaders-for-kamala-harris-2024-10",
       "urlToImage": "https://i.insider.com/66febf287de5c8fd4835069c?width=1200&format=jpeg",
       "publishedAt": "2024-10-04T09:00:02Z",
-      "content": "Mark Cuban is among the group of business titans launching a new initiative to support Kamala Harris.Kevork Djansezian and Win McNamee/Getty Images\r\n\u003Cul\u003E\u003Cli\u003EA group of founders and CEOs are launching… [+2836 chars]"
+      "content": "Mark Cuban is among the group of business titans launching a new initiative to support Kamala Harris.Kevork Djansezian and Win McNamee/Getty Images\r\n<ul><li>A group of founders and CEOs are launching… [+2836 chars]"
     },
     {
       "source": {
@@ -858,20 +793,7 @@
       "url": "https://www.businessinsider.com/monsters-leslie-grossman-ryan-murphy-show-benefits-menendez-brothers-2024-10",
       "urlToImage": "https://i.insider.com/6706722a3f2165d716df7911?width=1200&format=jpeg",
       "publishedAt": "2024-10-09T14:14:56Z",
-      "content": "Ryan Murphy and Leslie Grossman have worked together for 25 years.Stefanie Keenan / VF23 / WireImage for Vanity Fair\r\n\u003Cul\u003E\u003Cli\u003E\"Monsters\" has sparked a debate about whether the true crime drama will h… [+3951 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Nora Redmond",
-      "title": "Employers are increasingly tracking staff in the return-to-office world. One academic says it has its good, bad, and ugly.",
-      "description": "The use of employee tracking tools is rising. An expert told Business Insider that there are benefits and disadvantages, depending on who you ask.",
-      "url": "https://www.businessinsider.com/employee-surveillance-return-to-office-overwork-positives-negatives-2024-9",
-      "urlToImage": "https://i.insider.com/66e95928d17aa3c7b2b33cac?width=1200&format=jpeg",
-      "publishedAt": "2024-09-24T09:55:36Z",
-      "content": "Oliver Kayas, a senior lecturer in the faculty of business and law at Liverpool John Moores University, told Business Insider that surveillance technology can reduce trust among staff.Nuthawut Somsuk… [+4570 chars]"
+      "content": "Ryan Murphy and Leslie Grossman have worked together for 25 years.Stefanie Keenan / VF23 / WireImage for Vanity Fair\r\n<ul><li>\"Monsters\" has sparked a debate about whether the true crime drama will h… [+3951 chars]"
     },
     {
       "source": {
@@ -884,20 +806,7 @@
       "url": "https://www.businessinsider.com/say-yes-to-the-dress-kleinfeld-bridal-nyc-appointment-photos-2023-3",
       "urlToImage": "https://i.insider.com/6704316c3f2165d716def5d5?width=1200&format=jpeg",
       "publishedAt": "2024-10-07T20:03:09Z",
-      "content": "Business Insider reporter Samantha Grindell tried on wedding dresses at Kleinfeld.Crystal Cox/Business Insider\r\n\u003Cul\u003E\n\u003Cli\u003EI had a mock bridal appointment at Kleinfeld from \"Say Yes to the Dress.\"\u003C/li\u003E… [+14718 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Kim Schewitz",
-      "title": "A 97-year-old Holocaust survivor and psychologist has just written her third book. She shares how resilience has helped her live a long and joyful life.",
-      "description": "Dr. Edith Eger's life has been punctuated both by unimaginable horror and heady success. She shared with Business Insider the key principles that have guided her.",
-      "url": "https://www.businessinsider.com/holocaust-survivor-edith-eger-shares-resilience-long-joyful-life-2024-10",
-      "urlToImage": "https://i.insider.com/66d6e1ee289b805d1db37aed?width=1200&format=jpeg",
-      "publishedAt": "2024-10-02T11:05:37Z",
-      "content": "Dr. Edith Eger was sent to the Nazi death camp Auschwitz when she was 16.Jordan Engle\r\n\u003Cul\u003E\u003Cli\u003EAt age 16, Edith Eger was sent to Auschwitz but survived. \u003C/li\u003E\u003Cli\u003EShe later moved to the US and became … [+6076 chars]"
+      "content": "Business Insider reporter Samantha Grindell tried on wedding dresses at Kleinfeld.Crystal Cox/Business Insider\r\n<ul>\n<li>I had a mock bridal appointment at Kleinfeld from \"Say Yes to the Dress.\"</li>… [+14718 chars]"
     },
     {
       "source": {
@@ -910,98 +819,72 @@
       "url": "https://www.businessinsider.com/hurricane-helene-asheville-furniture-business-founders-lost-everything-2024-10",
       "urlToImage": "https://i.insider.com/66fd61b05ccfc192a5528eb0?width=1200&format=jpeg",
       "publishedAt": "2024-10-02T15:28:13Z",
-      "content": "Todd and Megan Walsh went to their store to pull up rugs and prop up furniture before the hurricane hit.Courtesy of Atomic Furnishing & Design\r\n\u003Cul\u003E\u003Cli\u003EMegan and Todd Walsh are the owners of Ashevill… [+3869 chars]"
+      "content": "Todd and Megan Walsh went to their store to pull up rugs and prop up furniture before the hurricane hit.Courtesy of Atomic Furnishing & Design\r\n<ul><li>Megan and Todd Walsh are the owners of Ashevill… [+3869 chars]"
     },
     {
       "source": {
         "id": "business-insider",
         "name": "Business Insider"
       },
-      "author": "Jyoti Mann",
-      "title": "I was rejected by Meta 4 times before I landed a job there. Here's how I did it.",
-      "description": "Sahriar Hossain told Business Insider how he landed a job at Meta after being rejected by the tech giant four times.",
-      "url": "https://www.businessinsider.com/meta-engineer-rejected-four-times-job-career-tips-2024-9",
-      "urlToImage": "https://i.insider.com/66f1387dcfb7f307e573cdb3?width=1200&format=jpeg",
-      "publishedAt": "2024-09-23T14:34:40Z",
-      "content": "Sahriar Hossain landed a job at Meta in January 2024Sahriar Hossain\r\n\u003Cul\u003E\u003Cli\u003EShad Hossain secured a lead quality assurance engineer role at Meta in January 2024.\u003C/li\u003E\u003Cli\u003EHossain told BI about his jou… [+5653 chars]"
+      "author": "Olivia Singh",
+      "title": "Shailene Woodley doesn't know any more about 'Big Little Lies' season 3 than you do",
+      "description": "Shailene Woodley, who starred as Jane Chapman on \"Big Little Lies,\" told Business Insider that she doesn't know much about the upcoming third season.",
+      "url": "https://www.businessinsider.com/shailene-woodley-big-little-lies-season-3-interview-2024-9",
+      "urlToImage": "https://i.insider.com/66f6f2c175c877a99b615a54?width=1200&format=jpeg",
+      "publishedAt": "2024-09-27T18:40:15Z",
+      "content": "Shailene Woodley as Jane Chapman on season two of \"Big Little Lies.\"HBO\r\n<ul><li>Shailene Woodley reacted to the news about a potential season three of \"Big Little Lies.\"</li><li>Woodley told Busines… [+2417 chars]"
     },
     {
       "source": {
         "id": "business-insider",
         "name": "Business Insider"
       },
-      "author": "Brittany Chang",
-      "title": "Royal Caribbean's next mega cruise ship is setting sail next year. Here's what we know about the $230-a-night vessel.",
-      "description": "Royal Caribbean is in the business of building giant cruise ships. Its upcoming Star of the Seas — sailing in 2025 — will be another behemoth vessel.",
-      "url": "https://www.businessinsider.com/royal-caribbean-star-of-the-seas-icon-of-the-seas-2023-10",
-      "urlToImage": "https://i.insider.com/66f187b9cfb7f307e573e549?width=1200&format=jpeg",
-      "publishedAt": "2024-09-23T19:29:19Z",
-      "content": "Royal Caribbean says its next Icon class vessel, Star of the Seas, will set sail in August 2025, starting at about $1,610 per person for a seven-night cruise.Royal Caribbean\r\n\u003Cul\u003E\u003Cli\u003ERoyal Caribbean … [+3394 chars]"
+      "author": "Laura Italiano",
+      "title": "Diddy's freak-off arrest would have Kim Porter 'turning over in her grave,' her ex-lawyer says",
+      "description": "Freak offs? A tell-all memoir? The love of Sean Combs' life was too private and classy for that, Porter's former family lawyer tells Business Insider.",
+      "url": "https://www.businessinsider.com/kim-porter-diddy-freak-off-arrest-2024-9",
+      "urlToImage": "https://i.insider.com/66f6b83cde59ade1a3b5332a?width=1200&format=jpeg",
+      "publishedAt": "2024-09-28T10:30:02Z",
+      "content": "Kim Porter and Sean \"Diddy\" Combs in 2003Getty Images/Giulio Marcocchi\r\n<ul><li>Freak offs? A tell-all memoir? Kim Porter was too \"private and classy\" for that, her ex-lawyer says.</li><li>But in pri… [+5156 chars]"
     },
     {
       "source": {
         "id": "business-insider",
         "name": "Business Insider"
       },
-      "author": "Callie Ahlgrim,Jacob Shamsian",
-      "title": "Diddy's famous friends have been criticized for staying silent amid his arrest. Crisis PR experts say it's good strategy.",
-      "description": "Sean \"Diddy\" Combs was recently arrested and charged with three felonies. Now, his longtime friends and business partners are also being scrutinized.",
-      "url": "https://www.businessinsider.com/diddy-arrest-celebrities-react-pr-strategy-explained-2024-9",
-      "urlToImage": "https://i.insider.com/66f31082cfb7f307e5748dfa?width=1200&format=jpeg",
-      "publishedAt": "2024-09-25T18:20:28Z",
-      "content": "Diddy, Usher, Jay-Z, DJ Khaled, and Nipsey Hussle photographed at a 2019 Roc Nation event.Kevin Mazur/Getty Images for Roc Nation\r\n\u003Cul\u003E\u003Cli\u003ESean \"Diddy\" Combs was arrested last week and hit with three… [+9477 chars]"
+      "author": "Kim Schewitz",
+      "title": "A 97-year-old Holocaust survivor and psychologist has just written her third book. She shares how resilience has helped her live a long and joyful life.",
+      "description": "Dr. Edith Eger's life has been punctuated both by unimaginable horror and heady success. She shared with Business Insider the key principles that have guided her.",
+      "url": "https://www.businessinsider.com/holocaust-survivor-edith-eger-shares-resilience-long-joyful-life-2024-10",
+      "urlToImage": "https://i.insider.com/66d6e1ee289b805d1db37aed?width=1200&format=jpeg",
+      "publishedAt": "2024-10-02T11:05:37Z",
+      "content": "Dr. Edith Eger was sent to the Nazi death camp Auschwitz when she was 16.Jordan Engle\r\n<ul><li>At age 16, Edith Eger was sent to Auschwitz but survived. </li><li>She later moved to the US and became … [+6076 chars]"
     },
     {
       "source": {
         "id": "business-insider",
         "name": "Business Insider"
       },
-      "author": "Lakshmi Varanasi",
-      "title": "AI expert Gary Marcus thinks OpenAI will be the 'most Orwellian company of all time'",
-      "description": "AI expert Gary Marcus says OpenAI may be forced to \"become a surveillance\" company to make money. \"The mask has come off,\" he told Business Insider.",
-      "url": "https://www.businessinsider.com/openai-orwellian-surveillance-gary-marcus-nsa-nakasone-2024-10",
-      "urlToImage": "https://i.insider.com/67031821198738e3a70e9544?width=1200&format=jpeg",
-      "publishedAt": "2024-10-07T10:01:02Z",
-      "content": "AI skeptics worry the tech could be used to create a surveillance nightmare.Peter Kneffel/DPA\r\n\u003Cul\u003E\u003Cli\u003EAI expert Gary Marcus says OpenAI may be forced to become a surveillance company to make money.\u003C… [+3613 chars]"
+      "author": "Caralynn Matassa",
+      "title": "A 'Love Is Blind' star says he doubled his income by influencing part-time. Now, he and his wife are using the extra money to travel and buy a house.",
+      "description": "Tiffany and Brett met on \"Love Is Blind\" season 4. Business Insider spoke to them about how their lives and careers evolved after the show.",
+      "url": "https://www.businessinsider.com/love-is-blind-brett-brown-job-net-worth-income-influencing-2024-9",
+      "urlToImage": "https://i.insider.com/670fdb793f2165d716e1d496?width=1200&format=jpeg",
+      "publishedAt": "2024-10-24T16:15:01Z",
+      "content": "Tiffany Pennywell and Brett Brown attend \"Love Is Blind: The Live Reunion.\"Netlfix\r\n<ul><li>Many reality stars use their newfound fame to launch careers as influencers.</li><li>\"Love Is Blind\" star B… [+5996 chars]"
     },
     {
       "source": {
         "id": "business-insider",
         "name": "Business Insider"
       },
-      "author": "Olivia Bardo",
-      "title": "I travel a lot for work. Here's how I maximize my time in each city to turn every trip into a mini vacation.",
-      "description": "I travel a lot for work. To make the most of my time in each city, I turn every business trip into a mini vacation.",
-      "url": "https://www.businessinsider.com/turning-work-trips-into-vacations-according-to-frequent-traveler",
-      "urlToImage": "https://i.insider.com/66ec564ace3009a0fac7ad23?width=1200&format=jpeg",
-      "publishedAt": "2024-10-01T13:07:02Z",
-      "content": "I've learned how to make the most of my work trips.Olivia Bardo\r\n\u003Cul\u003E\u003Cli\u003EAfter starting a job that requires me to travel a lot, I've learned to make the most of each trip.\u003C/li\u003E\u003Cli\u003EI turn every trip i… [+3505 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "James Faris",
-      "title": "DirecTV's CEO says its Dish acquisition 'isn't so much about bullying' media giants — but it's definitely about playing hardball",
-      "description": "DirecTV and Dish have teamed up since cord-cutting is wrecking their business — and so they can gain leverage over content providers like Disney.",
-      "url": "https://www.businessinsider.com/directv-dish-deal-cable-bundle-pay-tv-disney-cord-cutting-2024-10",
-      "urlToImage": "https://i.insider.com/66fc31e8f44bdb4cfa389e27?width=1200&format=jpeg",
-      "publishedAt": "2024-10-01T18:32:17Z",
-      "content": "DirecTV and Dish hope that they're stronger together than they were on their own.Karen Bleier/AFP/Getty Images\r\n\u003Cul\u003E\u003Cli\u003EDirecTV and Dish have decided to team up in the face of steady subscriber losse… [+4695 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Samantha Grindell",
-      "title": "Meghan Markle and Prince Harry's management style is under scrutiny again. PR experts share 2 steps they should take to change the conversation.",
-      "description": "PR experts suggested Prince Harry and Meghan Markle prioritize philanthropy over business to end the conflicting reports over their leadership style.",
-      "url": "https://www.businessinsider.com/meghan-markle-prince-harry-workplace-comments-pr-experts-2024-9",
-      "urlToImage": "https://i.insider.com/66f5b1e0f9f6733e4be013f5?width=1200&format=jpeg",
-      "publishedAt": "2024-10-01T16:48:01Z",
-      "content": "Meghan Markle and Prince Harry in August 2024.Eric Charbonneau/Archewell Foundation via Getty Images\r\n\u003Cul\u003E\u003Cli\u003EPrince Harry and Meghan Markle's leadership style is being scrutinized again.\u003C/li\u003E\u003Cli\u003EPR … [+6513 chars]"
+      "author": "Monica Humphries",
+      "title": "Taking a long-haul flight that departed at noon left me jet-lagged for days. Here's what I'll do differently next time.",
+      "description": "It wasn't a lousy pillow or poor snack choice that Business Insider's reporter regretted on a long-haul flight to Japan. It was her flight schedule.",
+      "url": "https://www.businessinsider.com/travel-reporter-mistake-long-haul-flight-timing-jet-lag-2023-7",
+      "urlToImage": "https://i.insider.com/64ac3df18ed31300199e4eb7?width=1200&format=jpeg",
+      "publishedAt": "2024-10-22T21:08:21Z",
+      "content": "Business Insider's reporter regretted the timing of her long-haul flight to Japan.Monica Humphries/Business Insider\r\n<ul>\n<li>In 2023, I embarked on one of the longest flights of my life: a 12-hour f… [+3845 chars]"
     },
     {
       "source": {
@@ -1014,7 +897,33 @@
       "url": "https://www.businessinsider.com/renting-an-electric-car-italy-learning-curve-mistake-2023-7",
       "urlToImage": "https://i.insider.com/64c400d8048ff200190d2411?width=1200&format=jpeg",
       "publishedAt": "2024-10-08T21:01:52Z",
-      "content": "The group rented an EV while traveling in Italy.Monica Humphries/Business Insider\r\n\u003Cul\u003E\n\u003Cli\u003ELast spring, my friends and I accidentally rented an electric car on a trip to Italy.\u003C/li\u003E\n\u003Cli\u003EThe rental h… [+4532 chars]"
+      "content": "The group rented an EV while traveling in Italy.Monica Humphries/Business Insider\r\n<ul>\n<li>Last spring, my friends and I accidentally rented an electric car on a trip to Italy.</li>\n<li>The rental h… [+4532 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Lakshmi Varanasi",
+      "title": "AI expert Gary Marcus thinks OpenAI will be the 'most Orwellian company of all time'",
+      "description": "AI expert Gary Marcus says OpenAI may be forced to \"become a surveillance\" company to make money. \"The mask has come off,\" he told Business Insider.",
+      "url": "https://www.businessinsider.com/openai-orwellian-surveillance-gary-marcus-nsa-nakasone-2024-10",
+      "urlToImage": "https://i.insider.com/67031821198738e3a70e9544?width=1200&format=jpeg",
+      "publishedAt": "2024-10-07T10:01:02Z",
+      "content": "AI skeptics worry the tech could be used to create a surveillance nightmare.Peter Kneffel/DPA\r\n<ul><li>AI expert Gary Marcus says OpenAI may be forced to become a surveillance company to make money.<… [+3613 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Callie Ahlgrim,Jacob Shamsian",
+      "title": "Diddy's famous friends have been criticized for staying silent amid his arrest. Crisis PR experts say it's good strategy.",
+      "description": "Sean \"Diddy\" Combs was recently arrested and charged with three felonies. Now, his longtime friends and business partners are also being scrutinized.",
+      "url": "https://www.businessinsider.com/diddy-arrest-celebrities-react-pr-strategy-explained-2024-9",
+      "urlToImage": "https://i.insider.com/66f31082cfb7f307e5748dfa?width=1200&format=jpeg",
+      "publishedAt": "2024-09-25T18:20:28Z",
+      "content": "Diddy, Usher, Jay-Z, DJ Khaled, and Nipsey Hussle photographed at a 2019 Roc Nation event.Kevin Mazur/Getty Images for Roc Nation\r\n<ul><li>Sean \"Diddy\" Combs was arrested last week and hit with three… [+9477 chars]"
     },
     {
       "source": {
@@ -1027,7 +936,46 @@
       "url": "https://www.businessinsider.com/when-to-travel-backpack-vs-carry-on-luggage-suitcase-2023-9",
       "urlToImage": "https://i.insider.com/6709267a3f2165d716e021bd?width=1200&format=jpeg",
       "publishedAt": "2024-10-11T14:37:30Z",
-      "content": "The author daydreamed about her carry-on suitcase while backpacking in Europe.Joey Hadden/Business Insider\r\n\u003Cul\u003E\n\u003Cli\u003EI went backpacking through Europe for two weeks and traveled by train through four… [+3486 chars]"
+      "content": "The author daydreamed about her carry-on suitcase while backpacking in Europe.Joey Hadden/Business Insider\r\n<ul>\n<li>I went backpacking through Europe for two weeks and traveled by train through four… [+3486 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Samantha Grindell",
+      "title": "Meghan Markle and Prince Harry's management style is under scrutiny again. PR experts share 2 steps they should take to change the conversation.",
+      "description": "PR experts suggested Prince Harry and Meghan Markle prioritize philanthropy over business to end the conflicting reports over their leadership style.",
+      "url": "https://www.businessinsider.com/meghan-markle-prince-harry-workplace-comments-pr-experts-2024-9",
+      "urlToImage": "https://i.insider.com/66f5b1e0f9f6733e4be013f5?width=1200&format=jpeg",
+      "publishedAt": "2024-10-01T16:48:01Z",
+      "content": "Meghan Markle and Prince Harry in August 2024.Eric Charbonneau/Archewell Foundation via Getty Images\r\n<ul><li>Prince Harry and Meghan Markle's leadership style is being scrutinized again.</li><li>PR … [+6513 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Olivia Bardo",
+      "title": "I travel a lot for work. Here's how I maximize my time in each city to turn every trip into a mini vacation.",
+      "description": "I travel a lot for work. To make the most of my time in each city, I turn every business trip into a mini vacation.",
+      "url": "https://www.businessinsider.com/turning-work-trips-into-vacations-according-to-frequent-traveler",
+      "urlToImage": "https://i.insider.com/66ec564ace3009a0fac7ad23?width=1200&format=jpeg",
+      "publishedAt": "2024-10-01T13:07:02Z",
+      "content": "I've learned how to make the most of my work trips.Olivia Bardo\r\n<ul><li>After starting a job that requires me to travel a lot, I've learned to make the most of each trip.</li><li>I turn every trip i… [+3505 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "James Faris",
+      "title": "DirecTV's CEO says its Dish acquisition 'isn't so much about bullying' media giants — but it's definitely about playing hardball",
+      "description": "DirecTV and Dish have teamed up since cord-cutting is wrecking their business — and so they can gain leverage over content providers like Disney.",
+      "url": "https://www.businessinsider.com/directv-dish-deal-cable-bundle-pay-tv-disney-cord-cutting-2024-10",
+      "urlToImage": "https://i.insider.com/66fc31e8f44bdb4cfa389e27?width=1200&format=jpeg",
+      "publishedAt": "2024-10-01T18:32:17Z",
+      "content": "DirecTV and Dish hope that they're stronger together than they were on their own.Karen Bleier/AFP/Getty Images\r\n<ul><li>DirecTV and Dish have decided to team up in the face of steady subscriber losse… [+4695 chars]"
     },
     {
       "source": {
@@ -1040,7 +988,7 @@
       "url": "https://www.businessinsider.com/why-monsters-actor-leslie-grossman-hasnt-spoken-to-judalon-smyth-2024-10",
       "urlToImage": "https://i.insider.com/67125555a0a0cc14f221f214?width=1200&format=jpeg",
       "publishedAt": "2024-10-18T15:43:50Z",
-      "content": "Judalon Smyth and Leslie Grossman in \"Monsters: The Lyle and Erik Menendez Story.\"Associated Press/Netflix\r\n\u003Cul\u003E\u003Cli\u003E\"Monsters: The Lyle and Erik Menendez Story\" adapts the murder trial of Lyle Menend… [+3711 chars]"
+      "content": "Judalon Smyth and Leslie Grossman in \"Monsters: The Lyle and Erik Menendez Story.\"Associated Press/Netflix\r\n<ul><li>\"Monsters: The Lyle and Erik Menendez Story\" adapts the murder trial of Lyle Menend… [+3711 chars]"
     },
     {
       "source": {
@@ -1053,7 +1001,7 @@
       "url": "https://www.businessinsider.com/taylor-swift-self-publishing-eras-tour-book-disrupting-industry-again-2024-10",
       "urlToImage": "https://i.insider.com/67123d4ea0a0cc14f221eeb9?width=1200&format=jpeg",
       "publishedAt": "2024-10-18T13:04:14Z",
-      "content": "Taylor Swift performing on stage at Wembley Stadium for the London leg of \"The Eras Tour.\"Kate Green/Getty Images\r\n\u003Cul\u003E\u003Cli\u003EThis post originally appeared in the Insider Today newsletter.how\u003C/li\u003E\u003Cli\u003EYo… [+7453 chars]"
+      "content": "Taylor Swift performing on stage at Wembley Stadium for the London leg of \"The Eras Tour.\"Kate Green/Getty Images\r\n<ul><li>This post originally appeared in the Insider Today newsletter.how</li><li>Yo… [+7453 chars]"
     },
     {
       "source": {
@@ -1066,7 +1014,7 @@
       "url": "https://www.businessinsider.com/google-research-execs-reveal-how-they-use-ai-daily-2024-10",
       "urlToImage": "https://i.insider.com/6712b2a9a0a0cc14f22256ab?width=1200&format=jpeg",
       "publishedAt": "2024-10-20T09:11:01Z",
-      "content": "Google execs talked about where they use AI in their daily lives and where they hesitate to integrate it.Chris Hondros/Getty Images\r\n\u003Cul\u003E\u003Cli\u003EGoogle executives told Business Insider how they use AI in… [+2949 chars]"
+      "content": "Google execs talked about where they use AI in their daily lives and where they hesitate to integrate it.Chris Hondros/Getty Images\r\n<ul><li>Google executives told Business Insider how they use AI in… [+2949 chars]"
     },
     {
       "source": {
@@ -1083,19 +1031,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Danny Gallagher",
-      "title": "Visa slapped with a DOJ antitrust lawsuit",
-      "description": "The Department of Justice (DOJ) filed an antitrust lawsuit against Visa. The lawsuit alleges that the financial firm holds a monopoly over debit network markets allowing it to charge banks and markets with exorbitant fees that get passed onto consumers and ke…",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_412f161c-63f2-42fd-8c9e-0406d5087924",
-      "urlToImage": null,
-      "publishedAt": "2024-09-24T20:47:10Z",
-      "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-    },
-    {
-      "source": {
         "id": "business-insider",
         "name": "Business Insider"
       },
@@ -1105,7 +1040,7 @@
       "url": "https://www.businessinsider.com/trump-tariff-threat-john-deere-economists-baffled-2024-9",
       "urlToImage": "https://i.insider.com/66f35283cfb7f307e574afad?width=1200&format=jpeg",
       "publishedAt": "2024-09-25T08:00:02Z",
-      "content": "Trump threatened a 200% tariff on John Deere if it moves manufacturing to Mexico.Win McNamee/Getty\r\n\u003Cul\u003E\u003Cli\u003ETrump threatened a 200% tariff on John Deere if it moves some of its manufacturing to Mexic… [+6678 chars]"
+      "content": "Trump threatened a 200% tariff on John Deere if it moves manufacturing to Mexico.Win McNamee/Getty\r\n<ul><li>Trump threatened a 200% tariff on John Deere if it moves some of its manufacturing to Mexic… [+6678 chars]"
     },
     {
       "source": {
@@ -1118,46 +1053,7 @@
       "url": "https://www.businessinsider.com/author-ana-huang-self-publishing-books-like-running-small-business-2024-10",
       "urlToImage": "https://i.insider.com/671021e3a7031864928365da?width=1200&format=jpeg",
       "publishedAt": "2024-10-22T11:02:01Z",
-      "content": "Ana Huang is a bestselling author.Courtesy of Ana Huang\r\n\u003Cul\u003E\u003Cli\u003EAna Huang started as a completely self-published author.\u003C/li\u003E\u003Cli\u003EHuang, now a beloved BookTok author, compared self-publishing to runn… [+6527 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Dominick Reuter",
-      "title": "The US Justice Department just filed an antitrust lawsuit against Visa over its debit card business",
-      "description": "Visa is in the antitrust crosshairs. The US Department of Justice filed a lawsuit accusing the payments giant of illegally maintaining a monopoly.",
-      "url": "https://www.businessinsider.com/visa-antitrust-monopoly-lawsuit-doj-debit-card-2024-9",
-      "urlToImage": "https://i.insider.com/66f2bb05d17aa3c7b2b55a32?width=1200&format=jpeg",
-      "publishedAt": "2024-09-24T18:34:36Z",
-      "content": "Prosecutors say Visa handles more than 60% of US debit transactions, earning the company more than $7 billion in fees per year.Jean Sebastien Evrard/Getty Images\r\n\u003Cul\u003E\u003Cli\u003EThe US Department of Justice… [+2634 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "James Faris",
-      "title": "Inside ESPN's 3-part plan to jump-start its lagging podcast business",
-      "description": "ESPN hasn't made podcasts a big priority so far. Content president Burke Magnus shared three ways the sports giant can change that.",
-      "url": "https://www.businessinsider.com/espn-podcast-strategy-the-ringer-bill-simmons-charania-burke-magnus-2024-10",
-      "urlToImage": "https://i.insider.com/6707eeb33f2165d716dfdaba?width=1200&format=jpeg",
-      "publishedAt": "2024-10-10T15:54:16Z",
-      "content": "ESPN had shows like Mike & Mike, which ran from 2000 to 2017, but has fallen behind in podcasting.ESPN\r\n\u003Cul\u003E\u003Cli\u003EESPN has a huge audience, a growing streaming presence, and a nascent betting app.\u003C/li\u003E… [+3713 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Sarah Jackson",
-      "title": "How AI is changing business at telecom giants, according to Nvidia and Verizon execs",
-      "description": "Telecom giants are one class of enterprises betting big on AI, with a handful turning data centers into \"AI factories\" as the tech booms.",
-      "url": "https://www.businessinsider.com/how-ai-changing-business-telecommunications-giants-mwc-2024-10",
-      "urlToImage": "https://i.insider.com/670969caa703186492815a2e?width=1200&format=jpeg",
-      "publishedAt": "2024-10-12T16:18:05Z",
-      "content": "Some telecommunications providers are turning some of their data centers into \"AI factories,\" for one thing.© 2024 GSMA / MWC\r\n\u003Cul\u003E\u003Cli\u003EIt feels like everyone is talking about how to use AI in their b… [+3587 chars]"
+      "content": "Ana Huang is a bestselling author.Courtesy of Ana Huang\r\n<ul><li>Ana Huang started as a completely self-published author.</li><li>Huang, now a beloved BookTok author, compared self-publishing to runn… [+6527 chars]"
     },
     {
       "source": {
@@ -1170,20 +1066,33 @@
       "url": "https://www.businessinsider.com/palmer-luckey-anduril-apex-defense-tech-space-satellite-surveillance-2024-10",
       "urlToImage": "https://i.insider.com/66fd15725ccfc192a5527d9d?width=1200&format=jpeg",
       "publishedAt": "2024-10-02T11:19:40Z",
-      "content": "Palmer Luckey wants to disrupt the defense industry through his company, Anduril.David Fitzgerald/Getty Images\r\n\u003Cul\u003E\u003Cli\u003EPalmer Luckey's defense tech startup Anduril is setting its sights on space.\u003C/l… [+2807 chars]"
+      "content": "Palmer Luckey wants to disrupt the defense industry through his company, Anduril.David Fitzgerald/Getty Images\r\n<ul><li>Palmer Luckey's defense tech startup Anduril is setting its sights on space.</l… [+2807 chars]"
     },
     {
       "source": {
         "id": "business-insider",
         "name": "Business Insider"
       },
-      "author": "Morgan McFall-Johnsen",
-      "title": "Mini-moons like the one Earth just captured could be huge business opportunities",
-      "description": "Asteroids are ripe for mining. Some contain gold or platinum. Others could help make rocket fuel. When they're mini-moons, that's a prime opportunity.",
-      "url": "https://www.businessinsider.com/earth-second-moon-represents-major-business-opportunity-asteroid-mining-2024-9",
-      "urlToImage": "https://i.insider.com/66f6ead3f9f6733e4be05f8b?width=1200&format=jpeg",
-      "publishedAt": "2024-09-30T11:04:02Z",
-      "content": "NASA's OSIRIS-REx spacecraft collects a sample from an asteroid.NASA/Goddard/University of Arizona\r\n\u003Cul\u003E\u003Cli\u003EThe second moon that Earth has captured in its orbit this month is an asteroid called 2024 … [+4892 chars]"
+      "author": "Sarah Jackson",
+      "title": "How AI is changing business at telecom giants, according to Nvidia and Verizon execs",
+      "description": "Telecom giants are one class of enterprises betting big on AI, with a handful turning data centers into \"AI factories\" as the tech booms.",
+      "url": "https://www.businessinsider.com/how-ai-changing-business-telecommunications-giants-mwc-2024-10",
+      "urlToImage": "https://i.insider.com/670969caa703186492815a2e?width=1200&format=jpeg",
+      "publishedAt": "2024-10-12T16:18:05Z",
+      "content": "Some telecommunications providers are turning some of their data centers into \"AI factories,\" for one thing.© 2024 GSMA / MWC\r\n<ul><li>It feels like everyone is talking about how to use AI in their b… [+3587 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "James Faris",
+      "title": "Inside ESPN's 3-part plan to jump-start its lagging podcast business",
+      "description": "ESPN hasn't made podcasts a big priority so far. Content president Burke Magnus shared three ways the sports giant can change that.",
+      "url": "https://www.businessinsider.com/espn-podcast-strategy-the-ringer-bill-simmons-charania-burke-magnus-2024-10",
+      "urlToImage": "https://i.insider.com/6707eeb33f2165d716dfdaba?width=1200&format=jpeg",
+      "publishedAt": "2024-10-10T15:54:16Z",
+      "content": "ESPN had shows like Mike & Mike, which ran from 2000 to 2017, but has fallen behind in podcasting.ESPN\r\n<ul><li>ESPN has a huge audience, a growing streaming presence, and a nascent betting app.</li>… [+3713 chars]"
     },
     {
       "source": {
@@ -1196,7 +1105,33 @@
       "url": "https://www.businessinsider.com/rising-stars-of-real-estate-nominations-2024-9",
       "urlToImage": "https://i.insider.com/66f32cdbd17aa3c7b2b5c342?width=1200&format=jpeg",
       "publishedAt": "2024-09-25T11:00:02Z",
-      "content": "Business Insider is seeking nominations for its Rising Stars of Real Estate 2024 list.filadendron/Getty Images\r\n\u003Cul\u003E\u003Cli\u003ENominations are now open for Business Insider's fifth annual list of Rising Sta… [+1736 chars]"
+      "content": "Business Insider is seeking nominations for its Rising Stars of Real Estate 2024 list.filadendron/Getty Images\r\n<ul><li>Nominations are now open for Business Insider's fifth annual list of Rising Sta… [+1736 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Morgan McFall-Johnsen",
+      "title": "Mini-moons like the one Earth just captured could be huge business opportunities",
+      "description": "Asteroids are ripe for mining. Some contain gold or platinum. Others could help make rocket fuel. When they're mini-moons, that's a prime opportunity.",
+      "url": "https://www.businessinsider.com/earth-second-moon-represents-major-business-opportunity-asteroid-mining-2024-9",
+      "urlToImage": "https://i.insider.com/66f6ead3f9f6733e4be05f8b?width=1200&format=jpeg",
+      "publishedAt": "2024-09-30T11:04:02Z",
+      "content": "NASA's OSIRIS-REx spacecraft collects a sample from an asteroid.NASA/Goddard/University of Arizona\r\n<ul><li>The second moon that Earth has captured in its orbit this month is an asteroid called 2024 … [+4892 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gizmodo Deals",
+      "title": "Google AI, ChatGPT, Meta AI, Mistral: All These AI Tools Nearly Unlimited for $39 Lifetime",
+      "description": "It's the best deal if you want to centralize all your AI tools in one place.",
+      "url": "https://gizmodo.com/google-ai-chatgpt-meta-ai-mistral-all-these-ai-tools-nearly-unlimited-for-39-lifetime-2000507632",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/09/openai-o1-preview-chatgpt-altman.jpg",
+      "publishedAt": "2024-10-05T19:20:56Z",
+      "content": "In the rapidly evolving world of artificial intelligence, users are facing a growing challenge: the rising costs of AI-powered tools and services. This trend is exemplified by OpenAI’s recent plans f… [+3272 chars]"
     },
     {
       "source": {
@@ -1217,38 +1152,25 @@
         "name": "Harvard Business Review"
       },
       "author": null,
+      "title": "How a Coal Polluter’s New Strategy for Sustainability Transformed Its Business",
+      "description": "If your team is navigating big changes, this episode is for you.",
+      "url": "https://hbr.org/podcast/2024/10/how-a-coal-polluters-new-strategy-for-sustainability-transformed-its-business",
+      "urlToImage": "https://hbr.org/resources/images/article_assets/2023/05/wide-hbr-on-strategy.png",
+      "publishedAt": "2024-10-23T12:22:00Z",
+      "content": "HANNAH BATES: Welcome to HBR on Strategy – case studies and conversations with the world’s top business and management experts, hand-selected to help you unlock new ways of doing business.\r\nEnel, Ita… [+20878 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Harvard Business Review"
+      },
+      "author": null,
       "title": "What Business Leaders Need to Know About Supply Chain Management - SPONSOR CONTENT FROM SCHNEIDER ELECTRIC",
       "description": "Sponsor content from Schneider Electric.",
       "url": "https://hbr.org/sponsored/2024/10/what-business-leaders-need-to-know-about-supply-chain-management",
       "urlToImage": "https://hbr.org/resources/images/article_assets/2024/06/se_v2_hero.png",
       "publishedAt": "2024-10-10T21:25:57Z",
       "content": "Sponsor content from Schneider Electric.\r\n\"&gt;\r\nSponsor content from Schneider Electric.\r\n\"&gt;\r\nBy Mourad Tamoud\r\nGeopolitical tensions, economic instability, spikes and troughs in demand, extreme … [+6131 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Gizmodo Deals",
-      "title": "Google AI, ChatGPT, Meta AI, Mistral: All These AI Tools Nearly Unlimited for $39 Lifetime",
-      "description": "It's the best deal if you want to centralize all your AI tools in one place.",
-      "url": "https://gizmodo.com/google-ai-chatgpt-meta-ai-mistral-all-these-ai-tools-nearly-unlimited-for-39-lifetime-2000507632",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/09/openai-o1-preview-chatgpt-altman.jpg",
-      "publishedAt": "2024-10-05T19:20:56Z",
-      "content": "In the rapidly evolving world of artificial intelligence, users are facing a growing challenge: the rising costs of AI-powered tools and services. This trend is exemplified by OpenAI’s recent plans f… [+3272 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Stellantis cuts inventories, pricing to improve North American business",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_75c1b931-cd31-45ec-be4f-e70e522e9844",
-      "urlToImage": null,
-      "publishedAt": "2024-09-23T14:32:51Z",
-      "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
     },
     {
       "source": {
@@ -1301,6 +1223,84 @@
       "urlToImage": null,
       "publishedAt": "2024-10-10T23:01:41Z",
       "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-15T19:40:41Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Beatrice Nolan",
+      "title": "Tesla earnings live updates: robotaxi hype has faded and the stock is down; analysts will watch profit margins during call",
+      "description": "Tesla's earnings call is at 5:30 p.m. ET. TSLA stock heads into the report down 12% YTD. Analysts want the EV maker to focus on its core business.",
+      "url": "https://www.businessinsider.com/tesla-stock-tsla-earnings-call-report-live-updates-2024-10",
+      "urlToImage": "https://i.insider.com/666c2cd2764df1611259d5bc?width=1024&format=jpeg",
+      "publishedAt": "2024-10-23T10:15:19Z",
+      "content": "Tesla is on track to match 2023's deliveries.VCG\r\n<ul><li>Tesla is set to report earnings, with Wall Street focusing on its core auto business performance.</li><li>Analysts will be watching its profi… [+1508 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Serafina Kenny",
+      "title": "I'm a biohacker who wants to live to 150. I asked my husband to do health tests before we started dating and I'm now the 'Chief Health Officer' of our relationship.",
+      "description": "Kayla Barnes-Lentz's days are built around optimizing her health. When her business was established enough for her to look for love, she wanted a partner who shared her devotion to longevity.",
+      "url": "https://www.businessinsider.com/biohacker-husband-health-tests-before-dating-2024-10",
+      "urlToImage": "https://i.insider.com/67162b5a9b3250dbbce8a8d2?width=1164&format=jpeg",
+      "publishedAt": "2024-10-21T11:51:05Z",
+      "content": "Kayla Barnes-Lentz and her husband take cold plunges every morning.Masha Maltsava\r\n<ul><li>Kayla Barnes-Lentz, a self-described biohacker, wants to live to 150.</li><li>Biohackers can use experimenta… [+5108 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Serafina Kenny",
+      "title": "From ALICEs to HENRYs, here's what people across the tax brackets discuss in therapy",
+      "description": "Therapists shared what their clients talk about with Business Insider. While ALICEs struggle with the cost of living, wealth can be a blessing and a curse for ultra-high net worth individuals.",
+      "url": "https://www.businessinsider.com/alices-ultra-rich-what-people-across-tax-brackets-discuss-therapy-2024-10",
+      "urlToImage": "https://i.insider.com/66b22146393cd3c8629b81a6?width=1200&format=jpeg",
+      "publishedAt": "2024-10-14T09:56:28Z",
+      "content": "Getty Images; Jenny Chang-Rodriguez/BI\r\n<ul><li>Four therapists shared what their clients from different tax brackets discuss in sessions.</li><li>Money can be a source of stress for both those on lo… [+6330 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Tom Maxwell",
+      "title": "Redbox Is Dead, Now’s Your Chance to Try and Nab One of the Machines",
+      "description": "Some people are taking the iconic red kiosks home as collector's items. But be warned: the energy costs are steep.",
+      "url": "https://gizmodo.com/redbox-is-dead-nows-your-chance-to-try-and-nab-one-of-the-machines-2000510628",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/GettyImages-1135410896.jpg",
+      "publishedAt": "2024-10-10T19:35:01Z",
+      "content": "Redbox is dead, and with it a big question looms: What to do with all those giant kiosks? The answer seems to be that retailers will have to dispose of them at their own cost, as Redbox’s parent comp… [+3427 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Lucas Ropek",
+      "title": "Former OpenAI Staffer Says the Company Is Breaking Copyright Law and Destroying the Internet",
+      "description": "Is OpenAI breaking U.S. copyright law? A former employee of the company says yes.",
+      "url": "https://gizmodo.com/former-openai-staffer-says-the-company-is-breaking-copyright-law-and-destroying-the-internet-2000515721",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/OpenAI-Sam-Altman-at-a-conference-in-Idaho-1.jpg",
+      "publishedAt": "2024-10-23T20:20:58Z",
+      "content": "A former researcher at the OpenAI has come out against the company’s business model, writing, in a personal blog, that he believes the company is not complying with U.S. copyright law. That makes him… [+3248 chars]"
     }
   ]
 }

@@ -1,266 +1,266 @@
 {
-	"status": "ok",
-	"totalResults": 35,
-	"articles": [
-		{
-			"source": {
-				"id": null,
-				"name": "NBCSports.com"
-			},
-			"author": "Michael David Smith",
-			"title": "Baker Mayfield: Buccaneers have heavy hearts seeing Chris Godwin injury - NBC Sports",
-			"description": "Buccaneers wide receiver Chris Godwin suffered a gruesome ankle dislocation during Monday night's loss to the Ravens, and quarterback Baker Mayfield said afterward that it hurts everyone on the team to see that.",
-			"url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/baker-mayfield-buccaneers-have-heavy-hearts-seeing-chris-godwin-injury",
-			"urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/db35205/2147483647/strip/true/crop/4800x2700+0+250/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc3%2F07%2F857068004d96a44e3616706a8ce5%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2179247036",
-			"publishedAt": "2024-10-22T09:04:53Z",
-			"content": "Buccaneers wide receiver Chris Godwin suffered a gruesome ankle dislocation during Monday nights loss to the Ravens, and quarterback Baker Mayfield said afterward that it hurts everyone on the team t… [+740 chars]"
-		},
-		{
-			"source": {
-				"id": "cnn",
-				"name": "CNN"
-			},
-			"author": "Alex Stambaugh",
-			"title": "Italian surfer dies after being impaled by fish off the coast of Indonesia - CNN",
-			"description": "An Italian surfer has died after being struck in the chest by a sharp-billed fish while surfing off Indonesia’s West Sumatra coast.",
-			"url": "https://www.cnn.com/2024/10/22/asia/surfer-giulia-manfrini-dies-fish-attack-indonesia-intl-hnk/index.html",
-			"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-10-19t000000z-709930866-ipaagc0008o9m6q-rtrmadp-3-independent-photo-agency.jpg?c=16x9&q=w_800,c_fill",
-			"publishedAt": "2024-10-22T08:53:00Z",
-			"content": "An Italian surfer has died after being impaled in the chest by a sharp-billed fish while surfing off Indonesias West Sumatra coast.\r\nGiulia Manfrini, 36, had been surfing in the Mentawai Islands, a r… [+2235 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "[Removed]"
-			},
-			"author": null,
-			"title": "[Removed]",
-			"description": "[Removed]",
-			"url": "https://removed.com",
-			"urlToImage": null,
-			"publishedAt": "2024-10-22T08:16:00Z",
-			"content": "[Removed]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "[Removed]"
-			},
-			"author": null,
-			"title": "[Removed]",
-			"description": "[Removed]",
-			"url": "https://removed.com",
-			"urlToImage": null,
-			"publishedAt": "2024-10-22T07:30:00Z",
-			"content": "[Removed]"
-		},
-		{
-			"source": {
-				"id": "associated-press",
-				"name": "Associated Press"
-			},
-			"author": "DASHA LITVINOVA",
-			"title": "Putin hosts a summit to show the West it can’t keep Russia off the global stage - The Associated Press",
-			"description": "Russian President Vladimir Putin will be shaking hands this week with multiple world leaders, including those from China, India, Turkey and Iran. They will be in the Russian city of Kazan for the summit of the BRICS bloc of developing economies. The gathering…",
-			"url": "https://apnews.com/article/russia-brics-china-india-ukraine-turkey-brazil-7c73c1cbee03c0de0d48e5b7314672e8",
-			"urlToImage": "https://dims.apnews.com/dims4/default/d622bf2/2147483647/strip/true/crop/3955x2225+0+206/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F44%2F09%2Fc322518885540aec25e5269ef7f9%2F7b9c4931f07a4057bfa79082c9c3d7f3",
-			"publishedAt": "2024-10-22T05:59:00Z",
-			"content": "Russian President Vladimir Putin will be meeting this week with Chinas Xi Jinping, Indias Narendra Modi, Turkeys Recep Tayyip Erdogan and Irans Masoud Pezeshkian, defying predictions that the war in … [+7765 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "CNBC"
-			},
-			"author": "Ruxandra Iordache",
-			"title": "HSBC names Pam Kaur as first female CFO amid major restructuring - CNBC",
-			"description": "HSBC on Tuesday named veteran insider Pam Kaur as its first female finance chief and announced a consolidation of the bank into four business units.",
-			"url": "https://www.cnbc.com/2024/10/22/hsbc-names-pam-kaur-as-first-female-cfo-amid-major-restructuring.html",
-			"urlToImage": "https://image.cnbcfm.com/api/v1/image/107223486-1681241612036-gettyimages-1248481420-230317b7_banks_investments_b-gr_65.jpeg?v=1729575986&w=1920&h=1080",
-			"publishedAt": "2024-10-22T05:57:36Z",
-			"content": "HSBC on Tuesday named veteran insider Pam Kaur as its first female finance chief and announced a consolidation of the bank into four business units.\r\nKaur is set to assume her post on Jan. 1, accordi… [+1120 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "WBAL TV Baltimore"
-			},
-			"author": null,
-			"title": "Harvey Weinstein is diagnosed with cancer, source says - WBAL TV Baltimore",
-			"description": "He is reportedly undergoing treatment at Rikers Island in New York. Last month, Weinstein underwent emergency heart surgery.",
-			"url": "https://www.wbaltv.com/article/harvey-weinstein-is-diagnosed-with-cancer/62675670",
-			"urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/harveyweinstein-671730021d61b.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
-			"publishedAt": "2024-10-22T05:15:00Z",
-			"content": "CNN —Harvey Weinstein has been diagnosed with bone cancer, a source close to the incarcerated producer tells CNN.\r\nWeinstein's specific diagnosis is chronic myeloid leukemia, a form of cancer of the … [+1932 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "[Removed]"
-			},
-			"author": null,
-			"title": "[Removed]",
-			"description": "[Removed]",
-			"url": "https://removed.com",
-			"urlToImage": null,
-			"publishedAt": "2024-10-22T04:52:43Z",
-			"content": "[Removed]"
-		},
-		{
-			"source": {
-				"id": "the-washington-post",
-				"name": "The Washington Post"
-			},
-			"author": "Michael Birnbaum, John Hudson",
-			"title": "Blinken heads to Middle East in long-shot bid for Gaza cease-fire - The Washington Post",
-			"description": "Officials view the death of Hamas leader Yahya Sinwar as a chance to revive hostage-release talks, but the Biden administration’s sway with Israel has waned.",
-			"url": "https://www.washingtonpost.com/national-security/2024/10/21/blinken-israel-gaza-ceasefire-hostages/",
-			"urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5MPASSLDYIMRYMKUTHMXHWCQNQ_size-normalized.jpg&w=1440",
-			"publishedAt": "2024-10-22T04:47:37Z",
-			"content": "With Israeli forces pounding targets in northern Gaza and Lebanon despite U.S. objections, Secretary of State Antony Blinken embarked Monday for the Middle East to try to bring about a cease-fire bet… [+10840 chars]"
-		},
-		{
-			"source": {
-				"id": "google-news",
-				"name": "Google News"
-			},
-			"author": "The Guardian",
-			"title": "Israel claims Hezbollah bunker under Beirut hospital holds millions of dollars - The Guardian",
-			"description": null,
-			"url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTzRjTmNHOW5tcDBxbnpkQkh5aTBaTFBONzk5VWpIcFZOem9mVHJJU2dfVmxwR3BNaHE2cWF4bk1QOFh2VzBHdUVUSy1IWVhrcGFhcTZlZlJRVmZIbUxUZ0JZUkxWRGdYRDBaSE5WRnhzY0pCa2lYUVBIVlFURi1VeTB1Uk5UUHpsUnpDbHoxVlVSd2pONjlNNFMtVjVpcmZHYVZURzZwSHFEUnpZMXVIREU0WTNUcnBjNE5fRDVB0gG-AUFVX3lxTFBLdFhkTFZTanA2SmlMLXB6VVZUcm1DVDllVHNueUlISmJhSmxEaWViMlJ2N2pGdlp0Zmp4a0RNY0lHMkZMWkJtLWl6SEVaTDg0dDJkRUN2TkE4T1cxTjRBbHVfYmVYNFpfTG95T0llenZLWWoyQnVvY2JRV2hZWXpiMF9GRllyZFotTnAzM2poWk1Ickw5R3hteFM5eTFSUHBValREalpXOGFyMk9MNVRibnhJY1VqUV9MUk5FLXc?oc=5",
-			"urlToImage": null,
-			"publishedAt": "2024-10-22T04:07:37Z",
-			"content": null
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "CNBC"
-			},
-			"author": "Michael Wayland",
-			"title": "GM raises 2024 earnings guidance after easily topping Wall Street's third-quarter expectations - CNBC",
-			"description": "GM's quarterly report comes just two weeks after an investor day in which the company indicated its earnings strength is expected to continue into next year.",
-			"url": "https://www.cnbc.com/2024/10/22/general-motors-gm-earnings-q3-2024.html",
-			"urlToImage": "https://image.cnbcfm.com/api/v1/image/108001105-1719948893362-gettyimages-2160309080-js2_3989_gzborur5.jpeg?v=1724959992&w=1920&h=1080",
-			"publishedAt": "2024-10-22T04:01:01Z",
-			"content": "DETROIT General Motors easily outperformed Wall Street's third-quarter earnings expectations, leading the Detroit automaker in raising key guidance targets for 2024.\r\nHere's how the company performed… [+3669 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "New York Post"
-			},
-			"author": "Victor Nava",
-			"title": "Kamala Harris town hall host Maria Shriver shuts down Michigan voter hoping to ask a question - New York Post ",
-			"description": "Social media users mocked the Harris town hall as a campaign “production” after Shriver’s comment went viral.",
-			"url": "https://nypost.com/2024/10/21/us-news/kamala-harris-town-hall-host-maria-shriver-shuts-down-michigan-voter-hoping-to-ask-the-vp-a-question-we-have-some-pre-determined-questions/",
-			"urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/kamala-harris-town-hall-host-92116149.jpg?quality=75&strip=all&w=1024",
-			"publishedAt": "2024-10-22T03:58:00Z",
-			"content": "Former California first lady and journalist Maria Shriver revealed that only pre-determined questions” were allowed to be asked of Vice President Kamala Harris at a Michigan town hall event on Monday… [+2310 chars]"
-		},
-		{
-			"source": {
-				"id": "the-washington-post",
-				"name": "The Washington Post"
-			},
-			"author": "Nicki Jhabvala",
-			"title": "Commanders are ‘hopeful’ Jayden Daniels can play Sunday after injury - The Washington Post",
-			"description": "Coach Dan Quinn said the rookie quarterback is ‘week-to-week,’ and the team will evaluate him in practice to see if he can suit up against the Chicago Bears.",
-			"url": "https://www.washingtonpost.com/sports/2024/10/21/jayden-daniels-status/",
-			"urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E3ETVQPUQDAKPYFQ4KD7SYW3KU_size-normalized.jpg&w=1440",
-			"publishedAt": "2024-10-22T03:43:20Z",
-			"content": "After undergoing further examination Monday, Washington Commanders quarterback Jayden Daniels is week-to-week with a rib injury he suffered a day earlier during the teams first offensive play in its … [+297 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "BBC News"
-			},
-			"author": null,
-			"title": "What leaked US assessment of Israeli plans to strike Iran shows - BBC.com",
-			"description": "US investigators are trying to find out how the highly classified intelligence documents were leaked online.",
-			"url": "https://www.bbc.com/news/articles/cz6w6p8x7p8o",
-			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e3aa/live/25f289c0-8fd6-11ef-8e6d-e3e64e16c628.jpg",
-			"publishedAt": "2024-10-22T03:38:54Z",
-			"content": "The wreckage of a missile in southern Israel, one of 180 that Iran launched at it on 1 October\r\nUS investigators are trying to find out how a pair of highly classified intelligence documents were lea… [+4455 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "NDTV News"
-			},
-			"author": null,
-			"title": "This US Start-Up's Entire Board Of Directors Resigned On The Same Day, CEO Says... - NDTV",
-			"description": "CEO Anne Wojcicki, who controls 49.75% of the voting rights, remains the sole board member of the San Francisco-based company.",
-			"url": "https://www.ndtv.com/feature/this-us-start-ups-entire-board-of-directors-resigned-on-the-same-day-ceo-says-6844075",
-			"urlToImage": "https://c.ndtvimg.com/2024-10/0ps4c64_anne-wojcicki_625x300_22_October_24.jpeg",
-			"publishedAt": "2024-10-22T03:27:09Z",
-			"content": "Ms Wojcicki and its board of directors had been at odds for months.\r\nIn a shocking move, the entire board of directors at a Francisco-based DNA testing company 23andMe resigned in September, followin… [+2957 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Variety"
-			},
-			"author": "Michaela Zee",
-			"title": "'Venom 3' First Reactions Praise Final Movie, Tom Hardy's Performance - Variety",
-			"description": "The first reactions for 'Venom: The Last Dance' are in, with members of the press calling the film a 'feast for the fans' and a 'fitting end' to the trilogy.",
-			"url": "https://variety.com/2024/film/news/venom-the-last-dance-first-reactions-tom-hardy-1236185752/",
-			"urlToImage": "https://variety.com/wp-content/uploads/2024/06/Venom-3.jpg?w=1000&h=563&crop=1",
-			"publishedAt": "2024-10-22T02:46:00Z",
-			"content": "The first reactions for “Venom: The Last Dance” are in, with members of the press calling the Sony Pictures film a “feast for the fans,” “monumental” and a “fitting end” to the trilogy.\r\nTom Hardy re… [+3903 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "[Removed]"
-			},
-			"author": null,
-			"title": "[Removed]",
-			"description": "[Removed]",
-			"url": "https://removed.com",
-			"urlToImage": null,
-			"publishedAt": "2024-10-22T01:57:00Z",
-			"content": "[Removed]"
-		},
-		{
-			"source": {
-				"id": "associated-press",
-				"name": "Associated Press"
-			},
-			"author": null,
-			"title": "Teen in custody after 5 found dead in shooting at home in Washington state, police say - The Associated Press",
-			"description": "Law officers have arrested a teenager in connection with the deaths of five people found fatally shot inside a home southeast of Seattle. Authorities say several 911 callers reported the shooting around 5 a.m. Monday in Fall City, Washington. The King County …",
-			"url": "https://apnews.com/article/fall-city-washington-5-killed-house-shooting-95c41498579ce16783746202e48c269b",
-			"urlToImage": "https://dims.apnews.com/dims4/default/d9c6dd0/2147483647/strip/true/crop/3600x2025+0+188/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F33%2F3c%2Ffc5e9812f3cc80304b3918685ed0%2F8a057221e5ef4de9a24d4555fac92aff",
-			"publishedAt": "2024-10-22T01:52:00Z",
-			"content": "FALL CITY, WASH. (AP) Law enforcement officials found five people killed in a shooting inside a home southeast of Seattle on Monday morning and took a teenager into custody, police said. \r\nSeveral pe… [+1574 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "BBC News"
-			},
-			"author": null,
-			"title": "S2 meteorite: What happened when a rock as big as London hit Earth? - BBC.com",
-			"description": "It was 200 times bigger than the one that wiped out the dinosaurs nearly three billion years later.",
-			"url": "https://www.bbc.com/news/articles/c4g4g455p8lo",
-			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/96b6/live/eeb3f650-8fc7-11ef-8e6d-e3e64e16c628.jpg",
-			"publishedAt": "2024-10-22T01:38:39Z",
-			"content": "The meteorite was 40-60km in diameter and left a crater 500km across\r\nA huge meteorite first discovered in 2014 caused a tsunami bigger than any in known human history and boiled the oceans, scientis… [+4604 chars]"
-		},
-		{
-			"source": {
-				"id": "cnn",
-				"name": "CNN"
-			},
-			"author": "Dakin Andone, Ed Lavandera, Cindy Von Quednow, Elizabeth Wolfe",
-			"title": "Texas lawmakers hear testimony supporting death row inmate Robert Roberson – but despite subpoena, he does not appear - CNN",
-			"description": "Death row inmate Robert Roberson will not appear Monday to testify before the Texas House Committee on Criminal Jurisprudence – in person or otherwise – despite a subpoena lawmakers issued last week that halted his execution for a crime he and his attorneys s…",
-			"url": "https://www.cnn.com/2024/10/21/us/robert-roberson-texas-execution-shaken-baby/index.html",
-			"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/dsc01315.jpg?c=16x9&q=w_800,c_fill",
-			"publishedAt": "2024-10-22T01:38:00Z",
-			"content": "Death row inmate Robert Roberson did not appear Monday to testify before the Texas House Committee on Criminal Jurisprudence in person or otherwise despite a subpoena lawmakers issued last week that … [+13322 chars]"
-		}
-	]
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Faris Tanyos",
+      "title": "Teen who allegedly shot 5 family members dead tried to blame brother, documents say - Yahoo! Voices",
+      "description": "The teen is accused of shooting his parents, two brothers and a sister in their home in Fall City, Washington, outside Seattle, according to court documents.",
+      "url": "https://www.cbsnews.com/news/fall-city-washington-teen-charged-murder-shooting-deaths-5-family-members-parents-siblings/?ftag=YHF4eb9d17",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_K384M1CPLKLVSH1KbZ3MQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/cbs_news_897/d73a89c2f7ce0462c36405ac21fc2708",
+      "publishedAt": "2024-10-25T06:29:06Z",
+      "content": "A 15-year-old boy was charged with murder Thursday in the shooting deaths of his parents and three of his siblings at a home in Fall City, Washington, according to court documents obtained by CBS New… [+3606 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Frank Schwab",
+      "title": "Vikings-Rams: Matthew Stafford's 4 TD passes doom Minnesota to its 2nd straight loss - Yahoo Sports",
+      "description": "The Rams, with Cooper Kupp and Puka Nacua back, looked like a new team. The Vikings have to wonder what their next step is.",
+      "url": "https://sports.yahoo.com/live/vikings-rams-matthew-staffords-4-td-passes-doom-minnesota-to-its-2nd-straight-loss-231529520.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/cL0mbbWJvW9w2QZLyEHokg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/b98a18d0-927c-11ef-9f7f-b8666fd2b2dd",
+      "publishedAt": "2024-10-25T05:45:00Z",
+      "content": "In five days, the Minnesota Vikings went from being at the top of the NFL world, along with the Kansas City Chiefs, to a two-game losing streak and questions everywhere.\r\nThe NFL moves fast. The Viki… [+7499 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Cindy VonQuednow, Dalia Faheid",
+      "title": "What’s next for the Menendez brothers as DA recommends their resentencing decades after their parents’ killing - CNN",
+      "description": "In July 1996, brothers Lyle and Erik Menendez were convicted of the murders of their parents and sentenced to life in prison without the possibility of parole.",
+      "url": "https://www.cnn.com/2024/10/25/us/erik-lyle-menendez-brothers-resentencing-whats-next/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1462355302.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-10-25T05:40:00Z",
+      "content": "More than three decades after Lyle and Erik Menendez were convicted of the murders of their parents and sentenced to life in prison without the possibility of parole, the brothers now see a path to t… [+8818 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Beth Reinhard, Alice Crites, Aaron Schaffer",
+      "title": "Former model says Trump groped her years ago in ‘twisted game’ with Jeffrey Epstein - The Washington Post",
+      "description": "Before joining the call with Kamala Harris supporters, Stacey Williams alluded to the alleged incident in Facebook posts and a documentary interview recorded two years ago.",
+      "url": "https://www.washingtonpost.com/politics/2024/10/24/trump-groping-allegations-stacey-williams-model/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-24-2024/t_cff1c2c6df734f45b457024a0af29504_name_THUMB_2.jpg&w=1440",
+      "publishedAt": "2024-10-25T04:34:00Z",
+      "content": "A former swimsuit model who is sharing newly detailed allegations that Donald Trump groped her in the early 90s had previously alluded to the incident in Facebook comments starting in 2020 and in an … [+389 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MLB.com"
+      },
+      "author": "Sweeny Murti",
+      "title": "Yanks, Dodgers legends dish on historic 1977, '78, '81 World Series showdowns - MLB.com",
+      "description": "Was this World Series matchup inevitable? That question hovered over the postseason from the beginning, and now we have our answer. The Yankees and Dodgers -- classic October rivals \\-\\- will meet in Game 1 Friday in Los Angeles, their first Fall Classic batt…",
+      "url": "https://www.mlb.com/news/dodgers-yankees-legends-discuss-classic-world-series-matchups",
+      "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/q6dgqhnkcluittdga5bf.jpg",
+      "publishedAt": "2024-10-25T04:03:50Z",
+      "content": "Was this World Series matchup inevitable? That question hovered over the postseason from the beginning, and now we have our answer. The Yankees and Dodgers -- classic October rivals -- will meet in G… [+6906 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Frances Vinall, Annabelle Timsit, John Hudson, Bryan Pietsch, Sammy Westfall, Steve Hendrix, Hajar Harb, Lior Soroka, Hazem Balousha, Mohamad El Chamaa",
+      "title": "Live Briefing: U.S. and Israel announce plan to resume Gaza cease-fire talks - The Washington Post",
+      "description": "U.S. and Israeli officials ae set for talks in Doha on a cease-fire and hostage deal, the U.S. secretary of state said. He announced $135 million in aid for Palestinians.",
+      "url": "https://www.washingtonpost.com/world/2024/10/24/israel-iran-war-news-gaza-hamas-lebanon/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HBKNQ63WCEAMGWKR6RXECUTSWM.JPG&w=1440",
+      "publishedAt": "2024-10-25T03:48:23Z",
+      "content": "DOHA, Qatar U.S. Secretary of State Antony Blinken said Thursday that the humanitarian crisis in northern Gaza required an urgent response, all the more so with winter approaching.\r\nHe made the comme… [+2863 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KHOU.com"
+      },
+      "author": "Matt Dougherty",
+      "title": "Vice President Kamala Harris lands in Houston ahead of campaign rally at Shell Energy Stadium - KHOU.com",
+      "description": "VP Kamala Harris is in town for a Get Out the Vote rally on Friday that will include music superstars Willie Nelson and Beyoncé at Shell Energy Stadium.",
+      "url": "https://www.khou.com/article/news/local/vice-president-kamala-harris-houston-campaign-rally/285-620d43ae-6c54-4316-a6af-32989e60889a",
+      "urlToImage": "https://media.khou.com/assets/KHOU/images/ed8ded0b-73cc-4593-a307-d0bc48b95348/20241025T032535/ed8ded0b-73cc-4593-a307-d0bc48b95348_1140x641.jpg",
+      "publishedAt": "2024-10-25T03:09:00Z",
+      "content": "HOUSTON Vice President Kamala Harris is officially in Houston.\r\nHer plane landed at Hobby Airport on Thursday night around 10 p.m.\r\nHarris is in town for a big Get Out the Vote rally on Friday that's… [+1818 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "'We can't change our history' on slave trade, says Keir Starmer - BBC.com",
+      "description": "The prime minister says the practice was \"abhorrent\" but does not commit to making reparation payments.",
+      "url": "https://www.bbc.com/news/articles/c238lje181ko",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/32c4/live/8ce9b560-9245-11ef-b3c2-754b6219680e.jpg",
+      "publishedAt": "2024-10-25T02:22:14Z",
+      "content": "The UK \"can't change our history\", Prime Minister Sir Keir Starmer has told the BBC when asked about paying reparations to countries impacted by the transatlantic slave trade.\r\nHis comments come afte… [+5300 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Priscilla Alvarez, Jeff Simon, Gregory Krieg",
+      "title": "Harris and Obama use first joint campaign event to rally voters in battleground Georgia - CNN",
+      "description": "Vice President Kamala Harris and former President Barack Obama used their first joint campaign appearance, on Thursday night in this Atlanta suburb, to issue parallel warnings about the dangers facing the country if Donald Trump is elected again to lead it.",
+      "url": "https://www.cnn.com/2024/10/24/politics/obama-harris-campaign-appearance-election/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24298862815433.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-10-25T02:09:00Z",
+      "content": "Vice President Kamala Harris and former President Barack Obama used their first joint campaign appearance, on Thursday night in this Atlanta suburb, to issue parallel warnings about the dangers facin… [+5025 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "US fast-food chains pull onions from menus after McDonald’s E coli outbreak - Al Jazeera English",
+      "description": "At least 49 people have fallen ill in 10 US states due to contaminated food, according to health authorities.",
+      "url": "https://www.aljazeera.com/economy/2024/10/25/us-fast-food-chains-pull-onions-after-mcdonalds-e-coli-outbreak",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/10/AP24282669920723-1729817075.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-10-25T01:46:51Z",
+      "content": "US fast-food chains including Burger King, KFC and Taco Bell have pulled fresh onions from some restaurants after an E coli outbreak linked to McDonalds Quarter Pounder sandwiches sickened dozens of … [+1341 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Whitney Vasquez",
+      "title": "Nicole Scherzinger was texting Liam Payne on the day he died: report - New York Post ",
+      "description": "“On the Wednesday when he died, she was still texting him that day.”",
+      "url": "https://nypost.com/2024/10/24/entertainment/nicole-scherzinger-was-texting-liam-payne-on-day-he-died-report/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/92320635.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-10-25T01:39:00Z",
+      "content": "Nicole Scherzinger was reportedly in touch with Liam Payne on Oct. 16, the same day he fatally plunged to his death.\r\nAccording to Andrew Lloyd Webber, who composed the music for her Broadway musical… [+3023 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Spaceflight Now"
+      },
+      "author": null,
+      "title": "Live coverage: NASA, SpaceX prepare for the splashdown of Crew-8 off the coast of Pensacola, Florida - Spaceflight Now",
+      "description": null,
+      "url": "https://spaceflightnow.com/2024/10/25/live-coverage-nasa-spacex-prepare-for-the-splashdown-of-crew-8-off-the-coast-of-pensacola-florida/",
+      "urlToImage": null,
+      "publishedAt": "2024-10-25T01:25:15Z",
+      "content": "Three U.S. astronauts and a Russian cosmonaut are closing in on their return to Earth after spending more than seven months in space.\r\nFollow our Space Station Operations live blog for updates."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-25T01:06:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-25T00:08:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Bruce Springsteen: I rarely see my bandmates - we've met enough - BBC.com",
+      "description": "The rock star on touring, his wife's cancer diagnosis and why he'll play \"until the wheels come off\".",
+      "url": "https://www.bbc.com/news/articles/c5y8yq19nm2o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e020/live/bc83b090-920a-11ef-8e6d-e3e64e16c628.jpg",
+      "publishedAt": "2024-10-25T00:06:06Z",
+      "content": "Bruce Springsteen on tough gigs and rock star poses\r\nThe louder you can talk, the better, because I've played rock and roll for 50 years.\r\nBruce Springsteen has just E Street Shuffled into the room. … [+9804 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Alexandra Canal",
+      "title": "Capri stock craters 46% after judge blocks $8.5 billion Tapestry deal - Yahoo Finance",
+      "description": "Shares of Capri Holdings plunged after a US judge blocked its pending $8.5 billion merger with Coach owner Tapestry.",
+      "url": "https://finance.yahoo.com/news/capri-stock-craters-46-after-judge-blocks-85-billion-tapestry-deal-211714499.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6nlZO1R2201Eea5pkc1VSA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/f67c27f0-721b-11ef-bbae-ba968a661cb6",
+      "publishedAt": "2024-10-24T23:34:51Z",
+      "content": "Capri Holdings (CPRI), the parent company of Michael Kors and Jimmy Choo, saw shares plunge around 45% in after-hours trading on Thursday after a US judge blocked its pending $8.5 billion merger with… [+2623 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Germain Lussier",
+      "title": "Let’s Talk About the Ending and End-Credits Scenes of Venom: The Last Dance - Gizmodo",
+      "description": "Tom Hardy, Juno Temple, and Chiwetel Ejiofor star in the latest Spider-Man spinoff sequel from Sony.",
+      "url": "https://gizmodo.com/venom-last-dance-ending-end-credits-tom-hardy-marvel-2000516314",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Venom-3-Tongue.jpg",
+      "publishedAt": "2024-10-24T22:40:49Z",
+      "content": "Venom: The Last Dance might be exactly that for this version of the characterbut, surely, Venom will live on. The film’s ending and end-credits scenes hint at where things might go in the future and,… [+2638 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Jonathan M. Gitlin",
+      "title": "Reborn Scout Motors—sub-$60k SUV and pickup on the way - Ars Technica",
+      "description": "Scout Motors, now owned by VW, showed off a new SUV and pickup, with battery electric and range-extended powertrain options.",
+      "url": "https://arstechnica.com/cars/2024/10/scout-motors-new-pickup-and-suv-evs-will-start-at-under-60000/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/Scout-Terra-and-Traveler-Concepts-1-scaled-e1729789684543-1152x648.jpg",
+      "publishedAt": "2024-10-24T22:30:16Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Ashleigh Jackson",
+      "title": "CDC updates COVID-19 vaccine recommendations for older adults - The Hill",
+      "description": "The Centers for Disease Control and Prevention is urging some people to get additional doses of the COVID-19 vaccine for stronger protection against the virus.",
+      "url": "https://thehill.com/homenews/4951879-cdc-updates-covid-19-vaccine-recommendations-for-older-adults/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/12/656a63f7936c58.42255869-e1729807238543.jpeg?w=1280",
+      "publishedAt": "2024-10-24T22:19:00Z",
+      "content": "Skip to content\r\n(NEXSTAR) — The Centers for Disease Control and Prevention is urging certain people to get additional doses of the COVID-19 vaccine for stronger protection against the virus. \r\nIn it… [+1604 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Ursula Perano",
+      "title": "Dems make last-minute push in Texas Senate race - POLITICO",
+      "description": "Democratic Rep. Colin Allred is getting some help in the final days of his challenge to Sen. Ted Cruz.",
+      "url": "https://www.politico.com/news/2024/10/24/texas-senate-allred-cruz-00185409",
+      "urlToImage": "https://static.politico.com/fe/73/12ad0d3d47128daaabc4987f7038/https-delivery-gettyimages.com/downloads/2179054362",
+      "publishedAt": "2024-10-24T22:17:13Z",
+      "content": "Recent polling showed Allred within striking distance of incumbent GOP Sen. Ted Cruz, leading some Democrats to sound the alarm that the national party could be missing a historic opportunity to flip… [+3787 chars]"
+    }
+  ]
 }

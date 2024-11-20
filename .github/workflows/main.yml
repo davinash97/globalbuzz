@@ -1,0 +1,91 @@
+name: Periodic JSON Update
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */3 * * *'  # Every 3 hours
+    - cron: '0 * * * *'     # Every hour
+
+permissions:
+  contents: write  # Allow write access to repository contents
+
+jobs:
+  update-all-json-every-3-hours:
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install Axios
+        run: npm install axios
+
+      - name: Update JSON Files Every 3 Hours
+        run: |
+          node script/fetch-all.js
+
+      - name: Commit changes for 3-hour JSONs to git-bot-spam branch
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Create and switch to the git-bot-spam branch if it doesn't exist
+          git fetch origin
+          git checkout -B git-bot-spam origin/git-bot-spam || git checkout -b git-bot-spam
+
+          # Add changes and commit if there are any
+          git add .
+          if ! git diff --cached --quiet; then  # Check if there are changes
+            git commit -m "Updated JSON files every 3 hours"
+            git push origin git-bot-spam
+          else
+            echo "No changes to commit."
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  update-headline-json-every-1-hour:
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install Axios
+        run: npm install axios
+
+      - name: Update Headline JSON File Every 1 Hour
+        run: |
+          node script/fetch-headline.js
+
+      - name: Commit changes for 1-hour JSON to git-bot-spam branch
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Create and switch to the git-bot-spam branch if it doesn't exist
+          git fetch origin
+          git checkout -B git-bot-spam origin/git-bot-spam || git checkout -b git-bot-spam
+
+          # Add changes and commit if there are any
+          git add .
+          if ! git diff --cached --quiet; then  # Check if there are changes
+            git commit -m "Updated Headline JSON file every 1 hour"
+            git push origin git-bot-spam
+          else
+            echo "No changes to commit."
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
