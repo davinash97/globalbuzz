@@ -15,7 +15,11 @@ async function fetchAndUpdate(file, keyword) {
 	const url = `https://newsapi.org/v2/everything?q=${keyword}&apiKey=${API_KEY}`;
 	
 	try {
-		const response = await axios.get(url);
+		const response = await axios.get(url, {
+			header: {
+				'Authorization': 'Bearer ${process.env.API_KEY}'
+			}
+		});
 		const data = response.data;
 
 		const filePath = path.join(__dirname, '..', file);

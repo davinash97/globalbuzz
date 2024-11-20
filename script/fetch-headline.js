@@ -10,7 +10,11 @@ async function fetchAndUpdate() {
 	const url = `https://newsapi.org/v2/top-headlines?country=us&apiKey=${API_KEY}`;
   
 	try {
-		const response = await axios.get(url);
+		const response = await axios.get(url, {
+			header: {
+				'Authorization': 'Bearer ${process.env.API_KEY}'
+			}
+		});
 		const data = response.data;
 
 		fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
