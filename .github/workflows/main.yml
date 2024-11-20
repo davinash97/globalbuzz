@@ -42,7 +42,7 @@ jobs:
           git checkout git-bot-spam
 
           # Merge the remote changes into the local branch
-          git merge origin/git-bot-spam --no-edit || echo "Merge conflicts detected, skipping commit"
+          git merge origin/git-bot-spam --no-edit || { echo "Merge conflict detected, skipping commit"; exit 1; }
 
           # Add all changes
           git add .
@@ -53,6 +53,7 @@ jobs:
             git push origin git-bot-spam
           else
             echo "No changes to commit."
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -88,7 +89,7 @@ jobs:
           git checkout git-bot-spam
 
           # Merge the remote changes into the local branch
-          git merge origin/git-bot-spam --no-edit || echo "Merge conflicts detected, skipping commit"
+          git merge origin/git-bot-spam --no-edit || { echo "Merge conflict detected, skipping commit"; exit 1; }
 
           # Add all changes
           git add .
@@ -99,5 +100,6 @@ jobs:
             git push origin git-bot-spam
           else
             echo "No changes to commit."
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
