@@ -1,6 +1,4 @@
 "use client";
-import Image from "next/image";
-import { useState } from "react";
 
 function truncateString(str, maxLength) {
   if (str.length > maxLength) {
@@ -36,8 +34,6 @@ export default function FilmStripChild({url, src, width, height, alt, heading}) 
           display: flex;
           flex: 0 0 auto;
           flex-direction: column;
-          // align-items: center;
-          // justify-content: center;
           width: calc(20% + 20vh);
           height: fit-content;
           transition: transform 250ms;

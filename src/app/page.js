@@ -2,7 +2,6 @@
 
 import { useEffect, useState } from "react";
 import FilmStripChild from "./components/FilmStrip_Child";
-import Headlines from "./components/Headlines";
 
 export default function Home() {
 
@@ -70,46 +69,6 @@ export default function Home() {
 
 		fetchData();
 	}, [])
-
-	// Headline
-	// const [headlines, setHeadline] = useState([]);
-
-	// useEffect(() => {
-	//   const fetchData = async () => {
-	//     const response = await fetch("/headline.json");
-	//     const data = await response.json();
-	//     setHeadline(data.articles);
-	//   };
-
-	//   fetchData();
-	// }, []);
-
-	// Business
-
-	// const [business, setBusiness] = useState([]);
-
-	// useEffect(() => {
-	//   const fetchData = async () => {
-	//     const response = await fetch("/business.json");
-	//     const data = await response.json();
-	//     setBusiness(data.articles);
-	//   };
-
-	//   fetchData();
-	// }, []);
-
-	// Finance
-	// const [finance, setFinance] = useState([]);
-
-	// useEffect(() => {
-	//   const fetchData = async () => {
-	//     const response = await fetch("/finance.json");
-	//     const data = await response.json();
-	//     setFinance(data.articles);
-	//   };
-
-	//   fetchData();
-	// }, []);
 
 	return (<>
 		<header className="fixed top-0 text-right w-screen bg-background" style={{zIndex: 3, paddingRight: "50px"}}>Global Buzz</header>
